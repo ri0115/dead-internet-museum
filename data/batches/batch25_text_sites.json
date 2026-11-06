@@ -1,0 +1,75 @@
+{
+  "batch": 25,
+  "base_master_count": 400,
+  "previous_staged_batch": 24,
+  "status": "staged_for_master_merge",
+  "added_count": 3,
+  "records": [
+    {
+      "id": "muunoo-local",
+      "name": "ムーノーローカル",
+      "start_year": 1999,
+      "start_date": "1999-01-11",
+      "end": "2001-08-19",
+      "end_precision": "day",
+      "end_type": "site_updates_ended",
+      "category": "個人ニュース・テキストサイト",
+      "summary": "1990年代末の個人ニュースサイトを代表する読み物・ニュース紹介サイト。",
+      "cultural_context": "サイト間の巡回や相互リンク、個人ニュースのスタイルに影響を与えた。",
+      "closure_note": "2001年8月19日に本編終了。ドメイン契約満了前に業務連絡の更新があり、サイト消滅日は別。",
+      "old_url": "http://www.muunoo.com/",
+      "source_urls": [
+        "https://ameblo.jp/yamatas/entry-10162133146.html",
+        "https://websitemap.sakura.ne.jp/webhistory.html"
+      ],
+      "source_status": "secondary_confirmed",
+      "wayback_calendar": "https://web.archive.org/web/*/http://www.muunoo.com/",
+      "wayback_snapshot_verified": false
+    },
+    {
+      "id": "tekikko",
+      "name": "テキッ娘。",
+      "start_year": 2003,
+      "start_date": "2003-01-05",
+      "end": "2003-08-12",
+      "end_precision": "day",
+      "end_type": "project_frozen_updates_ended",
+      "category": "バーチャルネットアイドル・テキストサイト",
+      "summary": "曜日ごとにキャラクターが登場するバーチャルネットアイドル形式の読み物サイト。",
+      "cultural_context": "VNIブームとテキストサイト文化が交差した企画。",
+      "closure_note": "2003年8月12日に企画凍結を告知。過去ログは残すと表明しており、サイトそのものの削除日ではない。",
+      "old_url": "http://www9.plala.or.jp/kamakura_yukky/vni/",
+      "source_urls": [
+        "https://websitemap.sakura.ne.jp/webhistory.html"
+      ],
+      "source_status": "contemporary_notice_reproduced_by_researcher",
+      "wayback_calendar": "https://web.archive.org/web/*/http://www9.plala.or.jp/kamakura_yukky/vni/",
+      "wayback_snapshot_verified": false
+    },
+    {
+      "id": "nikki-ken",
+      "name": "日記圏",
+      "start_year": 1999,
+      "start_date": "1999-02-06",
+      "end": null,
+      "end_precision": "month_range",
+      "end_window": {
+        "earliest": "2005-05",
+        "latest": "2005-06"
+      },
+      "end_type": "site_disappeared",
+      "category": "日記リンク・テキストサイト",
+      "summary": "個人Web日記の更新情報を集めて閲覧するリンク集。",
+      "cultural_context": "最終登録規模約13,000サイトとする研究資料があり、ブログ以前の日記巡回の基盤だった。",
+      "closure_note": "2005年5〜6月ごろ消滅。確定日不明のため日付を補わない。",
+      "old_url": "http://www.age.ne.jp/x/rentaro/nikken",
+      "source_urls": [
+        "https://websitemap.sakura.ne.jp/monograph/monograph09.html",
+        "https://q.hatena.ne.jp/1120142325"
+      ],
+      "source_status": "retrospective_research_plus_contemporary_user_report",
+      "wayback_calendar": "https://web.archive.org/web/*/http://www.age.ne.jp/x/rentaro/nikken",
+      "wayback_snapshot_verified": false
+    }
+  ]
+}

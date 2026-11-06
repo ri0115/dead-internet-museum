@@ -1,0 +1,27 @@
+name: Audit Wayback snapshots
+on:
+  workflow_dispatch:
+    inputs:
+      offset:
+        description: "Start at this position among unverified archive links"
+        required: true
+        default: "0"
+      limit:
+        description: "Number of sites to inspect (max recommended 40)"
+        required: true
+        default: "40"
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Query CDX archive metadata
+        run: python3 scripts/audit_wayback.py --offset "${{ inputs.offset }}" --limit "${{ inputs.limit }}"
+      - name: Download review CSV
+        uses: actions/upload-artifact@v4
+        with:
+          name: archive-audit-${{ inputs.offset }}
+          path: archive-audit.csv

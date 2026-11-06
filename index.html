@@ -238,11 +238,7 @@ tmInit();
 (function(){
   const counter=document.getElementById('localVisitCount'),notice=document.getElementById('kiribanNotice');
   if(!counter||!notice)return;
-  let visits=1;
-  try{const prior=Number(localStorage.getItem('dim-local-visits-v1')||'0');visits=(Number.isSafeInteger(prior)&&prior>=0?prior:0)+1;localStorage.setItem('dim-local-visits-v1',String(visits));}catch(e){counter.title='保存できない環境では再訪問を記録しません';}
-  counter.textContent=String(visits).padStart(7,'0');
-  const isKiriban=visits===100||visits===500||(visits>=1000&&visits%1000===0);
-  if(isKiriban){notice.textContent='★ キリ番 '+visits+' GET！ おめでとうございます ★';notice.classList.add('kiriban-hit');}
+  counter.textContent='-------';counter.title='共有カウンター：Cloudflare APIの設定待ち';
   const mutual=document.getElementById('mutualLinkBanner');
   if(mutual){mutual.addEventListener('click',function(e){e.preventDefault();alert('★ 相互リンク募集中 ★\n懐かしのホームページ文化を再現した展示バナーです。現在リンク申請の受付は行っていません。');});}
 })();

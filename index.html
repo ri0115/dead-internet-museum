@@ -142,6 +142,31 @@ body{background-color:#d2d8e7;background-image:radial-gradient(#a4b2ce 1px,trans
 .bbs-panel button{margin-top:8px;background:#d9d9d9;border:2px outset #fff;padding:5px 12px;color:#172f80;font-weight:bold;cursor:pointer}.bbs-panel button:disabled{opacity:.6;cursor:wait}
 .bbs-post{padding:9px;margin:8px 0;background:#fffdf3;border:1px solid #a9a9a9;overflow-wrap:anywhere;white-space:pre-wrap}.bbs-post header{font-size:11px;color:#26478e;margin-bottom:5px}.bbs-post .bbs-reply{font-size:11px;color:#4b5e7a}.bbs-status{color:#8b2750;font-size:12px}
  .hero{grid-template-columns:minmax(0,1fr)}.site-info-bottom{margin:34px 0 15px;display:flex;justify-content:center}.site-info-bottom .side{width:min(100%,440px);background:#141e67;color:#fff9be;padding:20px 17px;border:3px ridge #abb2da;box-shadow:4px 4px 0 #d9ce9a;font:12px/2 "Courier New","MS Gothic",monospace}.site-info-bottom .side:before{content:"● SITE INFORMATION";display:block;color:#f9c55e;border-bottom:1px dotted #8290ea;padding-bottom:8px;margin-bottom:12px;font-weight:bold}.site-info-bottom .side:after{content:"[ Best viewed with curiosity ]";display:block;margin-top:14px;border-top:1px dotted #8290ea;padding-top:12px;font-size:10px;color:#c3dff0}
+
+/* Archive record dialog — Windows 95/98 desktop window */
+.overlay{background:rgba(5,15,45,.68);padding:18px 9px;align-items:center}
+.modal{max-width:760px;background:#c0c0c0;border:2px solid;border-color:#fff #404040 #404040 #fff;box-shadow:inset 1px 1px #dfdfdf,inset -1px -1px #808080,3px 3px 0 #151515,12px 15px 28px #0007;padding:3px;font-family:"MS Sans Serif","MS UI Gothic","MS PGothic",Tahoma,sans-serif}
+.modal:before{content:"▣  ARCHIVE RECORD  -  DEAD INTERNET MUSEUM";height:29px;line-height:29px;background:linear-gradient(90deg,#000080,#1084a6);color:#fff;font:bold 12px "MS UI Gothic",Tahoma,sans-serif;letter-spacing:0;padding:0 42px 0 9px;box-shadow:none}
+.close{top:6px;right:7px;width:23px;height:22px;line-height:17px;padding:0;background:#c0c0c0;color:#000;font:bold 19px Arial,sans-serif;border:2px solid;border-color:#fff #404040 #404040 #fff;box-shadow:inset 1px 1px #dfdfdf;cursor:pointer}
+.close:active{border-color:#404040 #fff #fff #404040;transform:translate(1px,1px)}
+.detail{background:#c0c0c0;padding:15px 16px 17px;color:#000}
+.detail h2{font-size:23px;line-height:1.25;color:#000080;text-decoration:none;margin:7px 0 14px;padding:7px 9px;background:#fff;border:2px inset #808080;font-weight:bold}
+.detail .lead{font-size:12px;color:#222;line-height:1.7}
+.detail .lifecard{background:#fff;border:2px inset #808080;box-shadow:none;border-radius:0;margin:12px 0;padding:13px}
+.detail .lifecard *{border-radius:0}
+.detail .lifecard .bigline{border-radius:0}
+.detail .facts{gap:6px;margin:12px 0;grid-template-columns:repeat(3,minmax(0,1fr))}
+.detail .facts div{background:#c0c0c0;border:2px solid;border-color:#808080 #fff #fff #808080;padding:9px 10px}
+.detail .facts small{color:#404040;font-size:11px}
+.detail .facts b{color:#000;font-size:12px}
+.detail h3{background:#000080;color:#fff;border:0;padding:5px 9px;margin:16px 0 0;font-size:12px;font-weight:bold}
+.detail h3+p{background:#fff;border:2px inset #808080;margin:0;padding:10px 11px;color:#111;font-size:12px;line-height:1.7;min-height:40px}
+.detail .memory{background:#fff;border:2px inset #808080;border-radius:0;padding:9px;color:#000;font-size:12px}
+.detail .links{background:#c0c0c0;padding:12px 0 6px;margin:4px 0;gap:8px}
+.detail .links a,.detail .links button{display:inline-block;text-decoration:none!important;background:#c0c0c0!important;color:#000080!important;border:2px solid!important;border-color:#fff #404040 #404040 #fff!important;border-radius:0!important;box-shadow:inset 1px 1px #dfdfdf!important;padding:7px 11px!important;font-size:12px!important;font-weight:bold;line-height:1.4}
+.detail .links a:active,.detail .links button:active{border-color:#404040 #fff #fff #404040!important}
+.detail .notice{border-top:1px solid #808080;box-shadow:0 -1px #fff;padding:9px 2px 0;color:#444;font-size:11px}
+@media(max-width:640px){.overlay{padding:7px}.modal{margin:auto 0}.modal:before{font-size:10px}.detail{padding:10px}.detail h2{font-size:20px}.detail .facts{grid-template-columns:1fr}.detail .facts div{padding:7px}.detail .links a,.detail .links button{font-size:11px!important}}
 </style></head><body data-api-base="https://dead-internet-museum-api.inaryu070.workers.dev"><div class="wrap" id="top"><div class="browserbar"><span class="drive">▣</span><strong>Dead Internet Museum - Archive Explorer [Offline HTML]</strong><span class="windowctrl" aria-hidden="true"><span>_</span><span>□</span><span>×</span></span></div>
 <div class="retro-ticker" aria-label="アーカイブのお知らせ"><span class="retro-ticker-label">★ NEW ★</span><div class="retro-ticker-track"><span class="retro-ticker-text">◆ WELCOME TO THE DEAD INTERNET MUSEUM ◆ 404 BUT FOUND. ◆ 消えたサイトの記憶を探す、インターネット・タイムマシン ◆ INTERNET TIME MACHINE ◆</span></div><span class="retro-ticker-star" aria-hidden="true">★</span></div>
 <div class="browsermenu"><span>ファイル(F)</span><span>編集(E)</span><span>表示(V)</span><span>お気に入り(A)</span><span>ヘルプ(H)</span></div>

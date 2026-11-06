@@ -7,15 +7,15 @@ on:
         required: true
         default: "0"
       limit:
-        description: "Number of sites to inspect (max recommended 40)"
+        description: "Number of sites to inspect (recommended 100)"
         required: true
-        default: "40"
+        default: "100"
 permissions:
   contents: read
 jobs:
   audit:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - name: Query CDX archive metadata

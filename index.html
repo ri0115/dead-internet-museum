@@ -80,10 +80,18 @@ body{background-color:#d2d8e7;background-image:radial-gradient(#a4b2ce 1px,trans
 .tm-chart button.active{background:#d46949;opacity:1;outline:1px solid #1c304b}
 .tm-chart button:hover{opacity:1;filter:brightness(.75)}
 @media(max-width:650px){.tm-tiles{grid-template-columns:repeat(3,minmax(0,1fr))}.tm-columns{grid-template-columns:1fr}.tm-head b{font-size:14px}.tm-controls input[type=range]{order:5;flex-basis:100%}.tm-year{font-size:25px}}
+
+/* Hero copy hierarchy: retain original retro theme and layout */
+.hero h1.hero-404{font:900 clamp(38px,5.1vw,68px)/1.12 'Courier New',monospace;letter-spacing:-.065em;margin:0 0 15px;color:#172879;overflow-wrap:anywhere}
+.hero h1.hero-404 span{color:#d82467}
+.hero h1.hero-404:after{margin-top:13px}
+.hero .hero-jp{font:700 clamp(16px,2.1vw,24px)/1.55 'MS Gothic',Meiryo,sans-serif;color:#172879;letter-spacing:-.035em;margin:0 0 14px}
+.hero .hero-jp span{color:#d82467}
+@media(max-width:640px){.hero h1.hero-404{font-size:clamp(32px,8vw,43px)}.hero .hero-jp{font-size:17px}}
 </style></head><body><div class="wrap" id="top"><div class="browserbar"><span class="drive">▣</span><strong>Dead Internet Museum - Archive Explorer [Offline HTML]</strong><span class="windowctrl" aria-hidden="true"><span>_</span><span>□</span><span>×</span></span></div>
 <div class="browsermenu"><span>ファイル(F)</span><span>編集(E)</span><span>表示(V)</span><span>お気に入り(A)</span><span>ヘルプ(H)</span></div>
 <div class="browsertools"><a href="#top" title="ページ先頭へ">⌂ ホーム</a><a href="#collection" title="一覧へ">☷ サイト一覧</a><a href="https://web.archive.org/" target="_blank" rel="noopener noreferrer">◉ 昔のサイトを探す</a><span class="address"><b>場所:</b> museum://dead-internet/index.html</span></div><header class="nav"><div class="brand">DEAD INTERNET <em>MUSEUM</em><span class="ver">/ 1.6 TIME MACHINE</span></div><div class="upper desktop">AN ARCHIVE OF DIGITAL EPHEMERA · EST. 2026</div></header>
-<section class="hero"><div><div class="upper">404 BUT FOUND.</div><h1>あのサイトは、もうない。<br><i>あの頃は、まだある。</i></h1><p>かつて夢中になったサイトも、毎日開いたサービスも。誕生と終了、その時代の記憶をたどる、インターネットの博物館。</p></div><div class="side">RESEARCH MASTER / 2026.11.06<br>本収録候補426件。資料・終了日の監査は継続中。保留候補と現存サイトは本一覧に含みません。</div></section>
+<section class="hero"><div><h1 class="hero-404">404 <span>BUT FOUND.</span></h1><div class="hero-jp">あのサイトは、もうない。<br><span>あの頃は、まだある。</span></div><p>かつて夢中になったサイトも、毎日開いたサービスも。誕生と終了、その時代の記憶をたどる、インターネットの博物館。</p></div><div class="side">RESEARCH MASTER / 2026.11.06<br>本収録候補426件。資料・終了日の監査は継続中。保留候補と現存サイトは本一覧に含みません。</div></section>
 <div class="retro-signboard"><div><span class="sprites" aria-hidden="true"><span class="pixel-ornament"></span><span class="pixel-ornament"></span></span>　<strong>WELCOME TO DEAD INTERNET MUSEUM!</strong>　<span class="siteblink">★ NEW RECORDS ★</span></div><div><span class="sprites">Since 2026 / HTML 4EVER</span>　<button type="button" class="btn effects-btn" id="effectsToggle" aria-pressed="true">点滅：ON</button></div></div>
 <div class="stats"><div class="stat"><small>INDEXED / 収録候補</small><strong id="total">—</strong></div><div class="stat"><small>OFFICIAL / 運営元資料</small><strong id="official">—</strong></div><div class="stat"><small>FOUND / 絞り込み結果</small><strong id="found">—</strong></div><div class="stat"><small>BOOKMARK / 保存済み</small><strong id="bookCount">—</strong></div></div>
 <section class="time-machine" id="timeMachine" aria-label="年代別タイムマシン">

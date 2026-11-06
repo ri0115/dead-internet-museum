@@ -111,7 +111,19 @@ body{background-color:#d2d8e7;background-image:radial-gradient(#a4b2ce 1px,trans
  .tm-panel h3{font-family:'MS Gothic',monospace;color:#152466;border-bottom:2px dotted #a2a2b3;padding-bottom:7px}
  .tm-foot{border-top:1px dashed #96999d;padding-top:10px}
 }
+
+/* v2.8: old-web motion accents; retain the existing layout */
+.retro-ticker{display:flex;align-items:center;gap:9px;overflow:hidden;background:#071b61;color:#fff5a0;border-bottom:3px ridge #d6d8eb;padding:4px 9px;font:700 12px 'MS Gothic',monospace;min-height:29px}
+.retro-ticker-label{flex:none;color:#ffeb47;background:#b31b43;border:2px outset #ff9bb1;padding:1px 6px;animation:dim-flash 2.2s steps(1,end) infinite}
+.retro-ticker-track{min-width:0;overflow:hidden;flex:1;white-space:nowrap}
+.retro-ticker-text{display:inline-block;padding-left:100%;animation:retro-scroll 22s linear infinite}
+.retro-ticker:hover .retro-ticker-text,.retro-ticker:focus-within .retro-ticker-text{animation-play-state:paused}
+.retro-ticker-star{color:#ffd54a;animation:dim-flash 3s steps(1,end) infinite}
+@keyframes retro-scroll{to{transform:translateX(-100%)}}
+@keyframes dim-flash{0%,100%{opacity:1}50%{opacity:.35}}
+@media(prefers-reduced-motion:reduce){.retro-ticker-text,.retro-ticker-label,.retro-ticker-star{animation:none!important}.retro-ticker-text{padding-left:0;white-space:normal}.retro-ticker-track{white-space:normal}}
 </style></head><body><div class="wrap" id="top"><div class="browserbar"><span class="drive">▣</span><strong>Dead Internet Museum - Archive Explorer [Offline HTML]</strong><span class="windowctrl" aria-hidden="true"><span>_</span><span>□</span><span>×</span></span></div>
+<div class="retro-ticker" aria-label="アーカイブのお知らせ"><span class="retro-ticker-label">★ NEW ★</span><div class="retro-ticker-track"><span class="retro-ticker-text">◆ WELCOME TO THE DEAD INTERNET MUSEUM ◆ 404 BUT FOUND. ◆ 消えたサイトの記憶を探す、インターネット・タイムマシン ◆ INTERNET TIME MACHINE ◆</span></div><span class="retro-ticker-star" aria-hidden="true">★</span></div>
 <div class="browsermenu"><span>ファイル(F)</span><span>編集(E)</span><span>表示(V)</span><span>お気に入り(A)</span><span>ヘルプ(H)</span></div>
 <div class="browsertools"><a href="#top" title="ページ先頭へ">⌂ ホーム</a><a href="#collection" title="一覧へ">☷ サイト一覧</a><a href="https://web.archive.org/" target="_blank" rel="noopener noreferrer">◉ 昔のサイトを探す</a><span class="address"><b>場所:</b> museum://dead-internet/index.html</span></div><header class="nav"><div class="brand">DEAD INTERNET <em>MUSEUM</em><span class="ver">/ 2.7 TIME MACHINE</span></div><div class="upper desktop">AN ARCHIVE OF DIGITAL EPHEMERA · EST. 2026</div></header>
 <section class="hero"><div><h1 class="hero-404">404 <span>BUT FOUND.</span></h1><p>かつて夢中になったサイトも、毎日開いたサービスも。誕生と終了、その時代の記憶をたどる、インターネットの博物館。</p></div><div class="side">RESEARCH MASTER / 2026.11.06<br>本収録候補453件。資料・終了日の監査は継続中。保留候補と現存サイトは本一覧に含みません。</div></section>

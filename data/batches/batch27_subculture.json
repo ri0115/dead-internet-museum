@@ -1,0 +1,99 @@
+{
+  "batch": 27,
+  "as_of": "2026-11-06",
+  "base_master_count": 400,
+  "prior_staged_batches": [
+    24,
+    25,
+    26
+  ],
+  "record_count": 4,
+  "merge_status": "staged_not_in_master",
+  "records": [
+    {
+      "id": "drawr",
+      "name": "drawr",
+      "start_year": 2008,
+      "start_month": "2008-10",
+      "end": "2019-12-02",
+      "end_precision": "day",
+      "end_type": "service_shutdown",
+      "genre": "サブカル・イラストSNS",
+      "summary": "Flash製の描画ツールから直接イラストを投稿するpixiv姉妹サービス。",
+      "context": "テキスト入力や消しゴム機能がないなどの制約が独自の創作文化を形成。",
+      "reason": "Flash終了とセキュリティリスクを理由に終了。",
+      "primary_sources": [
+        "https://archive.drawr.net/",
+        "https://inside.pixiv.blog/petamoriken/7388"
+      ],
+      "original_url": "https://drawr.net/",
+      "wayback_calendar": "https://web.archive.org/web/*/https://drawr.net/",
+      "wayback_snapshot_verified": false,
+      "source_quality": "operator_primary"
+    },
+    {
+      "id": "pixa",
+      "name": "PiXA",
+      "start_year": 2009,
+      "start_month": "2009-03",
+      "end": "2012-12-07",
+      "end_precision": "day",
+      "end_type": "service_shutdown",
+      "genre": "サブカル・イラストSNS",
+      "summary": "きらら作品のイラストコンテストなどを開催した画像投稿SNS。",
+      "context": "pixiv騒動の際にはTINAMIとともにクリエイターの移住先にもなった。",
+      "reason": "運営元のサービス終了告知を当時の報道が引用。",
+      "sources": [
+        "https://www.itmedia.co.jp/news/article/1212/07/1121207030/"
+      ],
+      "source_quality": "contemporary_report_of_operator_statement",
+      "wayback_snapshot_verified": false
+    },
+    {
+      "id": "filn",
+      "name": "Filn（フィルン）",
+      "start_year": 2005,
+      "start_date": "2005-11-19",
+      "end": "2010-11-06",
+      "end_precision": "day_secondary",
+      "end_type": "service_shutdown",
+      "genre": "サブカル・アキバ系SNS",
+      "summary": "アニメ・漫画・ゲーム・コスプレを対象とした無料SNS。マスコットキャラクターも展開。",
+      "context": "2006年7月時点で約2万6000人を運営会社が公表。終了直前のアクセス障害で閉鎖が延期された。",
+      "reason": "閉鎖告知の転載による2010年11月6日17時予定。実施時刻は未直接照合。",
+      "primary_sources": [
+        "https://www.value-press.com/pressrelease/15756"
+      ],
+      "sources": [
+        "https://internet.watch.impress.co.jp/static/yajiuma/2005/11/",
+        "https://blog.livedoor.jp/blm_danshaku/archives/51511928.html",
+        "https://www.itmedia.co.jp/news/article/1212/07/1121207030/"
+      ],
+      "original_url": "http://filn.jp/",
+      "wayback_calendar": "https://web.archive.org/web/*/http://filn.jp/",
+      "wayback_snapshot_verified": false,
+      "source_quality": "operator_start_and_secondary_shutdown"
+    },
+    {
+      "id": "cho-ag-plus",
+      "name": "超！A&G+",
+      "start_year": 2007,
+      "start_month": "2007-09",
+      "end": "2025-03-31",
+      "end_precision": "day",
+      "end_type": "channel_shutdown_with_program_migration",
+      "genre": "サブカル・ネットラジオ",
+      "summary": "アニメ・ゲーム・声優番組を配信した文化放送の長寿ネットラジオチャンネル。",
+      "context": "2007年にデジタルラジオのチャンネルとして始まり、2011年からネットラジオへ移行。",
+      "reason": "視聴環境の変化とリソース集中。一部番組は地上波またはQloveRへ移行。",
+      "primary_sources": [
+        "https://www.joqr.co.jp/ag/article/147066/"
+      ],
+      "sources": [
+        "https://game.watch.impress.co.jp/docs/news/1656263.html"
+      ],
+      "wayback_snapshot_verified": false,
+      "source_quality": "operator_primary"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="color-scheme" content="light"><title>DEAD INTERNET MUSEUM v2.7 — TIME MACHINE / 453</title>
+<!DOCTYPE html><html lang="ja"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="color-scheme" content="light"><title>DEAD INTERNET MUSEUM v2.9 — TIME MACHINE / 453</title>
 <style>
 
 :root{--desk:#056b68;--page:#f6f3e5;--panel:#f7f7f1;--navy:#111d78;--navy2:#203ca2;--link:#092cc2;--seen:#69439e;--border:#777c89;--ink:#1c242c;--gold:#f9d767;--hot:#f04578;--muted:#5b6474}
@@ -123,12 +123,24 @@ body{background-color:#d2d8e7;background-image:radial-gradient(#a4b2ce 1px,trans
 @keyframes dim-flash{0%,100%{opacity:1}50%{opacity:.35}}
 @media(prefers-reduced-motion:reduce){.retro-ticker-text,.retro-ticker-label,.retro-ticker-star{animation:none!important}.retro-ticker-text{padding-left:0;white-space:normal}.retro-ticker-track{white-space:normal}}
 .effects-off .retro-ticker-text,.effects-off .retro-ticker-label,.effects-off .retro-ticker-star{animation:none!important;opacity:1!important}.effects-off .retro-ticker-text{padding-left:0;white-space:normal}.effects-off .retro-ticker-track{white-space:normal}
+
+/* v2.9 nostalgic guest counter / kiriban / reciprocal links */
+.oldweb-guestbook{display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;padding:10px 12px;margin:8px 0 13px;background:#fffbe7;border:3px ridge #aaaec5;font:12px 'MS Gothic',monospace;text-align:center}
+.oldweb-guestbook .visitor-label{font-weight:bold;color:#1b2876}
+.oldweb-guestbook .visitor-digits{display:inline-block;background:#070e0b;color:#79ff83;border:3px inset #69766c;padding:3px 8px;font:700 23px/1.1 'Courier New',monospace;letter-spacing:3px;text-shadow:0 0 5px #40dd58}
+.oldweb-guestbook .guest-note{font-size:10px;color:#536070}
+.oldweb-guestbook .kiriban{color:#b31250;font-weight:bold}
+.oldweb-guestbook .mutual{color:#132a96;border:2px outset #f4d76b;background:#fff3a2;padding:3px 9px;font-weight:bold;text-decoration:none}
+.oldweb-guestbook .mutual:hover{background:#ffe064}
+.oldweb-guestbook .kiriban-hit{color:#b41243;animation:dim-flash 1.6s steps(1,end) 4}
+@media(prefers-reduced-motion:reduce){.oldweb-guestbook .kiriban-hit{animation:none}}
 </style></head><body><div class="wrap" id="top"><div class="browserbar"><span class="drive">▣</span><strong>Dead Internet Museum - Archive Explorer [Offline HTML]</strong><span class="windowctrl" aria-hidden="true"><span>_</span><span>□</span><span>×</span></span></div>
 <div class="retro-ticker" aria-label="アーカイブのお知らせ"><span class="retro-ticker-label">★ NEW ★</span><div class="retro-ticker-track"><span class="retro-ticker-text">◆ WELCOME TO THE DEAD INTERNET MUSEUM ◆ 404 BUT FOUND. ◆ 消えたサイトの記憶を探す、インターネット・タイムマシン ◆ INTERNET TIME MACHINE ◆</span></div><span class="retro-ticker-star" aria-hidden="true">★</span></div>
 <div class="browsermenu"><span>ファイル(F)</span><span>編集(E)</span><span>表示(V)</span><span>お気に入り(A)</span><span>ヘルプ(H)</span></div>
-<div class="browsertools"><a href="#top" title="ページ先頭へ">⌂ ホーム</a><a href="#collection" title="一覧へ">☷ サイト一覧</a><a href="https://web.archive.org/" target="_blank" rel="noopener noreferrer">◉ 昔のサイトを探す</a><span class="address"><b>場所:</b> museum://dead-internet/index.html</span></div><header class="nav"><div class="brand">DEAD INTERNET <em>MUSEUM</em><span class="ver">/ 2.7 TIME MACHINE</span></div><div class="upper desktop">AN ARCHIVE OF DIGITAL EPHEMERA · EST. 2026</div></header>
+<div class="browsertools"><a href="#top" title="ページ先頭へ">⌂ ホーム</a><a href="#collection" title="一覧へ">☷ サイト一覧</a><a href="https://web.archive.org/" target="_blank" rel="noopener noreferrer">◉ 昔のサイトを探す</a><span class="address"><b>場所:</b> museum://dead-internet/index.html</span></div><header class="nav"><div class="brand">DEAD INTERNET <em>MUSEUM</em><span class="ver">/ 2.9 TIME MACHINE</span></div><div class="upper desktop">AN ARCHIVE OF DIGITAL EPHEMERA · EST. 2026</div></header>
 <section class="hero"><div><h1 class="hero-404">404 <span>BUT FOUND.</span></h1><p>かつて夢中になったサイトも、毎日開いたサービスも。誕生と終了、その時代の記憶をたどる、インターネットの博物館。</p></div><div class="side">RESEARCH MASTER / 2026.11.06<br>本収録候補453件。資料・終了日の監査は継続中。保留候補と現存サイトは本一覧に含みません。</div></section>
 <div class="retro-signboard"><div><span class="sprites" aria-hidden="true"><span class="pixel-ornament"></span><span class="pixel-ornament"></span></span>　<strong>WELCOME TO DEAD INTERNET MUSEUM!</strong>　<span class="siteblink">★ NEW RECORDS ★</span></div><div><span class="sprites">Since 2026 / HTML 4EVER</span>　<button type="button" class="btn effects-btn" id="effectsToggle" aria-pressed="true">点滅：ON</button></div></div>
+<div class="oldweb-guestbook" aria-label="昔のホームページ風カウンター"><span class="visitor-label">★ あなたは</span><span class="visitor-digits" id="localVisitCount" aria-live="off">0000001</span><span class="visitor-label">番目の訪問です ★</span><span class="guest-note">※このブラウザ内の訪問回数です</span><span class="kiriban" id="kiribanNotice">キリ番：100 / 500 / 1000 / 以降1000ごと</span><a class="mutual" href="#archiveList" id="mutualLinkBanner">★ 相互リンク募集中 ★</a></div>
 <div class="stats"><div class="stat"><small>INDEXED / 収録候補</small><strong id="total">—</strong></div><div class="stat"><small>OFFICIAL / 運営元資料</small><strong id="official">—</strong></div><div class="stat"><small>FOUND / 絞り込み結果</small><strong id="found">—</strong></div><div class="stat"><small>BOOKMARK / 保存済み</small><strong id="bookCount">—</strong></div></div>
 <section class="time-machine" id="timeMachine" aria-label="年代別タイムマシン">
  <div class="tm-head"><div class="tm-head-copy"><b>▣ INTERNET TIME MACHINE</b><small>あの年に何が生まれ、何が消えたのか。</small></div><span class="tm-head-est">EST. 1986–2026</span><span class="tm-window-buttons" aria-hidden="true"><i>_</i><i>□</i><i>×</i></span></div>
@@ -214,4 +226,16 @@ function tmInit(){const sel=$('tmSelect');for(let y=TM_MIN;y<=TM_MAX;y++){const 
  $('tmPrev').addEventListener('click',()=>tmSetYear(tmYear-1));$('tmNext').addEventListener('click',()=>tmSetYear(tmYear+1));
  sel.addEventListener('change',()=>tmSetYear(sel.value));$('tmRange').addEventListener('input',()=>tmSetYear($('tmRange').value));tmSetYear(2019)}
 tmInit();
+</script><script>
+(function(){
+  const counter=document.getElementById('localVisitCount'),notice=document.getElementById('kiribanNotice');
+  if(!counter||!notice)return;
+  let visits=1;
+  try{const prior=Number(localStorage.getItem('dim-local-visits-v1')||'0');visits=(Number.isSafeInteger(prior)&&prior>=0?prior:0)+1;localStorage.setItem('dim-local-visits-v1',String(visits));}catch(e){counter.title='保存できない環境では再訪問を記録しません';}
+  counter.textContent=String(visits).padStart(7,'0');
+  const isKiriban=visits===100||visits===500||(visits>=1000&&visits%1000===0);
+  if(isKiriban){notice.textContent='★ キリ番 '+visits+' GET！ おめでとうございます ★';notice.classList.add('kiriban-hit');}
+  const mutual=document.getElementById('mutualLinkBanner');
+  if(mutual){mutual.addEventListener('click',function(e){e.preventDefault();alert('★ 相互リンク募集中 ★\n懐かしのホームページ文化を再現した展示バナーです。現在リンク申請の受付は行っていません。');});}
+})();
 </script></body></html>

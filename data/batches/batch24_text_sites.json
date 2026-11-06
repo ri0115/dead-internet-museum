@@ -1,0 +1,24 @@
+{
+  "batch": 24,
+  "base_master_count": 400,
+  "items": [
+    {
+      "id": "100shiki",
+      "name": "100SHIKI",
+      "start_year": 2000,
+      "end": "2018-08-31",
+      "date_precision": "day",
+      "genre": "個人ニュース・テキストサイト",
+      "summary": "海外のWebサービスを毎日紹介した老舗サイト。",
+      "reason": "運営者がドットインストールへ注力し記事更新を終了。",
+      "closure_scope": "content_updates_only",
+      "source_url": "https://internet.watch.impress.co.jp/docs/yajiuma/1141130.html",
+      "original_url": "https://www.100shiki.com/",
+      "archive_search_url": "https://web.archive.org/web/*/https://www.100shiki.com/",
+      "archive_validation": "not_checked",
+      "record_origin": "research_2026_11_06_batch24",
+      "editorial_status": "pending_merge",
+      "note": "サイト全体の閉鎖ではなく更新終了。次回マスター統合時に変更履歴を保持。"
+    }
+  ]
+}

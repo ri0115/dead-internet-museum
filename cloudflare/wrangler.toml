@@ -1,0 +1,12 @@
+name = "dead-internet-museum-api"
+main = "src/worker.js"
+compatibility_date = "2026-11-01"
+
+# After running 'wrangler d1 create dead-internet-museum', replace the placeholder below.
+[[d1_databases]]
+binding = "DB"
+database_name = "dead-internet-museum"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
+
+[vars]
+ALLOWED_ORIGIN = "https://ri0115.github.io"

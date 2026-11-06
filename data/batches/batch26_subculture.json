@@ -1,0 +1,103 @@
+{
+  "batch": 26,
+  "base_master_count": 400,
+  "previous_pending_batches": [
+    24,
+    25
+  ],
+  "new_candidates": [
+    {
+      "id": "bijin-tokei",
+      "name": "美人時計（bijin-tokei）",
+      "start_year": 2009,
+      "start_date": "2009-01-01",
+      "end": "2022-09-30",
+      "end_precision": "day",
+      "end_type": "service_ended",
+      "category": "サブカル・写真・時計",
+      "summary": "一般参加者が手書きの時刻ボードを持ち、写真が1分ごとに切り替わる話題のWeb時計。",
+      "cultural_context": "地域版、芸能・広告コラボ、iPhoneアプリなどへ拡張。2009年前後のガジェット／写真コンテンツ文化を代表。",
+      "source_urls": [
+        "https://www.bijint.com/chiba",
+        "https://imidas.jp/hotkeyword/detail/L-00-408-09-09-H016.html",
+        "https://news.livedoor.com/article/detail/24434859/"
+      ],
+      "evidence": "公式地域版ページのサービス終了表示と当時の報道。全地域版の日付同一性は再監査対象。",
+      "wayback_url": "https://web.archive.org/web/*/http://www.bijint.com/",
+      "snapshot_verified": false
+    },
+    {
+      "id": "dmm-blog",
+      "name": "DMMブログ（成人向け旧ブログ）",
+      "start_year": 2005,
+      "start_precision": "month_estimate_from_archived_entries",
+      "end": "2017-06-30",
+      "end_precision": "day",
+      "end_type": "service_ended",
+      "category": "成人向け旧サービス・ブログ",
+      "summary": "成人向け出演者などによる旧公式ブログを集めたサービス。",
+      "cultural_context": "成人向け配信事業とブログ・ファンコミュニティが結び付いていた時代の記録。",
+      "source_urls": [
+        "https://rip.so/dmm-blog.html"
+      ],
+      "evidence": "終了時の告知を引用したアーカイブ調査。原サイトの保存スナップショットは未直接検証。開設年は保存記事から推定。",
+      "wayback_url": "https://web.archive.org/web/*/http://blog.dmm.co.jp/",
+      "snapshot_verified": false
+    },
+    {
+      "id": "r18-com",
+      "name": "R18.com（海外向け旧配信サイト）",
+      "start_year": 2013,
+      "start_precision": "year",
+      "end": "2023-01-31",
+      "end_precision": "day",
+      "end_type": "service_ended",
+      "category": "成人向け旧サービス・動画配信",
+      "summary": "日本企業が運営した海外向け成人コンテンツ配信サイト。",
+      "cultural_context": "日本発コンテンツを海外へ提供するWeb配信の歴史を示す例。",
+      "source_urls": [
+        "https://www.xbiz.com/news/268929/japanese-jav-site-r18-com-to-shut-down",
+        "https://blog.javmuseum.com/blog/r18-dot-com-closure/"
+      ],
+      "evidence": "2022年告知の終了予定は2023-01-31。完全閉鎖の実施日は追加照合を要するため、予定日と確認実績を区別する。",
+      "wayback_url": "https://web.archive.org/web/*/https://www.r18.com/",
+      "snapshot_verified": false
+    }
+  ],
+  "held_candidates": [
+    {
+      "name": "美女暦",
+      "start_year": 2008,
+      "why_held": "一次資料で提供を確認、終了日を確認できていない。",
+      "sources": [
+        "https://www.value-press.com/pressrelease/47832",
+        "https://www.value-press.com/pressrelease/40396"
+      ]
+    },
+    {
+      "name": "美男時計",
+      "start_year": 2009,
+      "why_held": "2009-11-02提供開始の運営元プレスリリースあり、終了未確認。",
+      "sources": [
+        "https://www.dreamnews.jp/press/0000010696"
+      ]
+    },
+    {
+      "name": "ギャル時計",
+      "start_year": 2009,
+      "why_held": "2009-12-03のプレスリリースで提供確認、終了未確認。",
+      "sources": [
+        "https://www.dreamnews.jp/press/0000010684"
+      ]
+    },
+    {
+      "name": "俺得時計",
+      "start_year": 2011,
+      "why_held": "2011-12時点の紹介記事あり、終了未確認。",
+      "sources": [
+        "https://gigazine.net/news/20111207-ore-toku-clock/"
+      ]
+    }
+  ],
+  "merged": false
+}

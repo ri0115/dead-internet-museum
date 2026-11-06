@@ -149,7 +149,7 @@ body{background-color:#d2d8e7;background-image:radial-gradient(#a4b2ce 1px,trans
 <div class="retro-signboard"><div><span class="sprites" aria-hidden="true"><span class="pixel-ornament"></span><span class="pixel-ornament"></span></span>　<strong>WELCOME TO DEAD INTERNET MUSEUM!</strong>　<span class="siteblink">★ NEW RECORDS ★</span></div><div><span class="sprites">Since 2026 / HTML 4EVER</span>　<button type="button" class="btn effects-btn" id="effectsToggle" aria-pressed="true">点滅：ON</button></div></div>
 <div class="oldweb-guestbook" aria-label="昔のホームページ風カウンター"><span class="visitor-label">★ あなたは</span><span class="visitor-digits" id="localVisitCount" aria-live="off">0000001</span><span class="visitor-label">番目の訪問です ★</span><span class="guest-note">※このブラウザ内の訪問回数です</span><span class="kiriban" id="kiribanNotice">キリ番：100 / 500 / 1000 / 以降1000ごと</span><a class="mutual" href="#archiveList" id="mutualLinkBanner">★ 相互リンク募集中 ★</a></div>
 <div class="stats"><div class="stat"><small>INDEXED / 収録候補</small><strong id="total">—</strong></div><div class="stat"><small>OFFICIAL / 運営元資料</small><strong id="official">—</strong></div><div class="stat"><small>FOUND / 絞り込み結果</small><strong id="found">—</strong></div><div class="stat"><small>BOOKMARK / 保存済み</small><strong id="bookCount">—</strong></div></div>
-<section class="bbs-panel" id="bbs" aria-labelledby="bbsTitle"><h2 id="bbsTitle">★ なつかしの BBS ★</h2><p class="bbs-meta">名前を入れて書き込んでね！　※匿名投稿・管理人が不適切な投稿を非表示にする場合があります。</p><p class="bbs-status" id="bbsStatus">掲示板は準備中です（サーバー未接続）。</p><form id="bbsForm"><label for="bbsName">おなまえ</label><input id="bbsName" maxlength="24" placeholder="名無しさん" required><label for="bbsMessage">メッセージ（500文字以内）</label><textarea id="bbsMessage" maxlength="500" required></textarea><button type="submit" id="bbsSubmit" disabled>書き込む</button></form><div id="bbsPosts" aria-live="polite"></div></section>
+<div class="bbs-entry" style="margin:12px 0;text-align:center;border:3px ridge #9a9da6;background:#efeee7;padding:12px"><a href="./bbs.html" style="display:inline-block;background:#151d68;color:#fff566;border:3px outset #ddd;padding:9px 22px;font:bold 18px monospace;text-decoration:none">★ 掲示板（BBS）へ GO!! ★</a><small style="display:block;color:#444;margin-top:6px">匿名・ニックネームで書き込めます</small></div>
 <section class="time-machine" id="timeMachine" aria-label="年代別タイムマシン">
  <div class="tm-head"><div class="tm-head-copy"><b>▣ INTERNET TIME MACHINE</b><small>あの年に何が生まれ、何が消えたのか。</small></div><span class="tm-head-est">EST. 1986–2026</span><span class="tm-window-buttons" aria-hidden="true"><i>_</i><i>□</i><i>×</i></span></div>
  <div class="tm-body"><div class="tm-controls"><button type="button" class="btn" id="tmPrev" aria-label="前年へ">◀</button><div><div class="tm-year" id="tmYear">2019</div><div class="tm-era" id="tmEra">令和元年</div></div><button type="button" class="btn" id="tmNext" aria-label="翌年へ">▶</button><label for="tmSelect">YEAR</label><select id="tmSelect" aria-label="年を選択"></select><input type="range" id="tmRange" min="1986" max="2026" value="2019" aria-label="年スライダー"></div>
@@ -243,36 +243,5 @@ tmInit();
   if(mutual){mutual.addEventListener('click',function(e){e.preventDefault();alert('★ 相互リンク募集中 ★\n懐かしのホームページ文化を再現した展示バナーです。現在リンク申請の受付は行っていません。');});}
 })();
 </script><script>
-(function(){
- const base=(document.body.dataset.apiBase||"").replace(/\/$/,""),counter=document.getElementById("localVisitCount"),notice=document.getElementById("kiribanNotice");
- const status=document.getElementById("bbsStatus"),posts=document.getElementById("bbsPosts"),form=document.getElementById("bbsForm"),send=document.getElementById("bbsSubmit");
- if(!base){if(counter)counter.title="仮カウンター：Cloudflare APIの設定待ち";return;}
- const api=(path,options={})=>fetch(base+path,{...options,headers:{"Content-Type":"application/json",...(options.headers||{})}});
- // Shared count: one counted visit per browser/network fingerprint per UTC day.
- api("/api/visits",{method:"POST"}).then(r=>{if(!r.ok)throw Error("counter");return r.json()}).then(d=>{
-   if(counter&&Number.isFinite(d.count)){counter.textContent=String(d.count).padStart(7,"0");counter.title="共有訪問カウンター（概算・1日1回の重複抑制）";}
-   if(d.counted&&(d.count===100||d.count===500||(d.count>=1000&&d.count%1000===0))&&notice){notice.textContent="★ キリ番 "+d.count+" GET！ ★";notice.classList.add("kiriban-hit");}
- }).catch(()=>{if(counter)counter.title="共有カウンターに接続できません";});
- async function load(){
-  const r=await api("/api/posts?limit=30");if(!r.ok)throw Error("posts");const d=await r.json();
-  posts.replaceChildren();
-  for(const p of d.posts||[]){
-   const item=document.createElement("article");item.className="bbs-post";
-   const head=document.createElement("header");head.textContent="#"+p.id+"　"+p.nickname+"　"+new Date(p.created_at).toLocaleString("ja-JP");
-   const body=document.createElement("div");body.textContent=p.message;item.append(head,body);
-   if(p.parent_id){const reply=document.createElement("div");reply.className="bbs-reply";reply.textContent=">>"+p.parent_id+" への返信";item.append(reply);}
-   posts.append(item);
-  }
-  status.textContent="掲示板 OPEN！　最新"+(d.posts||[]).length+"件を表示中";
- }
- load().then(()=>{send.disabled=false}).catch(()=>{status.textContent="掲示板に接続できません。しばらくしてから再度お試しください。";});
- form.addEventListener("submit",async e=>{
-  e.preventDefault();send.disabled=true;status.textContent="送信中…";
-  try{
-   const r=await api("/api/posts",{method:"POST",body:JSON.stringify({nickname:document.getElementById("bbsName").value,message:document.getElementById("bbsMessage").value})});
-   const d=await r.json();if(!r.ok)throw Error(d.error||"投稿できませんでした");
-   document.getElementById("bbsMessage").value="";await load();
-  }catch(err){status.textContent=err.message||"通信エラー";}finally{send.disabled=false;}
- });
-})();
+(function(){const base="https://dead-internet-museum-api.inaryu070.workers.dev",counter=document.getElementById("localVisitCount"),notice=document.getElementById("kiribanNotice");fetch(base+"/api/visits",{method:"POST"}).then(r=>{if(!r.ok)throw Error("counter");return r.json()}).then(d=>{if(counter&&Number.isFinite(d.count)){counter.textContent=String(d.count).padStart(7,"0");counter.title="共有訪問カウンター（1日単位の重複抑制）";}if(d.counted&&(d.count===100||d.count===500||(d.count>=1000&&d.count%1000===0))&&notice){notice.textContent="★ キリ番 "+d.count+" GET！ ★";notice.classList.add("kiriban-hit");}}).catch(()=>{if(counter)counter.title="共有カウンターに接続できません";});})();
 </script></body></html>

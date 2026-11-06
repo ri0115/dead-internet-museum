@@ -187,6 +187,15 @@ body{background-color:#d2d8e7;background-image:radial-gradient(#a4b2ce 1px,trans
 <div class="oldweb-guestbook" aria-label="昔のホームページ風カウンター"><span class="visitor-label">★ あなたは</span><span class="visitor-digits" id="localVisitCount" aria-live="off">0000001</span><span class="visitor-label">番目の訪問です ★</span><span class="kiriban" id="kiribanNotice">キリ番：100 / 500 / 1000 / 以降1000ごと</span><a class="mutual" href="#archiveList" id="mutualLinkBanner">★ 相互リンク募集中 ★</a></div>
 <div class="stats"><div class="stat"><small>INDEXED / 収録候補</small><strong id="total">—</strong></div><div class="stat"><small>OFFICIAL / 運営元資料</small><strong id="official">—</strong></div><div class="stat"><small>FOUND / 絞り込み結果</small><strong id="found">—</strong></div><div class="stat"><small>BOOKMARK / 保存済み</small><strong id="bookCount">—</strong></div></div>
 <div class="bbs-entry" style="margin:12px 0;text-align:center;border:3px ridge #9a9da6;background:#efeee7;padding:12px"><a href="./bbs.html" style="display:inline-block;background:#151d68;color:#fff566;border:3px outset #ddd;padding:9px 22px;font:bold 18px monospace;text-decoration:none">★ 掲示板（BBS）へ GO!! ★</a><small style="display:block;color:#444;margin-top:6px">匿名・ニックネームで書き込めます</small></div>
+<section class="time-machine" id="timeMachine" aria-label="年代別タイムマシン">
+ <div class="tm-head"><div class="tm-head-copy"><b>▣ INTERNET TIME MACHINE</b><small>あの年に何が生まれ、何が消えたのか。</small></div><span class="tm-head-est">EST. 1986–2026</span><span class="tm-window-buttons" aria-hidden="true"><i>_</i><i>□</i><i>×</i></span></div>
+ <div class="tm-body"><div class="tm-controls"><button type="button" class="btn" id="tmPrev" aria-label="前年へ">◀</button><div><div class="tm-year" id="tmYear">2019</div><div class="tm-era" id="tmEra">令和元年</div></div><button type="button" class="btn" id="tmNext" aria-label="翌年へ">▶</button><label for="tmSelect">YEAR</label><select id="tmSelect" aria-label="年を選択"></select><input type="range" id="tmRange" min="1986" max="2026" value="2019" aria-label="年スライダー"></div>
+ <div class="tm-chart" id="tmChart" aria-label="年別終了件数グラフ"></div>
+ <div class="tm-tiles"><div class="tm-tile"><small>✦ BORN / 誕生</small><strong id="tmBornN">0</strong></div><div class="tm-tile"><small>✝ DIED / 終了</small><strong id="tmDiedN">0</strong></div><div class="tm-tile"><small>◈ ALIVE / 存続中</small><strong id="tmAliveN">0</strong></div></div>
+ <div class="tm-columns"><div class="tm-panel"><h3>✦ この年に誕生 <span id="tmBirthCount"></span></h3><div id="tmBirthList"></div></div><div class="tm-panel deaths"><h3>✝ この年に終了 <span id="tmDeathCount"></span></h3><div id="tmDeathList"></div></div></div>
+ <p class="tm-foot">「存続中」は選択年に存在したと確認できる収録レコード数（その年に誕生・終了したものも含む）です。開始年未確認は誕生数・存続数に算入しません。終了年未確認は存続数に算入しません。完全終了・ブランド移行・一部機能終了を含む展示レコードの集計であり、全インターネットサービスの総数ではありません。</p></div>
+</section>
+
 <div class="noticebar"><span class="dot">■</span> UPDATE 2026.11.06 — 453件収録・各サービスの詳細画面から当時の保存記録を探索できます。<span class="siteblink">NEW!</span></div><div class="filters"><input id="search" type="search" placeholder="サービス名・キーワードを検索" aria-label="検索"><select id="genre" aria-label="ジャンル"><option value="">すべてのジャンル</option></select><select id="period" aria-label="終了年代"><option value="">終了年代：すべて</option><option value="1990">1990年代</option><option value="2000">2000年代</option><option value="2010">2010年代</option><option value="2020">2020年代</option><option value="unknown">終了日未特定</option></select><select id="eraFilter" aria-label="元号をまたいだ期間"><option value="">元号：すべて</option><option value="showa">昭和に存在</option><option value="heisei">平成に存在</option><option value="reiwa">令和に存在</option><option value="heisei-reiwa">平成→令和を跨ぐ</option><option value="showa-heisei">昭和→平成を跨ぐ</option><option value="unknown">生誕年不明</option></select><select id="scope" aria-label="終了範囲"><option value="">終了範囲：すべて</option><option value="full">本体の終了</option><option value="partial">旧版・一部のみ</option></select><select id="sort" aria-label="並び順"><option value="desc">終了日：新しい順</option><option value="asc">終了日：古い順</option><option value="name">名前順</option><option value="lifelong">存続期間：長い順</option><option value="startAsc">誕生年：古い順</option></select><button class="btn" id="bookOnly">☆ 保存済み</button><button class="btn" id="clear">条件をクリア</button><button class="btn" id="export">JSONを保存</button></div>
 <div class="line" id="collection"><div><h2>THE COLLECTION <small id="counter"></small></h2><small>各サービスを選択すると生涯年表・終了理由・出典・過去へのタイムトラベル入口を表示</small></div><div class="yearrow">★ 1995 — 2010 / JAPAN OLD WEB ★</div></div>
 <div class="list" id="items"></div><button id="more" class="btn more" hidden>さらに表示</button>
@@ -241,7 +250,28 @@ $('export').onclick=()=>{const blob=new Blob([JSON.stringify({title:'DEAD INTERN
 
 render();
 
-
+// Year Machine — operate on the same catalog and detail modal.
+const TM_MIN=1986, TM_MAX=2026;
+let tmYear=2019;
+const tmBirths=y=>D.filter(r=>validYear(r.start)===y);
+const tmDeaths=y=>D.filter(r=>endYear(r)===y);
+const tmPresent=y=>D.filter(r=>{const s=validYear(r.start),e=endYear(r);return s!==null&&e!==null&&s<=y&&y<=e});
+function tmItem(r,mode){const dateText=mode==='born'?(r.start+'年（開始日未確認）'):date(r);return '<button type="button" class="tm-result" data-tmid="'+esc(r.id)+'"><strong>'+esc(r.name)+'</strong><small>'+esc(dateText)+' · '+esc(r.genre)+' · '+esc(r.scope==='entire_service'?'サービス終了':r.scope==='legacy_as_authored'?'終了区分再監査中':r.scope==='rebrand_or_successor'?'ブランド移行':(r.scope||'終了形態要確認'))+'</small></button>'}
+function tmList(id,records,mode){const container=$(id);container.innerHTML=records.length?records.sort((a,b)=>a.name.localeCompare(b.name,'ja')).map(r=>tmItem(r,mode)).join(''):'<p class="tm-muted">該当する収録レコードはありません。</p>';for(const btn of container.querySelectorAll('[data-tmid]'))btn.addEventListener('click',()=>openDetail(btn.dataset.tmid));}
+function tmSetYear(input){const y=Number(input);if(!Number.isInteger(y)||y<TM_MIN||y>TM_MAX)return;tmYear=y;const born=tmBirths(y),dead=tmDeaths(y),alive=tmPresent(y);
+ $('tmYear').textContent=y;$('tmEra').textContent=firstEra(y);$('tmSelect').value=String(y);$('tmRange').value=String(y);
+ $('tmPrev').disabled=y===TM_MIN;$('tmNext').disabled=y===TM_MAX;
+ $('tmBornN').textContent=born.length;$('tmDiedN').textContent=dead.length;$('tmAliveN').textContent=alive.length;
+ $('tmBirthCount').textContent=born.length+'件';$('tmDeathCount').textContent=dead.length+'件';tmList('tmBirthList',born,'born');tmList('tmDeathList',dead,'died');
+ for(const bar of $('tmChart').children){const chosen=Number(bar.dataset.year)===y;bar.classList.toggle('active',chosen);bar.setAttribute('aria-pressed',String(chosen));}
+}
+function tmInit(){const sel=$('tmSelect');for(let y=TM_MIN;y<=TM_MAX;y++){const option=document.createElement('option');option.value=String(y);option.textContent=y+'年';sel.appendChild(option)}
+ const max=Math.max(1,...Array.from({length:TM_MAX-TM_MIN+1},(_,i)=>tmDeaths(TM_MIN+i).length));
+ $('tmChart').innerHTML=Array.from({length:TM_MAX-TM_MIN+1},(_,i)=>{const y=TM_MIN+i,count=tmDeaths(y).length;return '<button type="button" data-year="'+y+'" style="--h:'+Math.max(5,Math.round(count/max*100))+'%" title="'+y+'年：終了'+count+'件" aria-label="'+y+'年 終了'+count+'件" aria-pressed="false"></button>'}).join('');
+ for(const bar of $('tmChart').children)bar.addEventListener('click',()=>tmSetYear(bar.dataset.year));
+ $('tmPrev').addEventListener('click',()=>tmSetYear(tmYear-1));$('tmNext').addEventListener('click',()=>tmSetYear(tmYear+1));
+ sel.addEventListener('change',()=>tmSetYear(sel.value));$('tmRange').addEventListener('input',()=>tmSetYear($('tmRange').value));tmSetYear(2019)}
+tmInit();
 </script><script>
 (function(){
   const counter=document.getElementById('localVisitCount'),notice=document.getElementById('kiribanNotice');

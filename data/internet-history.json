@@ -6464,7 +6464,7 @@
       "category": "ネット文化・保存",
       "region": "日本",
       "summary": "Flashを使った日本語ウェブサイトを集めたアーカイブが紹介され、かつての個人サイト文化を保存する試みが注目された。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
-      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202503.html",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2000107.html",
       "sourceType": "contemporary_reporting",
       "importance": 5
     },
@@ -6563,7 +6563,7 @@
       "category": "サービスの終焉",
       "region": "日本",
       "summary": "約30年の歴史を持つCGIプログラム配布サイトが、2026年3月末の終了予定を発表したと報じられた。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
-      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202512.html",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2068185.html",
       "sourceType": "contemporary_reporting",
       "importance": 5
     },
@@ -6585,7 +6585,95 @@
       "category": "サービスの終焉",
       "region": "日本",
       "summary": "2024年12月27日の年末回顧記事で、Vectorホームページサービスの2024年12月20日終了が紹介された。記事掲載日を記録。",
-      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202412.html",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/1651152.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-history-78-01",
+      "date": "2024-01-23",
+      "title": "スラド、23年の歴史に幕を下ろす方針を公表",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "2001年にスラッシュドットジャパンとして始まった掲示板「スラド」の終了方針が報じられた。後に方針変更があったため、実際の閉鎖日ではなく当時の報道日。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/1562739.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-78-02",
+      "date": "2024-07-15",
+      "title": "書評サイトHONZが開設13周年の日に更新終了",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "2011年7月15日に開設されたノンフィクション書評サイトHONZが、13年後の同日に更新を終了。記事は翌16日。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/1608425.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-78-03",
+      "date": "2024-07-18",
+      "title": "Vectorのホームページサービス終了予定が報じられる",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "フリーソフト作者の個人ホームページを支えたVectorの無料スペースが2024年12月20日に終了すると報道された。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/1609184.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-78-04",
+      "date": "2025-03-17",
+      "title": "掲示板サイト「スラド」、閉鎖撤回後に再び終了を発表",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "一度は閉鎖を撤回した「スラド」が、2025年3月末での終了を発表したと報じられた。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/1670693.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-78-05",
+      "date": "2025-04-14",
+      "title": "無料ホームページサービス「FC2WEB」が終了予定を発表",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "日本の個人サイト文化を支えた無料ホームページスペース「FC2WEB」が2025年6月末での終了を予告した。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2006384.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-78-06",
+      "date": "2025-04-15",
+      "title": "「教えて！goo」の終了と「goo blog」の終了発表が報じられる",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "国産Q&Aサイト「教えて！goo」の終了とブログサービス「goo blog」の終了発表が報道された。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2006719.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-78-07",
+      "date": "2025-10-27",
+      "title": "国産ポータルサイト「goo」が約29年の歴史に幕",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "1997年に誕生したポータルサイトgooの終了が報じられた。記事掲載日を記録。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2058081.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-78-08",
+      "date": "2025-12-17",
+      "title": "ドリームキャストのウェブブラウザーでGoogleに接続できなくなる",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "セガのドリームキャスト向けブラウザーからGoogleにアクセスできなくなったことが報じられた。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2071923.html",
       "sourceType": "contemporary_reporting",
       "importance": 4
     }
@@ -6593,6 +6681,6 @@
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 293
+    "currentDistinctMonthDays": 296
   }
 }

@@ -7446,11 +7446,22 @@
       "source": "https://www.apple.com/newsroom/2006/01/10Apple-Unveils-New-iMac-with-Intel-Core-Duo-Processor/",
       "sourceType": "operator",
       "importance": 4
+    },
+    {
+      "id": "app-tld-general-registration-2018-05-08",
+      "date": "2018-05-08",
+      "title": "「.app」ドメインの一般登録が開始",
+      "category": "ウェブ技術",
+      "region": "世界",
+      "summary": "Google Registryが提供するHTTPS必須のトップレベルドメイン「.app」の一般登録が始まった。5月1日の発表・先行登録とは区別。",
+      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-app-more-secure-home-apps-web/",
+      "sourceType": "operator",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 308
+    "currentDistinctMonthDays": 309
   }
 }

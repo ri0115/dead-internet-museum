@@ -4014,11 +4014,88 @@
       "source": "https://about.fb.com/ja/company.info/",
       "sourceType": "operator",
       "importance": 5
+    },
+    {
+      "id": "chrome-stable-2008",
+      "date": "2008-12-12",
+      "title": "Google Chrome正式版が公開",
+      "category": "ブラウザ",
+      "region": "世界",
+      "summary": "Google Chromeのベータ表記が外れ正式版が公開された。",
+      "source": "https://blog.google/intl/ja-jp/products/android-chrome-play/2008_12_google-chrome-beta/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "youtube-mobile-live-announced-2016",
+      "date": "2016-06-23",
+      "title": "YouTubeがモバイルライブ配信機能を発表",
+      "category": "動画・ネット文化",
+      "region": "世界",
+      "summary": "YouTubeが公式アプリからのライブ配信機能を発表。初期は一部クリエイターに提供。",
+      "source": "https://blog.youtube/news-and-events/well-do-it-livea-new-chapter-in/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "youtube-mobile-live-superchat-2017",
+      "date": "2017-02-07",
+      "title": "YouTubeがモバイルライブ配信の拡大とSuper Chatを発表",
+      "category": "動画・ネット文化",
+      "region": "世界",
+      "summary": "モバイルライブ配信の対象拡大と視聴者による有料メッセージ機能Super Chatを発表。",
+      "source": "https://blog.youtube/news-and-events/mobile-live-streaming-super-chat-live/",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "instagram-shopping-japan-2018",
+      "date": "2018-06-05",
+      "title": "Instagramショッピング機能が日本で導入開始",
+      "category": "SNS",
+      "region": "日本",
+      "summary": "Instagramが日本で商品タグを使ったショッピング機能を導入。SNSとECの結びつきが強まった。",
+      "source": "https://about.fb.com/ja/news/2018/06/instagram_shopping/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "instagram-igtv-2018",
+      "date": "2018-06-20",
+      "title": "Instagramが縦型長尺動画アプリIGTVを発表",
+      "category": "SNS",
+      "region": "世界",
+      "summary": "Instagramが縦型の長尺動画を扱うIGTVを米国時間で発表した。",
+      "source": "https://about.fb.com/ja/news/2018/06/instagram_igtv/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "youtube-shorts-global-expansion-2021",
+      "date": "2021-07-12",
+      "title": "YouTube Shortsの世界100か国以上への展開を発表",
+      "category": "動画・ネット文化",
+      "region": "世界",
+      "summary": "YouTubeがShortsベータ版を100か国以上に順次展開すると発表。",
+      "source": "https://blog.google/intl/en-africa/company-news/technology/youtube-shorts-arrives-in-sub-saharan/",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "instagram-video-igtv-merge-2021",
+      "date": "2021-10-05",
+      "title": "Instagramがフィード動画とIGTVの統合を発表",
+      "category": "SNS",
+      "region": "世界",
+      "summary": "Instagramがフィード動画とIGTV動画を統合する方針を米国時間で発表した。",
+      "source": "https://about.fb.com/ja/news/2021/10/instagramvideoconsolidation/amp/",
+      "sourceType": "operator",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 218
+    "currentDistinctMonthDays": 219
   }
 }

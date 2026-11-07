@@ -3469,11 +3469,63 @@
       "importance": 4,
       "originalDateType": "reported_site_opening",
       "verificationStatus": "secondary_chronology_needs_original_log_check"
+    },
+    {
+      "id": "logic-paradise-1999",
+      "date": "1999-01-21",
+      "title": "テキストサイト「ろじっくぱらだいす」開設",
+      "category": "個人サイト・テキストサイト",
+      "region": "日本",
+      "summary": "長寿の個人テキストサイト『ろじっくぱらだいす』が開設。後年のNIKKI SONICやテキストサイトサミット、紅白日記合戦にも参加した。",
+      "source": "https://sakuraba-text.hatenadiary.org/entry/20090718/1247910728",
+      "sourceType": "historical_participant_site_opening_survey",
+      "importance": 5,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only_needs_primary_archive"
+    },
+    {
+      "id": "bokuno-mita-chitsujo-2001",
+      "date": "2001-06-30",
+      "title": "「僕の見た秩序。」開設",
+      "category": "個人サイト・テキストサイト",
+      "region": "日本",
+      "summary": "写真・文章・ネタ企画で知られる個人サイト『僕の見た秩序。』が開設。後に紅白日記合戦にも参加した。",
+      "source": "https://sakuraba-text.hatenadiary.org/entry/20090718/1247910728",
+      "sourceType": "historical_participant_site_opening_survey",
+      "importance": 5,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only_needs_primary_archive"
+    },
+    {
+      "id": "plastic-2001",
+      "date": "2001-09-09",
+      "title": "テキストサイト「プラッチック」開設",
+      "category": "個人サイト・テキストサイト",
+      "region": "日本",
+      "summary": "2000年代のテキストサイト文化を代表する『プラッチック』が開設。NIKKI SONICやRNRC、紅白日記合戦などに参加した。",
+      "source": "https://sakuraba-text.hatenadiary.org/entry/20090718/1247910728",
+      "sourceType": "historical_participant_site_opening_survey",
+      "importance": 4,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only_needs_primary_archive"
+    },
+    {
+      "id": "ichiryu-homepage-1999",
+      "date": "1999-02-03",
+      "title": "「一流ホームページ」開設",
+      "category": "個人サイト・テキストサイト",
+      "region": "日本",
+      "summary": "個人テキストサイト『一流ホームページ』が開設。NIKKI SONICやテキストサイトサミットなど、多数の共同企画に参加した。",
+      "source": "https://sakuraba-text.hatenadiary.org/entry/20090718/1247910728",
+      "sourceType": "historical_participant_site_opening_survey",
+      "importance": 4,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only_needs_primary_archive"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Distinct month-day coverage, not source-verified completeness. Secondary chronologies flagged for primary-source audit; no HTML update.",
-    "currentDistinctMonthDays": 206
+    "policy": "Exact-day site-opening dates from historical participant survey, secondary-only flagged. Events NIKKI SONIC, RNRC, Text Site Summit and Kohaku Nikki Gassen only month-dated, not inserted as exact-day anniversaries. No HTML update.",
+    "currentDistinctMonthDays": 207
   }
 }

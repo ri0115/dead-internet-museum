@@ -8579,6 +8579,72 @@
       "source": "https://logtube.jp/entertainment/53251/",
       "sourceType": "retrospective_reporting",
       "importance": 5
+    },
+    {
+      "id": "hajime-channel-open-2012-08-31",
+      "date": "2012-08-31",
+      "title": "はじめしゃちょーが現在のメインYouTubeチャンネルを開設",
+      "category": "YouTube・クリエイター史",
+      "region": "日本",
+      "summary": "『はじめしゃちょー（hajime）』チャンネルの開設日。本人の動画活動自体は以前の『はじめカンパニー』にもさかのぼるため、YouTube初活動日とは断定しない。",
+      "source": "https://www.uuum.co.jp/news/74215",
+      "sourceType": "agency_primary",
+      "importance": 5
+    },
+    {
+      "id": "hajime-ten-million-2021-12-23",
+      "date": "2021-12-23",
+      "title": "はじめしゃちょーがチャンネル登録者1000万人を突破",
+      "category": "プラットフォーム内バズ・YouTube",
+      "region": "日本",
+      "summary": "UUUMが2021年12月23日にメインチャンネルの登録者1000万人突破を発表。2012年8月の開設から約9年4か月で達成。",
+      "source": "https://www.uuum.co.jp/news/74215",
+      "sourceType": "agency_primary",
+      "importance": 5
+    },
+    {
+      "id": "hajime-ten-billion-2023-09-04",
+      "date": "2023-09-04",
+      "title": "はじめしゃちょーの累計動画再生回数が100億回を突破",
+      "category": "プラットフォーム内バズ・YouTube",
+      "region": "日本",
+      "summary": "UUUMがメインチャンネル累計100億再生突破を公表した日。正確な到達時刻ではなく公式発表日として収録。",
+      "source": "https://www.uuum.co.jp/news/106660",
+      "sourceType": "agency_primary",
+      "importance": 4
+    },
+    {
+      "id": "tokai-channel-open-2013-10-12",
+      "date": "2013-10-12",
+      "title": "東海オンエアがYouTubeチャンネルを開設",
+      "category": "YouTube・クリエイター史",
+      "region": "日本",
+      "summary": "愛知県岡崎市を拠点とするグループ『東海オンエア』のチャンネル開設日。結成記念日として扱われ、初動画投稿の10月15日とは区別する。",
+      "source": "https://ip.appbank.net/ip/to_onair1012",
+      "sourceType": "channel_metadata_secondary",
+      "importance": 5
+    },
+    {
+      "id": "tokai-first-upload-2013-10-15",
+      "date": "2013-10-15",
+      "title": "東海オンエアがYouTubeに最初の動画を投稿",
+      "category": "YouTube・クリエイター史",
+      "region": "日本",
+      "summary": "東海オンエアの初投稿としてファン編集の年表などに記録される日付。10月12日のチャンネル開設とは別。一次動画の照合余地があるため出典区分を明記。",
+      "source": "https://wikiwiki.jp/tokaionair/%E5%B9%B4%E8%A1%A8",
+      "sourceType": "fan_chronology",
+      "importance": 5
+    },
+    {
+      "id": "fishers-eight-million-2023-04-25",
+      "date": "2023-04-25",
+      "title": "フィッシャーズがYouTube登録者800万人を突破",
+      "category": "プラットフォーム内バズ・YouTube",
+      "region": "日本",
+      "summary": "UUUMが2023年4月26日に、前日4月25日の登録者800万人突破を発表。2010年に中学の同級生による動画投稿から始まり、2012年8月から現在のメインチャンネルで活動している。",
+      "source": "https://www.uuum.co.jp/news/98979",
+      "sourceType": "agency_primary",
+      "importance": 4
     }
   ],
   "coverage": {

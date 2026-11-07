@@ -7941,6 +7941,28 @@
       "source": "https://www.itmedia.co.jp/news/article/0802/25/1080225030/",
       "sourceType": "contemporary_reporting",
       "importance": 4
+    },
+    {
+      "id": "umauma-idolmaster-breakthrough-2008-02-01",
+      "date": "2008-02-01",
+      "title": "アイマス版「ウマウマ」動画が投稿、日本でのブームの火付け役に",
+      "category": "ネットミーム・MAD",
+      "region": "日本",
+      "summary": "ニコニコ動画にアイドルマスターのキャラクターを使ったCaramelldansenの手描きMAD（sm2190589）が投稿。海外由来のダンス動画が日本で大量のキャラクター改変・手描きMADに発展する契機となった。",
+      "source": "https://egfortp.blogspot.com/2008/03/",
+      "sourceType": "contemporary_fan_documentation",
+      "importance": 5
+    },
+    {
+      "id": "umauma-jcast-report-2008-03-08",
+      "date": "2008-03-08",
+      "title": "「ウマウマ」関連動画、ニコニコで約1,700件と報道",
+      "category": "ネットミーム・報道",
+      "region": "日本",
+      "summary": "J-CASTニュースが『腰クネクネ謎のダンス 「ウマウマ」大流行の兆し』を公開。ニコニコ動画に約1,700件、YouTubeに約400件の関連動画があったと報じ、日本での広がりを当時の数字で確認できる。",
+      "source": "https://www.j-cast.com/2008/03/08017442.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
     }
   ],
   "coverage": {

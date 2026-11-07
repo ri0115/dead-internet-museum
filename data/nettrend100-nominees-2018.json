@@ -1,0 +1,720 @@
+{
+  "year": 2018,
+  "source": "https://www.pixivision.net/ja/a/4062",
+  "sourcePublisher": "pixivision / pixiv",
+  "selection": "2018-01-01 through 2018-11-15 combined page access",
+  "nomineesCount": 100,
+  "updated": "2026-11-07",
+  "matchMethod": "Normalized title substring heuristic only; possible_match is NOT verified coverage",
+  "status": "full_nominee_list_transcribed; human review pending",
+  "nominees": [
+    {
+      "index": 1,
+      "term": "アイドルマスターシンデレラガールズ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 2,
+      "term": "赤井秀一",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 3,
+      "term": "アズールレーン",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 4,
+      "term": "アビゲイル・ウィリアムズ(Fate)",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 5,
+      "term": "安室透",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 6,
+      "term": "Undertale",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 7,
+      "term": "アンリマユ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 8,
+      "term": "無限の剣",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 9,
+      "term": "イキリ骨太郎",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 10,
+      "term": "石動惣一",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 11,
+      "term": "インフィニットオルフェンズ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 12,
+      "term": "ウミガメのスープ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 13,
+      "term": "うんこちゃん",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 14,
+      "term": "ASMR",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 15,
+      "term": "SCP_Foundation",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 16,
+      "term": "エボルト",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 17,
+      "term": "衛宮切嗣",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 18,
+      "term": "衛宮士郎",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 19,
+      "term": "大迫半端ないって",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 20,
+      "term": "音割れポッター",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 21,
+      "term": "オメガバース",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 22,
+      "term": "オルガ・イツカ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 23,
+      "term": "輝夜月",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 24,
+      "term": "金木研",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 25,
+      "term": "仮面ライダージオウ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 26,
+      "term": "仮面ライダービルド",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 27,
+      "term": "キズナアイ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 28,
+      "term": "機動戦士ガンダム 鉄血のオルフェンズ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 29,
+      "term": "桐生戦兎",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 30,
+      "term": "ギルガメッシュ(Fate)",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 31,
+      "term": "銀魂",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 32,
+      "term": "クッパ姫",
+      "status": "possible_match",
+      "matchedEventIds": [
+        "internet-meme-source-20261107-03"
+      ],
+      "reviewed": false
+    },
+    {
+      "index": 33,
+      "term": "SSSS.GRIDMAN",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 34,
+      "term": "黒い任天堂",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 35,
+      "term": "公式が病気",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 36,
+      "term": "ゴールデンカムイ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 37,
+      "term": "ゴブリンスレイヤー",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 38,
+      "term": "Sans",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 39,
+      "term": "シャーロット・カタクリ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 40,
+      "term": "シャーロット・リンリン",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 41,
+      "term": "週刊少年ジャンプ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 42,
+      "term": "新条アカネ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 43,
+      "term": "人造人間21号",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 44,
+      "term": "水素の音",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 45,
+      "term": "スコッチ(名探偵コナン)",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 46,
+      "term": "セイバー(Fate/staynight)",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 47,
+      "term": "ソロモン72柱",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 48,
+      "term": "ダーリン・イン・ザ・フランキス",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 49,
+      "term": "大乱闘スマッシュブラザーズSPECIAL",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 50,
+      "term": "宝多六花",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 51,
+      "term": "檀黎斗",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 52,
+      "term": "月ノ美兎",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 53,
+      "term": "デッドプール",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 54,
+      "term": "電脳少女シロ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 55,
+      "term": "東方Project",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 56,
+      "term": "トガヒミコ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 57,
+      "term": "Doki Doki Literature Club!",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 58,
+      "term": ".LIVE",
+      "status": "possible_match",
+      "matchedEventIds": [
+        "meta-2015-12-03-10"
+      ],
+      "reviewed": false
+    },
+    {
+      "index": 59,
+      "term": "轟焦凍",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 60,
+      "term": "止まるんじゃねぇぞ…",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 61,
+      "term": "トラファルガー・ロー",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 62,
+      "term": "ドン勝",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 63,
+      "term": "にじさんじ",
+      "status": "possible_match",
+      "matchedEventIds": [
+        "salome-vtuber-debut-2022-05-21"
+      ],
+      "reviewed": false
+    },
+    {
+      "index": 64,
+      "term": "のらきゃっと",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 65,
+      "term": "ばあちゃる",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 66,
+      "term": "バーチャルのじゃロリ狐娘Youtuberおじさん",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 67,
+      "term": "バーチャルYouTuber",
+      "status": "possible_match",
+      "matchedEventIds": [
+        "tiyu12-vtuber-2018"
+      ],
+      "reviewed": false
+    },
+    {
+      "index": 68,
+      "term": "爆豪勝己",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 69,
+      "term": "HUGっと!プリキュア",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 70,
+      "term": "はたらく細胞",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 71,
+      "term": "万丈龍我",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 72,
+      "term": "BB(Fate)",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 73,
+      "term": "ヒーロー科",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 74,
+      "term": "ヒプノシスマイク",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 75,
+      "term": "氷室幻徳",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 76,
+      "term": "ビリー・ヘリントン",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 77,
+      "term": "Fate/GrandOrder",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 78,
+      "term": "藤丸立香",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 79,
+      "term": "降谷零",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 80,
+      "term": "ブローノ・ブチャラティ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 81,
+      "term": "ブロリー",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 82,
+      "term": "ペニーワイズ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 83,
+      "term": "ペニーワイズがオススメするシリーズ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 84,
+      "term": "ヘルシェイク矢野",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 85,
+      "term": "ペルソナ5",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 86,
+      "term": "僕のヒーローアカデミア",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 87,
+      "term": "星のカービィ スターアライズ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 88,
+      "term": "ポプテピピック",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 89,
+      "term": "ボブネミミッミ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 90,
+      "term": "松田陣平",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 91,
+      "term": "○○の主役は我々だ!",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 92,
+      "term": "身勝手の極意",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 93,
+      "term": "緑谷出久",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 94,
+      "term": "ミライアカリ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 95,
+      "term": "みんなのトラウマ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 96,
+      "term": "メンヘラ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 97,
+      "term": "遊☆戯☆王ヴレインズ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 98,
+      "term": "ルールー・アムール",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 99,
+      "term": "ルールー(プリキュア)",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 100,
+      "term": "ONEPIECE",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    }
+  ]
+}

@@ -587,11 +587,264 @@
       "source": "https://www.nic.ad.jp/timeline/#199625",
       "sourceType": "historical_timeline",
       "importance": 4
+    },
+    {
+      "id": "jpnic-timeline-1996-07-31-0",
+      "date": "1996-07-31",
+      "title": "JPドメイン登録数が1万件を突破",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "JPドメイン名の登録数が1万件に達した。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1996-08-08-1",
+      "date": "1996-08-08",
+      "title": "コンピュータ不正アクセス対策基準を制定",
+      "category": "セキュリティ",
+      "region": "日本",
+      "summary": "通商産業省が不正アクセス対策の基準を制定した。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1997-02-13-2",
+      "date": "1997-02-13",
+      "title": "JANOGメーリングリスト開設",
+      "category": "ネットワーク文化",
+      "region": "日本",
+      "summary": "国内ネットワーク運用者コミュニティJANOGのメーリングリストが開設された。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1997-02-28-3",
+      "date": "1997-02-28",
+      "title": "gTLD-MoU公開",
+      "category": "ドメイン",
+      "region": "世界",
+      "summary": "ドメイン管理体制の見直しを目指すgTLD-MoUが公表された。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1997-03-31-4",
+      "date": "1997-03-31",
+      "title": "JPNICが社団法人化",
+      "category": "ネットワーク基盤",
+      "region": "日本",
+      "summary": "JPNICが法人格を取得し、インターネット資源管理体制を強化した。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1997-04-01-5",
+      "date": "1997-04-01",
+      "title": "PHSのPIAFSデータ通信サービス開始",
+      "category": "モバイル通信",
+      "region": "日本",
+      "summary": "国内PHS事業者がPIAFSによるデータ通信サービスを開始した。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1997-06-03-6",
+      "date": "1997-06-03",
+      "title": "APANが運用開始",
+      "category": "ネットワーク基盤",
+      "region": "アジア太平洋",
+      "summary": "アジア太平洋の研究・教育ネットワークAPANが運用を開始した。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1997-07-25-7",
+      "date": "1997-07-25",
+      "title": "JANOG正式設立",
+      "category": "ネットワーク文化",
+      "region": "日本",
+      "summary": "日本のネットワーク運用者コミュニティJANOGが正式に設立された。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1997-08-07-8",
+      "date": "1997-08-07",
+      "title": "JPNICがAS番号割り当てを開始",
+      "category": "ネットワーク基盤",
+      "region": "日本",
+      "summary": "国内AS番号割り当て業務がJEPG/IPからJPNICに移管された。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1997-08-23-9",
+      "date": "1997-08-23",
+      "title": "日本でMルートサーバの運用開始",
+      "category": "ネットワーク基盤",
+      "region": "日本",
+      "summary": "WIDEプロジェクトが東京でMルートDNSサーバの運用を開始した。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1997-09-15-10",
+      "date": "1997-09-15",
+      "title": "Google検索が登場",
+      "category": "検索",
+      "region": "世界",
+      "summary": "Google検索の初期公開に関するJPNIC年表上の日付。法人設立日とは区別する。",
+      "source": "https://www.nic.ad.jp/timeline/#199717",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1997-09-24-11",
+      "date": "1997-09-24",
+      "title": "Ultima Online発売",
+      "category": "オンラインゲーム",
+      "region": "世界",
+      "summary": "初期の大規模オンラインRPGとして影響を与えたUltima Onlineが発売された。",
+      "source": "https://www.nic.ad.jp/timeline/#199718",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1997-12-01-12",
+      "date": "1997-12-01",
+      "title": "GR.JPドメイン新設",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "法人格を持たない団体向けのGRドメイン名が新設された。",
+      "source": "https://www.nic.ad.jp/timeline/#199721",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1997-12-16-13",
+      "date": "1997-12-16",
+      "title": "第1回Internet Week開催",
+      "category": "ネットワーク文化",
+      "region": "日本",
+      "summary": "日本のネットワーク技術者向けイベントInternet Weekが開催された。",
+      "source": "https://www.nic.ad.jp/timeline/#199722",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1997-12-22-14",
+      "date": "1997-12-22",
+      "title": "国際公専公接続が自由化",
+      "category": "ネットワーク政策",
+      "region": "日本",
+      "summary": "国際公専公接続の自由化が実施された。",
+      "source": "https://www.nic.ad.jp/timeline/#199723",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1998-03-01-15",
+      "date": "1998-03-01",
+      "title": "ドメイン名登録等に関する規則施行",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "JPNICのドメイン名登録に関する規則が施行された。",
+      "source": "https://www.nic.ad.jp/timeline/#199803",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1998-11-25-16",
+      "date": "1998-11-25",
+      "title": "ICANNと米商務省が覚書を締結",
+      "category": "ネットガバナンス",
+      "region": "世界",
+      "summary": "ICANNと米国商務省がインターネット資源管理の民間移行に関する覚書を締結。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1999-07-14-17",
+      "date": "1999-07-14",
+      "title": "IANAがRIRへ初のIPv6アドレス割り振り",
+      "category": "ネットワーク基盤",
+      "region": "世界",
+      "summary": "IANAが地域インターネットレジストリへ初めてIPv6アドレスを割り振った。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1999-08-13-18",
+      "date": "1999-08-13",
+      "title": "APNICがWIDEに初のIPv6アドレス割り振り",
+      "category": "ネットワーク基盤",
+      "region": "日本",
+      "summary": "APNICがアジア太平洋地域初のIPv6アドレス割り振りをWIDEに行った。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1999-09-28-19",
+      "date": "1999-09-28",
+      "title": "JPドメイン登録数が10万件突破",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "JPドメイン名の登録数が10万件を超えた。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1999-10-24-20",
+      "date": "1999-10-24",
+      "title": "統一ドメイン名紛争処理方針UDRP施行",
+      "category": "ネットガバナンス",
+      "region": "世界",
+      "summary": "ICANNの統一ドメイン名紛争処理方針UDRPが施行された。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1999-11-04-21",
+      "date": "1999-11-04",
+      "title": "ICANNとNSIがレジストリ契約締結",
+      "category": "ネットガバナンス",
+      "region": "世界",
+      "summary": "ICANNとNetwork Solutionsが.com/.net/.orgのレジストリ契約を締結した。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-timeline-1999-12-15-22",
+      "date": "1999-12-15",
+      "title": "PKI Forum設立",
+      "category": "セキュリティ",
+      "region": "世界",
+      "summary": "公開鍵基盤の相互運用性や普及を目的とするPKI Forumが設立された。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Exact-day, sourced, relevant internet events only. HTML deferred.",
-    "currentDistinctMonthDays": 49
+    "policy": "Exact dates with source; editorial significance reviewed separately. Site HTML not updated.",
+    "currentDistinctMonthDays": 67
   }
 }

@@ -233,7 +233,7 @@ try{effectsEnabled=localStorage.getItem('dim_effects_v06')!=='off'}catch(_){}
 function updateEffects(){document.documentElement.classList.toggle('effects-off',!effectsEnabled);$('effectsToggle').textContent='点滅：'+(effectsEnabled?'ON':'OFF');$('effectsToggle').setAttribute('aria-pressed',String(effectsEnabled))}
 $('effectsToggle').onclick=()=>{effectsEnabled=!effectsEnabled;try{localStorage.setItem('dim_effects_v06',effectsEnabled?'on':'off')}catch(_){}updateEffects()};updateEffects();
 function setCounter(id,value,pad,label){const el=$(id);const s=String(Math.max(0,Number(value)||0)).padStart(pad,'0');el.setAttribute('role','img');el.setAttribute('aria-label',label+' '+value+'件');el.innerHTML=[...s].map(d=>'<span class="digit" aria-hidden="true">'+d+'</span>').join('')}
-function matches(){const q=$('search').value.trim().toLowerCase(),g=$('genre').value,p=$('period').value,z=$('scope').value,era=$('eraFilter').value;let a=D.filter(r=>{const years=span(r),eras=(years||[]).map(x=>x.id);return (!q||[r.name,r.genre,r.summary,r.culture,r.reason,r.after,r.start,r.end].join(' ').toLowerCase().includes(q))&&(!g||r.genre===g)&&(!p||(p==='unknown'?!endYear(r):Math.floor(endYear(r)/10)*10===Number(p)))&&(!z||status(r)===z)&&(!onlyBookmarks||bookmarks.has(r.id))&&(!era||(era==='unknown'?years===null:era.includes('-')?era.split('-').every(e=>eras.includes(e)):eras.includes(era)))});let order=$('sort').value;a.sort((x,y)=>order==='name'?x.name.localeCompare(y.name,'ja'):order==='startAsc'?(validYear(x.start)??9999)-(validYear(y.start)??9999):order==='lifelong'?(lifespan(y)??-1)-(lifespan(x)??-1)||x.name.localeCompare(y.name,'ja'):order==='asc'?(endYear(x)??9999)-(endYear(y)??9999)||String(x.end).localeCompare(String(y.end)):(endYear(y)??-1)-(endYear(x)??-1)||String(y.end).localeCompare(String(x.end)));return a}
+function matches(){const q=$('search').value.trim().toLowerCase(),g=$('genre').value,p=$('period').value,z=$('scope').value,era=$('eraFilter').value;let a=D.filter(r=>{const years=span(r),eras=(years||[]).map(x=>x.id);return (!q||[r.name,r.genre,r.summary,r.culture,r.reason,r.after,r.start,r.end].join(' ').toLowerCase().includes(q))&&(!g||groupGenre(r)===g)&&(!p||(p==='unknown'?!endYear(r):Math.floor(endYear(r)/10)*10===Number(p)))&&(!z||status(r)===z)&&(!onlyBookmarks||bookmarks.has(r.id))&&(!era||(era==='unknown'?years===null:era.includes('-')?era.split('-').every(e=>eras.includes(e)):eras.includes(era)))});let order=$('sort').value;a.sort((x,y)=>order==='name'?x.name.localeCompare(y.name,'ja'):order==='startAsc'?(validYear(x.start)??9999)-(validYear(y.start)??9999):order==='lifelong'?(lifespan(y)??-1)-(lifespan(x)??-1)||x.name.localeCompare(y.name,'ja'):order==='asc'?(endYear(x)??9999)-(endYear(y)??9999)||String(x.end).localeCompare(String(y.end)):(endYear(y)??-1)-(endYear(x)??-1)||String(y.end).localeCompare(String(x.end)));return a}
 function render(){const all=matches();setCounter('total',D.length,7,'収録候補');setCounter('official',D.filter(r=>r.primary).length,5,'運営元資料');setCounter('found',all.length,5,'検索結果');setCounter('bookCount',D.filter(r=>bookmarks.has(r.id)).length,5,'保存済み');$('counter').textContent=' / '+all.length+'件';$('bookOnly').textContent=onlyBookmarks?'★ 保存済みのみ':'☆ 保存済み';$('bookOnly').classList.toggle('on',onlyBookmarks);
 $('items').innerHTML=all.slice(0,visible).map(r=>'<article class="item" data-id="'+esc(r.id)+'" role="button" tabindex="0" aria-label="'+esc(r.name)+'の詳細"><button class="fav '+(bookmarks.has(r.id)?'active':'')+'" data-fav="'+esc(r.id)+'" title="ブックマーク" aria-label="ブックマーク">'+(bookmarks.has(r.id)?'★':'☆')+'</button>'+(r.new?'<span class="fresh" aria-label="新規追加">NEW!</span>':'')+'<div class="tag">'+esc(r.genre)+'</div><h3>'+esc(r.name)+'</h3><p>'+esc(r.summary)+'</p><div class="lifelabel"><strong>'+esc(years(r))+'</strong><span>'+ageText(r)+'</span></div>'+line(r)+eraBadges(r)+'<div class="meta"><span>END · '+esc(date(r))+'</span><span>'+(r.primary?'運営元資料':'報道・未監査')+'</span></div></article>').join('')||'<div class="empty">条件に一致するサービスがありません。</div>';
 $('more').hidden=all.length<=visible;if(all.length>visible)$('more').textContent='さらに表示（残り'+(all.length-visible)+'件）';for(const el of $('items').querySelectorAll('.item')){el.onclick=()=>openDetail(el.dataset.id);el.onkeydown=e=>{if(e.key==='Enter'){e.preventDefault();openDetail(el.dataset.id)}}}for(const f of $('items').querySelectorAll('[data-fav]'))f.onclick=e=>{e.stopPropagation();toggle(f.dataset.fav)} }
@@ -245,7 +245,23 @@ $('detail').innerHTML='<div class="upper">ARCHIVE RECORD / '+esc(r.genre)+'</div
 $('overlay').classList.add('show');document.body.style.overflow='hidden';$('favDetail').onclick=()=>toggle(id);$('close').focus()}
 function close(){active=null;$('overlay').classList.remove('show');document.body.style.overflow=''}
 $('close').onclick=close;$('overlay').onclick=e=>{if(e.target===$('overlay'))close()};document.onkeydown=e=>{if(e.key==='Escape')close()};
-const genres=[...new Set(D.map(r=>r.genre))].sort((a,b)=>a.localeCompare(b,'ja'));
+const GROUPS=['SNS・コミュニティ','ブログ・個人サイト','動画・ライブ配信','音楽・音声','ゲーム・仮想空間','ニュース・情報','写真・画像','創作・同人','ショッピング・サービス','Web・IT','アダルト・アングラ','その他'];
+function groupGenre(r){
+ const g=String(r.genre||'');
+ if(/成人|アダルト|海賊版|アングラ|ホラー|衝撃映像|画像掲示板/.test(g))return 'アダルト・アングラ';
+ if(/同人|小説|創作|イラスト|漫画|お絵かき|素材配布|投稿・文章|電子書籍|テキストサイト|Flash作品|FLASH|サブカル/.test(g))return '創作・同人';
+ if(/写真|画像|グラビア|カメラ|時計/.test(g))return '写真・画像';
+ if(/ゲーム|アバター|仮想空間|オンラインペット|箱庭|育成/.test(g))return 'ゲーム・仮想空間';
+ if(/音楽|音声|ラジオ|ポッドキャスト|着メロ/.test(g))return '音楽・音声';
+ if(/動画|ライブ配信|テレビ|ショート動画|放送/.test(g))return '動画・ライブ配信';
+ if(/ブログ|日記|個人HP|個人ホームページ|無料ホームページ|ホームページ|ホスティング|レンタルサーバー|レンタル日記|携帯HP/.test(g))return 'ブログ・個人サイト';
+ if(/SNS|掲示板|コミュニティ|交流|チャット|通話|メッセンジャー|ML・|友達探し|位置情報SNS|ミニブログ|ソーシャルブックマーク/.test(g))return 'SNS・コミュニティ';
+ if(/ニュース|検索|ポータル|情報収集|RSS|Q&A|百科|知識|キュレーション|辞書|学習|メディア|ランキング|情報・|政治情報/.test(g))return 'ニュース・情報';
+ if(/EC|通販|ショッピング|オークション|フリマ|決済|予約|チケット|クーポン|旅行|生活|宅配|フードデリバリー|求人|ポイント|共同購入|地域交換|ストア/.test(g))return 'ショッピング・サービス';
+ if(/Web|ブラウザ|クラウド|メール|通信|Wi-Fi|インターネット接続|ツール|技術|開発|ソフト|アプリ|ストレージ|アクセス解析|URL短縮|翻訳|印刷|同期|データ加工|CGI/.test(g))return 'Web・IT';
+ return 'その他';
+}
+const genres=GROUPS;
 $('genre').innerHTML='<option value="">すべてのジャンル</option>'+genres.map(g=>'<option value="'+esc(g)+'">'+esc(g)+'</option>').join('');
 for(const id of ['search','genre','period','sort','scope','eraFilter'])$(id).addEventListener(id==='search'?'input':'change',()=>{visible=48;render()});
 $('bookOnly').onclick=()=>{onlyBookmarks=!onlyBookmarks;visible=48;render()};$('more').onclick=()=>{visible+=48;render()};$('clear').onclick=()=>{for(const id of ['search','genre','period','scope','eraFilter'])$(id).value='';$('sort').value='desc';onlyBookmarks=false;visible=48;render()};
@@ -260,7 +276,7 @@ let tmYear=2019;
 const tmBirths=y=>D.filter(r=>validYear(r.start)===y);
 const tmDeaths=y=>D.filter(r=>endYear(r)===y);
 const tmPresent=y=>D.filter(r=>{const s=validYear(r.start),e=endYear(r);return s!==null&&e!==null&&s<=y&&y<=e});
-function tmItem(r,mode){const dateText=mode==='born'?(r.start+'年（開始日未確認）'):date(r);return '<button type="button" class="tm-result" data-tmid="'+esc(r.id)+'"><strong>'+esc(r.name)+'</strong><small>'+esc(dateText)+' · '+esc(r.genre)+' · '+esc(r.scope==='entire_service'?'サービス終了':r.scope==='legacy_as_authored'?'終了区分再監査中':r.scope==='rebrand_or_successor'?'ブランド移行':(r.scope||'終了形態要確認'))+'</small></button>'}
+function tmItem(r,mode){const dateText=mode==='born'?(r.start+'年（開始日未確認）'):date(r);return '<button type="button" class="tm-result" data-tmid="'+esc(r.id)+'"><strong>'+esc(r.name)+'</strong><small>'+esc(dateText)+' · '+esc(groupGenre(r))+' · '+esc(r.scope==='entire_service'?'サービス終了':r.scope==='legacy_as_authored'?'終了区分再監査中':r.scope==='rebrand_or_successor'?'ブランド移行':(r.scope||'終了形態要確認'))+'</small></button>'}
 function tmList(id,records,mode){const container=$(id);container.innerHTML=records.length?records.sort((a,b)=>a.name.localeCompare(b.name,'ja')).map(r=>tmItem(r,mode)).join(''):'<p class="tm-muted">該当する収録レコードはありません。</p>';for(const btn of container.querySelectorAll('[data-tmid]'))btn.addEventListener('click',()=>openDetail(btn.dataset.tmid));}
 function tmSetYear(input){const y=Number(input);if(!Number.isInteger(y)||y<TM_MIN||y>TM_MAX)return;tmYear=y;const born=tmBirths(y),dead=tmDeaths(y),alive=tmPresent(y);
  $('tmYear').textContent=y;$('tmEra').textContent=firstEra(y);$('tmSelect').value=String(y);$('tmRange').value=String(y);

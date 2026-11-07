@@ -7996,6 +7996,28 @@
       "source": "https://kimu3.net/20160910/5050",
       "sourceType": "retrospective_explainer",
       "importance": 5
+    },
+    {
+      "id": "onmyoji-five-million-2008-11-12",
+      "date": "2008-11-12",
+      "title": "「レッツゴー！陰陽師」が500万再生を突破",
+      "category": "動画・ニコニコ文化",
+      "region": "日本",
+      "summary": "ニコニコ動画黎明期を象徴する『レッツゴー！陰陽師』が、2008年11月12日に500万再生を達成。『みくみくにしてあげる♪』に続く史上2番目の到達と当時のファン記録に記載されている。",
+      "source": "https://tera-box.jp/doala/omj.html",
+      "sourceType": "contemporary_fan_documentation",
+      "importance": 4
+    },
+    {
+      "id": "smilevideo-gamma-launch-2007-03-06",
+      "date": "2007-03-06",
+      "title": "ニコニコ動画（γ）とSMILEVIDEOが始動",
+      "category": "サービス誕生・動画文化",
+      "region": "日本",
+      "summary": "ニコニコ動画が（γ）へ移行し、自前の動画投稿基盤SMILEVIDEOを利用した投稿が可能に。『レッツゴー！陰陽師』などの動画に付く2007年3月6日という投稿日は、旧サービス時代の初出と一致しない場合がある。",
+      "source": "https://www.j-cast.com/2022/03/07432531.html",
+      "sourceType": "retrospective_reporting",
+      "importance": 5
     }
   ],
   "coverage": {

@@ -8106,6 +8106,61 @@
       "source": "https://pikayan.hatenablog.com/entry/20090716/p2",
       "sourceType": "fan_milestone_archive",
       "importance": 4
+    },
+    {
+      "id": "youtube-partner-first-2007-05-03",
+      "date": "2007-05-03",
+      "title": "YouTubeが人気投稿者への広告収益分配を発表",
+      "category": "サービス史・動画",
+      "region": "世界",
+      "summary": "YouTube公式ブログが、人気クリエイターをパートナーとして迎え、広告収益の分配機会を提供すると発表。動画投稿を仕事にする文化の形成につながった初期の転換点。",
+      "source": "https://blog.youtube/news-and-events/youtube-elevates-most-popular-users-to/",
+      "sourceType": "operator_primary",
+      "importance": 5
+    },
+    {
+      "id": "youtube-partner-japan-2008-04-16",
+      "date": "2008-04-16",
+      "title": "YouTubeパートナープログラムが日本でも開始",
+      "category": "サービス史・動画",
+      "region": "日本",
+      "summary": "YouTubeが日本、オーストラリア、アイルランドからのパートナー応募受付を開始。日本の動画投稿者にも広告収益を得る仕組みが開かれた。",
+      "source": "https://blog.youtube/news-and-events/youtube-partner-program-travels-to_14/?hl=en_GB",
+      "sourceType": "operator_primary",
+      "importance": 5
+    },
+    {
+      "id": "twitter-retweet-planned-2009-08-13",
+      "date": "2009-08-13",
+      "title": "Twitterが公式リツイート機能の開発計画を発表",
+      "category": "サービス史・SNS",
+      "region": "世界",
+      "summary": "利用者が手動で行っていた『RT』文化を正式な機能にする計画をTwitterが発表。ユーザー発の習慣がサービスの標準機能になった節目。",
+      "source": "https://blog.x.com/official/en_us/a/2009/project-retweet-phase-one.html",
+      "sourceType": "operator_primary",
+      "importance": 5
+    },
+    {
+      "id": "twitter-retweet-limited-2009-11-06",
+      "date": "2009-11-06",
+      "title": "Twitterが公式リツイート機能を一部ユーザーに公開",
+      "category": "サービス史・SNS",
+      "region": "世界",
+      "summary": "Twitterがリツイートボタンを少数のアカウントに試験提供開始。手動RTとは異なるワンクリックの拡散機能がサービス内に実装された。全ユーザー公開日とは区別する。",
+      "source": "https://blog.x.com/official/en_us/a/2009/retweet-limited-rollout.html",
+      "sourceType": "operator_primary",
+      "importance": 5
+    },
+    {
+      "id": "twitter-280-global-except-japanese-2017-11-07",
+      "date": "2017-11-07",
+      "title": "Twitterが英語などの投稿上限を280文字へ拡大",
+      "category": "サービス史・SNS",
+      "region": "世界",
+      "summary": "Twitterが140文字から280文字への文字数制限拡大を正式展開。ただし日本語・中国語・韓国語は140文字のまま。日本語ユーザーには直接適用されなかった点を明記する。",
+      "source": "https://blog.x.com/en_in/topics/product/2017/tweetingmadeeasier",
+      "sourceType": "operator_primary",
+      "importance": 4
     }
   ],
   "coverage": {

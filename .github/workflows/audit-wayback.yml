@@ -2,26 +2,71 @@ name: Audit Wayback snapshots
 on:
   workflow_dispatch:
     inputs:
+      mode:
+        description: "Scan a batch or retry errors from prior audit artifacts"
+        type: choice
+        options:
+          - batch
+          - retry-errors
+        default: batch
+        required: true
       offset:
-        description: "Start at this position among unverified archive links"
+        description: "Start position (batch mode only)"
         required: true
         default: "0"
       limit:
-        description: "Number of sites to inspect (recommended 100)"
+        description: "Number of sites (batch mode only)"
         required: true
         default: "100"
 permissions:
   contents: read
+  actions: read
 jobs:
   audit:
     runs-on: ubuntu-latest
     timeout-minutes: 45
+    env:
+      GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
+      - name: Collect prior audit errors
+        if: ${{ inputs.mode == 'retry-errors' }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p prior-audits
+          gh api "repos/${{ github.repository }}/actions/artifacts?per_page=100" --paginate --jq '.artifacts[] | select(.expired == false and (.name | startswith("archive-audit-"))) | [.id, .name] | @tsv' |
+          while IFS=$'\t' read -r id name; do
+            gh api "repos/${{ github.repository }}/actions/artifacts/$id/zip" > "prior-audits/$id.zip" || continue
+          done
+          python3 - <<'PY'
+          import csv,glob,io,zipfile
+          errors=set()
+          for path in glob.glob("prior-audits/*.zip"):
+              try:
+                  with zipfile.ZipFile(path) as z:
+                      for filename in z.namelist():
+                          if filename.endswith(".csv"):
+                              for row in csv.DictReader(io.TextIOWrapper(z.open(filename),encoding="utf-8-sig")):
+                                  if row.get("status")=="request_error": errors.add(row["id"])
+              except (zipfile.BadZipFile,KeyError): continue
+          if not errors: raise SystemExit("No prior request_error rows found; nothing to retry.")
+          with open("archive-audit-input.csv","w",encoding="utf-8",newline="") as f:
+              writer=csv.DictWriter(f,fieldnames=["id","status"])
+              writer.writeheader()
+              writer.writerows({"id":id,"status":"request_error"} for id in sorted(errors))
+          print(f"Collected {len(errors)} unique failed records")
+          PY
       - name: Query CDX archive metadata
-        run: python3 scripts/audit_wayback.py --offset "${{ inputs.offset }}" --limit "${{ inputs.limit }}"
-      - name: Download review CSV
+        shell: bash
+        run: |
+          if [[ "${{ inputs.mode }}" == "retry-errors" ]]; then
+            python3 scripts/audit_wayback.py --only-errors
+          else
+            python3 scripts/audit_wayback.py --offset "${{ inputs.offset }}" --limit "${{ inputs.limit }}"
+          fi
+      - name: Upload review CSV
         uses: actions/upload-artifact@v4
         with:
-          name: archive-audit-${{ inputs.offset }}
+          name: archive-audit-${{ inputs.mode }}-${{ inputs.offset }}-${{ github.run_number }}
           path: archive-audit.csv

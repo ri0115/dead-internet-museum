@@ -2688,11 +2688,51 @@
       "importance": 5,
       "originalDateType": "award_report_date",
       "verificationStatus": "contemporary_report"
+    },
+    {
+      "id": "flash-doraemon-2001-08-17",
+      "date": "2001-08-17",
+      "title": "空耳Flash「どおらえもん（Dooraemon）」公開",
+      "category": "Flash・空耳・ネットミーム",
+      "region": "日本",
+      "summary": "ドラわさび制作の空耳Flash。The Offspringの曲の聞き間違いを題材にした作品で、後の空耳Flash文化を象徴する。",
+      "source": "https://nlab.itmedia.co.jp/cont/articles/3266637/",
+      "sourceType": "retrospective_by_contemporary_web_curator",
+      "importance": 5,
+      "originalDateType": "original_release",
+      "verificationStatus": "dated_retrospective"
+    },
+    {
+      "id": "flash-gonorego-2001-09-19",
+      "date": "2001-09-19",
+      "title": "Flash「ゴノレゴ 吉野家」公開",
+      "category": "Flash・有名コピペ・ネットミーム",
+      "region": "日本",
+      "summary": "ポエ山による吉野家コピペのFlash化。公開日は作者による10周年記念動画の説明に基づく。一般の回顧記事では2001年9月中旬とされる。",
+      "source": "https://www.nicovideo.jp/watch/sm15736789",
+      "secondarySource": "https://nlab.itmedia.co.jp/cont/articles/3266637/",
+      "sourceType": "creator_retrospective_video_description",
+      "importance": 5,
+      "originalDateType": "original_release",
+      "verificationStatus": "creator_retrospective"
+    },
+    {
+      "id": "flash-bomb-2003-07-20",
+      "date": "2003-07-20",
+      "title": "Flash職人イベント「FLASH★BOMB」開催",
+      "category": "Flash・ネット文化・イベント",
+      "region": "日本",
+      "summary": "Flash作品を上映するオフラインイベント「FLASH★BOMB」が開催。個人制作Flash文化がネットの外にも広がった象徴的な出来事。",
+      "source": "https://websitemap.sakura.ne.jp/monograph/monograph10.html",
+      "sourceType": "independent_web_culture_history",
+      "importance": 5,
+      "originalDateType": "event_held",
+      "verificationStatus": "historical_research"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Require dated evidence. Separate original release, derivative uploads, later reports and awards. Mark secondary-only evidence. Site HTML deferred.",
-    "currentDistinctMonthDays": 171
+    "policy": "Use date-specific historical evidence; distinguish original release from reupload and retrospective. Site HTML deferred.",
+    "currentDistinctMonthDays": 173
   }
 }

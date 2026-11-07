@@ -7534,11 +7534,33 @@
       "source": "https://www.historylink.org/File/23230",
       "sourceType": "historical_record",
       "importance": 5
+    },
+    {
+      "id": "amazon-fire-phone-announced-2014-06-18",
+      "date": "2014-06-18",
+      "title": "Amazonが「Fire Phone」を発表",
+      "category": "モバイル・ネット文化",
+      "region": "世界",
+      "summary": "Amazon初のスマートフォンFire Phoneが発表された。商品認識機能Fireflyと視点追跡のDynamic Perspectiveを搭載。発売日（7月25日）とは区別。",
+      "source": "https://press.aboutamazon.com/2014/6/introducing-fire-the-first-smartphone-designed-by-amazon",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "chromecast-announced-2013-07-24",
+      "date": "2013-07-24",
+      "title": "Googleが初代Chromecastを発表",
+      "category": "動画・ネット文化",
+      "region": "世界",
+      "summary": "スマートフォンやChromeブラウザのネット動画をテレビに送るChromecastが発表された。Google公式ブログの米国時間7月24日付記録による。",
+      "source": "https://developers.googleblog.com/cast-content-from-your-apps-to-tv-with-the-google-cast-sdk/",
+      "sourceType": "operator",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 315
+    "currentDistinctMonthDays": 317
   }
 }

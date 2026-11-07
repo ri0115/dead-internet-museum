@@ -4234,11 +4234,44 @@
       "source": "https://nlab.itmedia.co.jp/cont/articles/3375336/amp/",
       "sourceType": "historical_record",
       "importance": 4
+    },
+    {
+      "id": "samurai-damashii-senkousha-coverage-2001",
+      "date": "2001-07-30",
+      "title": "「先行者」ブームの舞台裏を侍魂の作者が語る",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "INTERNET Watchが侍魂の作者・健へのインタビューを掲載。「先行者」記事が1日20万ヒットを集めた経緯や、文字サイズを変えるテキストサイト文化を記録した。記事掲載日であり、先行者ネタの初出日ではない。",
+      "source": "https://internet.watch.impress.co.jp/www/article/2001/0730/megahit.htm",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "hatsune-miku-tbs-controversy-2007",
+      "date": "2007-10-14",
+      "title": "初音ミクのテレビ紹介がネットで議論に",
+      "category": "ネット文化",
+      "region": "日本",
+      "summary": "TBSの番組「アッコにおまかせ！」による初音ミク紹介がネット上で批判を集めた。ネット発の創作文化と既存メディアの認識の差を象徴する出来事。",
+      "source": "https://internet.watch.impress.co.jp/static/yajiuma/2007/10/16/",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "senkousha-retrospective-2010",
+      "date": "2010-04-20",
+      "title": "「先行者」再び――上海万博のロボット報道で再注目",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "上海万博に出展する中国製二足歩行ロボットのニュースをきっかけに、往年のネットミーム「先行者」が再び引き合いに出された。報道日を記録。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/362385.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 226
+    "currentDistinctMonthDays": 227
   }
 }

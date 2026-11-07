@@ -7413,11 +7413,33 @@
       "source": "https://michaeljordan.nl/ajax.pdf",
       "sourceType": "original_essay_reprint",
       "importance": 4
+    },
+    {
+      "id": "iphone-unveiled-2007-01-09",
+      "date": "2007-01-09",
+      "title": "Appleが初代iPhoneを発表",
+      "category": "モバイル・ネット文化",
+      "region": "世界",
+      "summary": "Macworldで初代iPhoneが発表された。携帯電話・iPod・ウェブ閲覧を一体化した製品として紹介され、モバイルインターネットの転機となった。発売日ではなく発表日。",
+      "source": "https://www.apple.com/jp/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "instagram-hyperlapse-announced-2014-08-26",
+      "date": "2014-08-26",
+      "title": "Instagramが動画アプリ「Hyperlapse」を発表",
+      "category": "SNS・動画文化",
+      "region": "世界",
+      "summary": "Instagramが手ブレ補正を備えたタイムラプス動画アプリを発表。スマートフォンによる短尺動画制作と共有の裾野を広げた。米国時間の発表日。",
+      "source": "https://about.fb.com/news/2014/08/introducing-hyperlapse-from-instagram/",
+      "sourceType": "operator",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 305
+    "currentDistinctMonthDays": 307
   }
 }

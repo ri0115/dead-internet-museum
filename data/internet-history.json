@@ -4597,11 +4597,165 @@
       "source": "https://internet.watch.impress.co.jp/static/yajiuma/2008/07/01/",
       "sourceType": "contemporary_reporting",
       "importance": 2
+    },
+    {
+      "id": "internet-toy-archive-2010-04-06-01",
+      "date": "2010-04-06",
+      "title": "地下鉄路線図のアスキーアートが全国へ派生",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "当時の報道日を記録（初出日ではない）。東京の地下鉄路線図をAAで表現する試みが、各地の路線図へ次々と派生したことが報じられた。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201004.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-toy-archive-2010-07-09-02",
+      "date": "2010-07-09",
+      "title": "JRAのカオス競馬ゲーム動画がニコニコを席巻",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "当時の報道日を記録（初出日ではない）。JRA制作の競馬ゲームを題材にしたプレイ動画がニコニコ動画で大量に投稿されていると報じられた。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201007.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-toy-archive-2010-07-05-03",
+      "date": "2010-07-05",
+      "title": "Twitterのクジラ画像の二次創作が広がる",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "当時の報道日を記録（初出日ではない）。Twitterの障害時に表示されるクジラのイラストを題材とする二次創作がまとめられ、話題になった。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201007.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-toy-archive-2010-08-05-04",
+      "date": "2010-08-05",
+      "title": "全国高等学校演劇協議会のサイトがネットで話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "当時の報道日を記録（初出日ではない）。独特のデザインを持つ全国高等学校演劇協議会のウェブサイトが、往年の愛生会病院サイトになぞらえて話題となった。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201008.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-toy-archive-2010-08-10-05",
+      "date": "2010-08-10",
+      "title": "消えた2ちゃんねる用語の一覧が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "当時の報道日を記録（初出日ではない）。かつて頻繁に使われた2ちゃんねる用語の一覧が紹介され、ネットスラングの世代交代が話題になった。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201008.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-toy-archive-2010-10-13-06",
+      "date": "2010-10-13",
+      "title": "「そんな装備で大丈夫か？」で知られるエルシャダイが発売前から話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "当時の報道日を記録（初出日ではない）。ゲーム『エルシャダイ』のイベント開催が報じられ、発売前から盛り上がるネットミームとして注目された。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201010.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-toy-archive-2010-10-04-07",
+      "date": "2010-10-04",
+      "title": "過去の有名サイトを巡る「Web廃墟」が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "当時の報道日を記録（初出日ではない）。かつて知られたサイトが現存する様子を「Web廃墟」として紹介する話題が取り上げられた。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201010.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-toy-archive-2010-12-21-08",
+      "date": "2010-12-21",
+      "title": "レトロデザインの「3DポータルZ」がオープン",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "当時の報道日を記録（初出日ではない）。笑える立体画像を集めた「3DポータルZ」が、懐かしいインターネット風のデザインで開設されたと報じられた。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201012.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-toy-archive-2010-12-14-09",
+      "date": "2010-12-14",
+      "title": "Twitterでガンダムのイラストが大量増殖",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "当時の報道日を記録（初出日ではない）。ガンダムを題材とするイラストがTwitterで次々と投稿され、派生作品の連鎖が報じられた。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201012.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-toy-archive-2010-12-06-10",
+      "date": "2010-12-06",
+      "title": "台湾MicrosoftのSilverlight萌えキャラが増殖",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "当時の報道日を記録（初出日ではない）。台湾Microsoft公式サイトのキャラクターを題材にしたコンテンツが増え、ネット上で話題になった。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201012.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-toy-archive-2010-02-03-11",
+      "date": "2010-02-03",
+      "title": "NHKと松岡修造botのTwitter上のやり取りが話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "当時の報道日を記録（初出日ではない）。NHKのTwitterアカウントと松岡修造を模したbotのやり取りが「人×bot」の例として紹介された。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201002.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-toy-archive-2010-02-08-12",
+      "date": "2010-02-08",
+      "title": "米Yahoo!のパスワード画面キャラがAA化",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "当時の報道日を記録（初出日ではない）。米Yahoo!のパスワード再設定画面に登場するキャラクターがアスキーアート化され、話題となった。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201002.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-toy-archive-2017-02-06-13",
+      "date": "2017-02-06",
+      "title": "「いらすとか」が文章をいらすとや画像に変換するネットのおもちゃとして話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "当時の報道日を記録（初出日ではない）。入力文を解析して『いらすとや』素材に置き換える『いらすとか』が、予想外の組み合わせを楽しむサイトとして報じられた。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/1042606.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-toy-archive-2016-03-04-14",
+      "date": "2016-03-04",
+      "title": "いらすとやの時事ネタ素材がネットで話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "当時の報道日を記録（初出日ではない）。いらすとやが時事的な話題に即応する素材を公開し、ネットで新作をチェックする文化が広まっていると報じられた。",
+      "source": "https://internet.watch.impress.co.jp/category/topic/index356.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 235
+    "currentDistinctMonthDays": 244
   }
 }

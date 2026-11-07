@@ -222,11 +222,66 @@
       "source": "https://wiki.mozilla.org/Timeline",
       "sourceType": "operator",
       "importance": 4
+    },
+    {
+      "id": "gmail-launch-2004",
+      "date": "2004-04-01",
+      "title": "Gmailが公開",
+      "category": "Webサービス",
+      "region": "世界",
+      "summary": "Googleが1GBの無料保存容量を備えたGmailの最初のバージョンを公開。Webメールの競争環境を変えた。",
+      "source": "https://googleblog.blogspot.com/2005/10/guess-what-just-turned-34.html?hl=en_GB",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "chrome-beta-2008",
+      "date": "2008-09-02",
+      "title": "Google Chromeベータ版公開",
+      "category": "ブラウザ",
+      "region": "世界",
+      "summary": "GoogleがWindows向けChromeの初期ベータ版を公開。",
+      "source": "https://googleblog.blogspot.com/2008/09/google-chrome-now-live.html",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "youtube-sequoia-2005",
+      "date": "2005-11-07",
+      "title": "YouTubeがSequoia Capitalから350万ドル調達を発表",
+      "category": "Webサービス",
+      "region": "世界",
+      "summary": "創業初期のYouTubeが350万ドルの資金調達を公表。動画共有サービスの急成長を支える転機となった。",
+      "source": "https://blog.youtube/news-and-events/youtube-receives-35m-in-funding-from/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "youtube-blog-start-2005",
+      "date": "2005-07-07",
+      "title": "YouTube公式ブログが最初の記事を公開",
+      "category": "ネット文化",
+      "region": "世界",
+      "summary": "YouTube公式ブログの初回投稿。サービス初期の運営記録が残る。",
+      "source": "https://blog.youtube/news-and-events/introduction-to-our-blog-redesign/",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "youtube-blog-2005-12-14",
+      "date": "2005-12-14",
+      "title": "YouTube運営チームが公式ブログでコミュニティ方針を発信",
+      "category": "ネット文化",
+      "region": "世界",
+      "summary": "YouTubeチームが利用者との対話と急成長に伴う運用課題について公式ブログで発信した。サービス公開日とは区別。",
+      "source": "https://blog.youtube/news-and-events/welcome-to-our-world/",
+      "sourceType": "operator",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Exact day and evidence required. Do not fabricate or overstate significance to fill gaps.",
-    "currentDistinctMonthDays": 19
+    "policy": "Only exact-day sourced internet events; no invented fillers. Site HTML updates deferred until a substantial verified batch.",
+    "currentDistinctMonthDays": 24
   }
 }

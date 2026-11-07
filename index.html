@@ -262,7 +262,7 @@ function groupGenre(r){
  return 'その他';
 }
 const genres=GROUPS;
-$('genre').innerHTML='<option value="">すべてのジャンル</option>'+genres.map(g=>'<option value="'+esc(g)+'">'+esc(g)+'</option>').join('');
+$('genre').innerHTML='<option value="">すべてのジャンル</option>'+genres.map(g=>'<option value="'+esc(g)+'">'+esc(g)+'（'+D.filter(r=>groupGenre(r)===g).length+'）</option>').join('');
 for(const id of ['search','genre','period','sort','scope','eraFilter'])$(id).addEventListener(id==='search'?'input':'change',()=>{visible=48;render()});
 $('bookOnly').onclick=()=>{onlyBookmarks=!onlyBookmarks;visible=48;render()};$('more').onclick=()=>{visible+=48;render()};$('clear').onclick=()=>{for(const id of ['search','genre','period','scope','eraFilter'])$(id).value='';$('sort').value='desc';onlyBookmarks=false;visible=48;render()};
 

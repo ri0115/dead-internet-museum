@@ -6808,6 +6808,50 @@
       "source": "https://www.itmedia.co.jp/aiplus/article/2511/05/1251105097/",
       "sourceType": "contemporary_reporting",
       "importance": 4
+    },
+    {
+      "id": "internet-history-81-01",
+      "date": "2021-12-15",
+      "title": "ネット流行語100・2021の年間大賞が「ウマ娘 プリティーダービー」に決定",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "2021年のネット流行語100表彰式で『ウマ娘 プリティーダービー』が年間大賞、周央サンゴがニコニコ賞を受賞。ネットミームの初出日ではなく受賞日。",
+      "source": "https://prtimes.jp/main/html/rd/p/000000178.000035885.html",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "internet-history-81-02",
+      "date": "2022-12-12",
+      "title": "ネット流行語100・2022で「ずんだもん」がニコニコ賞を受賞",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "2022年の表彰式で年間大賞は『ウタ』、ニコニコ賞は『ずんだもん』、pixiv賞は『SPY×FAMILY』。音声合成キャラクターのネット文化への浸透を示す記録。",
+      "source": "https://dwango.co.jp/news/5141852206399488/",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-81-03",
+      "date": "2023-11-22",
+      "title": "ネット流行語100・2023のノミネート100語が発表",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "2023年の候補100語が発表され、『薩摩ホグワーツ』などが選出。ネット発の言葉を表彰するネット新語賞も新設された。",
+      "source": "https://www.pixiv.co.jp/2023/11/22/120000",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-81-04",
+      "date": "2023-12-13",
+      "title": "ネット流行語100・2023で「薩摩ホグワーツ」がネット新語賞を受賞",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "2023年の表彰式で『薩摩ホグワーツ』が新設のネット新語賞、『君は完璧で究極のゲッター』がニコニコ賞を受賞。年間大賞は『【推しの子】』。",
+      "source": "https://www.pixiv.co.jp/2023/12/14/121456",
+      "sourceType": "operator",
+      "importance": 5
     }
   ],
   "coverage": {

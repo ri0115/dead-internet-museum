@@ -3246,11 +3246,115 @@
       "importance": 4,
       "originalDateType": "activity_announcement",
       "verificationStatus": "contemporary_source_confirmed"
+    },
+    {
+      "id": "henjinkutsu-1999",
+      "date": "1999-01-07",
+      "title": "個人ニュースサイト「変人窟」が開設",
+      "category": "個人サイト・ニュースサイト",
+      "region": "日本",
+      "summary": "ネット上の話題やオタク文化を紹介し、リンク先のアクセスが増える『変人窟効果』でも知られた個人ニュースサイトの開設。",
+      "source": "https://websitemap.sakura.ne.jp/monograph/monograph06.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 5,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "asame-shimbun-1998",
+      "date": "1998-06-14",
+      "title": "パロディ画像サイト「朝目新聞」が開設",
+      "category": "個人サイト・画像文化",
+      "region": "日本",
+      "summary": "漫画・アニメなどのパロディ画像を扱う個人サイト『朝目新聞』が開設。個人発の画像ネタ共有文化を象徴する。",
+      "source": "https://websitemap.sakura.ne.jp/monograph/monograph06.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 5,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "gigazine-2000",
+      "date": "2000-04-01",
+      "title": "個人サイトとして「GIGAZINE」が開設",
+      "category": "個人サイト・ニュースサイト",
+      "region": "日本",
+      "summary": "後に商業メディアへ発展する『GIGAZINE』が個人ニュースサイトとして開設された日。",
+      "source": "https://websitemap.sakura.ne.jp/monograph/monograph06.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 5,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "x51-org-2002",
+      "date": "2002-03-20",
+      "title": "奇妙なニュースを集める「X51.ORG」が開設",
+      "category": "個人サイト・ニュースサイト",
+      "region": "日本",
+      "summary": "奇妙な現象や海外の珍ニュースを紹介した『X51.ORG』が開設。管理人・佐藤健寿氏の後年の活動にもつながった。",
+      "source": "https://websitemap.sakura.ne.jp/monograph/monograph06.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 5,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "negitaku-2002",
+      "date": "2002-08-24",
+      "title": "国内eスポーツ情報サイト「Negitaku」が開設",
+      "category": "個人サイト・ゲーム文化",
+      "region": "日本",
+      "summary": "国内外のeスポーツ情報を紹介する『Negitaku』が開設。日本でeスポーツが広く知られる以前から情報を発信した。",
+      "source": "https://websitemap.sakura.ne.jp/monograph/monograph06.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 4,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "zaeega-2003",
+      "date": "2003-12-17",
+      "title": "海外ネタ紹介サイト「ザイーガ」が開設",
+      "category": "個人サイト・アングラ文化",
+      "region": "日本",
+      "summary": "海外の珍ニュースやネット上の奇妙な話題を独特の文体で紹介した『ザイーガ』の開設。2004年1月とする資料もあるため開設日の一次確認が必要。",
+      "source": "https://websitemap.sakura.ne.jp/monograph/monograph06.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 5,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_conflicting_month"
+    },
+    {
+      "id": "netatama-2003",
+      "date": "2003-04-15",
+      "title": "個人ニュースサイト「ねたたま」が開設",
+      "category": "個人サイト・ニュースサイト",
+      "region": "日本",
+      "summary": "ネットの話題を取り上げる個人ニュースサイト『ねたたま』が開設。",
+      "source": "https://websitemap.sakura.ne.jp/monograph/monograph06.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 4,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "dawann-news-2002",
+      "date": "2002-07-01",
+      "title": "個人ニュースサイト「駄文にゅうす」が開設",
+      "category": "個人サイト・ニュースサイト",
+      "region": "日本",
+      "summary": "独自の情報収集とリンク紹介で知られる『駄文にゅうす』が開設。個人サイト同士の紹介・波及アクセスを生んだ。",
+      "source": "https://websitemap.sakura.ne.jp/monograph/monograph06.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 4,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Exact-day sourced events only; differentiate original site openings from interviews, reporting and later activity. HTML deferred.",
-    "currentDistinctMonthDays": 199
+    "policy": "Exact-date sourced milestones, secondary-source verification flags retained; date conflicts flagged; no HTML publication.",
+    "currentDistinctMonthDays": 202
   }
 }

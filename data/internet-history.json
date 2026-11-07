@@ -7644,11 +7644,77 @@
       "source": "https://googleblog.blogspot.com/2011/06/introducing-google-project-real-life.html?hl=en_GB",
       "sourceType": "operator_primary",
       "importance": 5
+    },
+    {
+      "id": "hd-dvd-processing-key-forum-post-2007",
+      "date": "2007-02-12",
+      "title": "HD DVDの暗号解除キーが掲示板に投稿される",
+      "category": "ネットミーム・ネット事件",
+      "region": "世界",
+      "summary": "Doom9掲示板に暗号解除に使われる16進数のキーが投稿された。後に削除要請への反発から数字列そのものがネットミーム化。初出投稿と後のDigg騒動を区別。",
+      "source": "https://knowyourmeme.com/memes/09-f9-11-02-9d-74-e3-5b-d8-41-56-c5-63-56-88-c0",
+      "sourceType": "meme_origin",
+      "importance": 4
+    },
+    {
+      "id": "hanami-trace-twitter-2014",
+      "date": "2014-03-29",
+      "title": "「俺だけ5時から」お花見トレス素材がTwitterで拡散",
+      "category": "ネットミーム・画像改変",
+      "region": "日本",
+      "summary": "花見の場所取りをする男性へのテレビ取材画像がTwitterに投稿され、イラストのトレス素材として流行。テレビ放送日ではなく確認された画像投稿の日付。",
+      "source": "https://knowyourmeme.com/memes/hanami-trace",
+      "sourceType": "meme_origin",
+      "importance": 4
+    },
+    {
+      "id": "megaman3-lyrics-brentalfloss-2008",
+      "date": "2008-07-28",
+      "title": "ゲーム音楽に歌詞を付ける「Mega Man 3 with Lyrics」動画が投稿",
+      "category": "動画・ネットミーム",
+      "region": "世界",
+      "summary": "Brentalflossが『ロックマン3』の曲に独自の歌詞を付けて歌う動画をYouTubeに投稿。ゲーム音楽替え歌動画の初期の代表例。",
+      "source": "https://knowyourmeme.com/memes/video-game-songs-with-lyrics",
+      "sourceType": "meme_origin",
+      "importance": 3
+    },
+    {
+      "id": "before-after-2016-wojak-2021",
+      "date": "2021-08-18",
+      "title": "「Before 2016 vs. After 2016」Wojakミームが投稿",
+      "category": "ネットミーム・画像改変",
+      "region": "世界",
+      "summary": "2016年を境に楽観的な人物が悲観的な人物へ変化するWojak画像がiFunnyに投稿され、SNSで多数の派生画像が作られた。",
+      "source": "https://knowyourmeme.com/memes/before-2016-vs-after-2016",
+      "sourceType": "meme_origin",
+      "importance": 3
+    },
+    {
+      "id": "shaking-head-whole-time-tweet-2020",
+      "date": "2020-12-29",
+      "title": "「否定していると示すため首を振りながら読む」ジョークが投稿",
+      "category": "ネットミーム・コピペ",
+      "region": "世界",
+      "summary": "公共の場で問題のある本を読みながら、賛同していないと周囲に示すため首を振り続けるという冗談がTwitterに投稿。文章の型がコピー・改変されて広まった。",
+      "source": "https://knowyourmeme.com/memes/shaking-my-head-the-whole-time",
+      "sourceType": "meme_origin",
+      "importance": 3
+    },
+    {
+      "id": "3d-gif-dubstep-first-tweets-2020",
+      "date": "2020-11-20",
+      "title": "「3D GIF Dubstep」アカウントが初の動画ミームを投稿",
+      "category": "ネットミーム・動画",
+      "region": "世界",
+      "summary": "3DアニメーションGIFにダブステップなどを合わせた動画を投稿するTwitterアカウントが初投稿。短尺映像と音楽を組み合わせたネットのおもちゃとして派生した。",
+      "source": "https://knowyourmeme.com/memes/3d-gif-dubstep",
+      "sourceType": "meme_origin",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 324
+    "currentDistinctMonthDays": 330
   }
 }

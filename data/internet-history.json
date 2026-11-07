@@ -7006,11 +7006,44 @@
       "source": "https://news.denfaminicogamer.jp/news/2405172c",
       "sourceType": "contemporary_reporting",
       "importance": 4
+    },
+    {
+      "id": "sasshi-warui-uketsu-2024-03-05",
+      "date": "2024-03-05",
+      "title": "「察しの悪い雨穴」パロディ動画が公開",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "YouTuber「終わった人」が『変な家』をパロディ化した動画『【変な家】察しの悪い雨穴』を2024年3月5日21時に公開。後にネット流行語100・2024の12位に入った。動画公開日であり、ミーム全体の流行ピークとは区別する。",
+      "source": "https://yutura.net/channel/52329/video/taTXscy0yrA/",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "fumeba-tasukaru-viral-2024-05-17",
+      "date": "2024-05-17",
+      "title": "「踏めば助かるのに…。」歴史資料集のロボット発言が拡散",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "浜島書店の中学歴史資料集『学び考える歴史』にあるロボットの台詞が、5月17日のX投稿を起点に再拡散。ニコニコ大百科の週間HOTワードで1位となった。資料集の初版刊行日や言葉の初出ではなく、2024年の拡散起点を記録。",
+      "source": "https://originalnews.nico/462891",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "mukakin-ojisan-olympics-2024-07-30",
+      "date": "2024-07-30",
+      "title": "パリ五輪の射撃競技から「無課金おじさん」ミームが誕生",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "パリ五輪の射撃混合エアピストルでトルコ代表ユスフ・ディケチュが軽装備で銀メダルを獲得。日本のSNSでは『無課金おじさん』という愛称で拡散した。7月30日は競技日であり、愛称の最初の投稿日時は未確認。",
+      "source": "https://news.livedoor.com/article/detail/26911730/",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 297
+    "currentDistinctMonthDays": 298
   }
 }

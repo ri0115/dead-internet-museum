@@ -7083,6 +7083,39 @@
       "source": "https://mayutre.com/minced-meat/",
       "sourceType": "contemporary_reporting",
       "importance": 4
+    },
+    {
+      "id": "hisu-kobun-radio-2021-11-21",
+      "date": "2021-11-21",
+      "title": "ラランドのラジオで「お母さんヒス構文」が取り上げられる",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ラランドのGERA配信番組『声溜めラジオ』第100回の題名が『お母さんヒス構文』。2023年のYouTubeでの流行以前に使われていたことを示す確認可能な記録。用語そのものの初出とまでは断定しない。",
+      "source": "https://koubun-jiten.com/hisu-kobun/",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "hisu-kobun-youtube-2023-01-12",
+      "date": "2023-01-12",
+      "title": "ラランド「お母さんヒス構文解説」動画公開",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ラランドのYouTubeチャンネル『ララチューン』で『お母さんヒス構文解説』が公開。論理の飛躍や論点のすり替えを型として紹介し、2023年のネット上での構文の広がりにつながった。2021年のラジオでの使用とは区別。",
+      "source": "https://realsound.jp/tech/2024/01/post-1532432.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "naazenaaze-trend-record-2023-06-14",
+      "date": "2023-06-14",
+      "title": "「なぁぜなぁぜ」がTikTokの流行語として記録される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "桃園ありさのTikTok動画から広がった『なぁぜなぁぜ』について、2023年6月14日付の記事がすでにトレンドになっていると報告。本人の後年の証言では投稿開始は同年3月末ごろ。6月14日は流行の同時代記録日であり、初投稿・初出日ではない。",
+      "source": "https://note.com/kerin_music/n/n855687898f44",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
     }
   ],
   "coverage": {

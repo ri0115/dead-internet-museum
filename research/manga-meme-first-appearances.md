@@ -16,7 +16,7 @@
 |---|---|---|---|---|---|
 | 何が嫌いかより何が好きかで自分を語れよ!!! | ツギハギ漂流作家 | 最終第22話・週刊少年ジャンプ2006年32号。発売3日後の2006-07-13の同号感想記事がセリフを直接引用。 | 2006-07-10 | **公開可（当時の読者記録で照合）** | https://aiba.livedoor.biz/archives/50561871.html ; https://www.jajanken.net/sakuhins/zPm81YV8ER |
 | だが断る | ジョジョの奇妙な冒険 第4部 | 岸辺露伴とハイウェイ・スターの場面。単行本41巻『ハイウェイ・スター その③』との対応が二次資料で判明。雑誌掲載号と発売日は未確定 | 未確定 | 調査中 | https://www.jajanken.net/sakuhins/Ym78Rox0ax ; https://conorelmes.com/anime/jojo-daga-kotowaru/ |
-| 計画通り | DEATH NOTE | 原作第53話『悲鳴』、週刊少年ジャンプ2005年7号、誌面の日付2005-01-31。原作セリフは複数の解説資料で照合。 | **未確定（発売日の別途照合が必要）** | 発売日調査中 | https://www.jajanken.net/sakuhins/QLm8jkY09P ; https://indexindex.net/work.php?work_id=6958 ; https://dijitama.com/keikakudoori/ |
+| 計画通り | DEATH NOTE | page.53『悲鳴』、週刊少年ジャンプ2005年7号。美術展資料でも原画の号数・話数を確認。雑誌の号の日付は1月31日。 | **2005-01-17** | **公開可（発売日一覧＋展覧会資料で照合）** | https://deathnote.fandom.com/wiki/Weekly_Shonen_Jump ; https://www.city.takasaki.gunma.jp/uploaded/attachment/15905.pdf ; https://www.jajanken.net/sakuhins/QLm8jkY09P |
 
 ## 注意
 2006年32号は表記日付2006-07-24だが、実際の発売日は2006-07-10。日付だけから『ツギハギ漂流作家』のセリフ初出を断定してはいけない。
@@ -34,3 +34,7 @@
 ## 第163次監査（2026-11-08）
 - 『DEATH NOTE』の『計画通り』は原作page.53『悲鳴』。掲載誌は週刊少年ジャンプ2005年7号（誌面日付2005-01-31）。文化庁メディア芸術DB由来のジャジャン研・INDEXINDEXと、漫画ミーム解説で交差確認。実売日は未確認なので本番カレンダーへの追加を保留。https://www.jajanken.net/sakuhins/QLm8jkY09P ; https://indexindex.net/work.php?work_id=6958 ; https://dijitama.com/keikakudoori/
 - 『だが断る』は二次解説に単行本41巻という記述がある一方、巻ごとのエピソード対応に疑義があり、前回台帳の『ハイウェイ・スター その③』特定を確定情報として扱わない。https://x333.blog54.fc2.com/blog-entry-6020.html
+
+## 第164次監査（2026-11-08）
+- 『DEATH NOTE』page.53『悲鳴』掲載の週刊少年ジャンプ2005年7号は**2005-01-17発売**。Death Note Wikiの雑誌号別一覧に「表記日2005-01-31／発売日2005-01-17」が別列で掲載。高崎市公開の原画展資料も「WJ 2005年第7号 page.53 悲鳴」を裏付ける。https://deathnote.fandom.com/wiki/Weekly_Shonen_Jump ; https://www.city.takasaki.gunma.jp/uploaded/attachment/15905.pdf
+- 発売日資料は二次情報なので、後日当時の書店・出版社の一次記録が見つかれば差し替える。『だが断る』の初出日は引き続き保留。

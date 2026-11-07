@@ -3838,11 +3838,55 @@
       "source": "https://support.google.com/stadia/answer/9578631?hl=en",
       "sourceType": "operator",
       "importance": 4
+    },
+    {
+      "id": "niconico-cyberattack-outage-2024",
+      "date": "2024-06-08",
+      "title": "サイバー攻撃でニコニコが大規模停止",
+      "category": "ネット事件・障害",
+      "region": "日本",
+      "summary": "ランサムウェアを含むサイバー攻撃の影響でニコニコのサービス全般が停止。運営は復旧まで臨時サービスを提供した。",
+      "source": "https://dwango.co.jp/news/5131439897051136/",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "niconico-return-2024",
+      "date": "2024-08-05",
+      "title": "「帰ってきたニコニコ」としてサービス再開",
+      "category": "動画・ネット文化",
+      "region": "日本",
+      "summary": "大規模サイバー攻撃で停止していたニコニコが、15時から新バージョン「帰ってきたニコニコ」として順次再開。",
+      "source": "https://dwango.co.jp/news/5137977441255424/",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "line-launch-2011",
+      "date": "2011-06-23",
+      "title": "LINEがサービス開始",
+      "category": "SNS",
+      "region": "日本",
+      "summary": "モバイルメッセージングアプリLINEが登場。スマートフォンを通じた日常の連絡手段を変えた。",
+      "source": "https://www.linecorp.com/ko/pr/news/ko/2014/107",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "google-reader-retirement-announced-2013",
+      "date": "2013-03-13",
+      "title": "GoogleがGoogle Readerの終了を発表",
+      "category": "Webサービス終了",
+      "region": "世界",
+      "summary": "GoogleがRSSリーダーGoogle Readerを同年7月1日に終了すると発表。RSS購読文化の転機として大きな反響を呼んだ。",
+      "source": "https://blog.google/company-news/inside-google/company-announcements/a-second-spring-of-cleaning/",
+      "sourceType": "operator",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 212
+    "currentDistinctMonthDays": 213
   }
 }

@@ -7358,11 +7358,33 @@
       "source": "https://prtimes.jp/main/html/rd/p/000000010.000123128.html",
       "sourceType": "operator",
       "importance": 4
+    },
+    {
+      "id": "funingasu-recorded-session-2021-03-07",
+      "date": "2021-03-07",
+      "title": "「ふにんがす」初期のAmong Usコラボ回が開催",
+      "category": "動画・音楽文化",
+      "region": "日本",
+      "summary": "VOICEROID実況者らによるAmong Usコラボ『ふにんがす』の2021年3月7日の対戦記録が、シルシラの後日公開動画の説明文に残る。これは確認できた初期開催日の一例であり、企画の初回開催日とは断定しない。",
+      "source": "https://www.nicovideo.jp/watch/sm39160527",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "funingasu-shirusira-video-2021-08-11",
+      "date": "2021-08-11",
+      "title": "「ふにんがす」シルシラ視点のAmong Us実況動画が公開",
+      "category": "動画・音楽文化",
+      "region": "日本",
+      "summary": "シルシラが『【ふにんがす】たのしくみんなで AMONGUS【いわし仲良し編】』をニコニコ動画へ8時に投稿。2021年3月7日の対戦を編集したもので、複数投稿者の視点を持つ『ふにんがす』文化の具体例。投稿日時はニコログの記録で確認。",
+      "source": "https://www.nicovideo.jp/watch/sm39160527",
+      "sourceType": "historical_record",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 301
+    "currentDistinctMonthDays": 302
   }
 }

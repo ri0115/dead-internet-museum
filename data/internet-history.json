@@ -7864,11 +7864,22 @@
       "source": "https://knowyourmeme.com/editorials/guides/whats-the-november-3rd-fortnite-update-the-og-maps-return-and-its-memes-on-tiktok-explained",
       "sourceType": "contemporary_secondary",
       "importance": 4
+    },
+    {
+      "id": "mariah-carey-its-time-first-video-2019-11-01",
+      "date": "2019-11-01",
+      "title": "マライア・キャリーの「It's Time!」動画が投稿される",
+      "category": "ネットミーム・SNS",
+      "region": "世界",
+      "summary": "ハロウィーンからクリスマスへの切り替わりを演出した本人のSNS動画が11月1日に公開。以後、毎年恒例の「It's Time!」投稿としてネット文化に定着した。2019年の投稿を起点とし、楽曲の発売日とは区別する。",
+      "source": "https://www.latimes.com/entertainment-arts/music/story/2019-11-01/mariah-carey-all-i-want-for-christmas-video",
+      "sourceType": "contemporary_reporting_with_original_post",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 343
+    "currentDistinctMonthDays": 344
   }
 }

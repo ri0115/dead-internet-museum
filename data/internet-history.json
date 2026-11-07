@@ -4201,11 +4201,44 @@
       "source": "https://kimu3.net/20181126/12039",
       "sourceType": "contemporary_reporting",
       "importance": 5
+    },
+    {
+      "id": "souzai-dragon-original-2023",
+      "date": "2023-08-05",
+      "title": "「好きな惣菜発表ドラゴン」原曲が投稿",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ンバヂによる重音テト使用楽曲がニコニコ動画へ投稿。後に「好きな○○発表ドラゴン」の改変・替え歌ミームが拡大。",
+      "source": "https://origin.originalnews.nico/456590",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "souzai-dragon-followup-2023",
+      "date": "2023-09-27",
+      "title": "「みんなのコメント参考ドラゴン」が投稿",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "「好きな惣菜発表ドラゴン」の作者ンバヂが続編を投稿。視聴者コメントを題材にした派生の節目。",
+      "source": "https://origin.originalnews.nico/456590",
+      "sourceType": "historical_record",
+      "importance": 3
+    },
+    {
+      "id": "souzai-dragon-trend-2024",
+      "date": "2024-03-27",
+      "title": "「好きな惣菜発表ドラゴン」がXで話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "2023年投稿の楽曲が2024年3月27日ごろにXでトレンド入りし、好きなものを発表する改変画像が拡散。",
+      "source": "https://nlab.itmedia.co.jp/cont/articles/3375336/amp/",
+      "sourceType": "historical_record",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 225
+    "currentDistinctMonthDays": 226
   }
 }

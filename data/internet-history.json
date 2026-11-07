@@ -6247,11 +6247,198 @@
       "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202210.html",
       "sourceType": "contemporary_reporting",
       "importance": 4
+    },
+    {
+      "id": "internet-archive-76-01",
+      "date": "2023-01-23",
+      "title": "渋谷の小学生がストリートビュー撮影車を追いかける姿が話題",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "Googleストリートビューに写り込んだ小学生の躍動感ある姿がSNSで話題になった。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/1472241.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-76-02",
+      "date": "2023-03-06",
+      "title": "Bing AIがアスキーアートを生成する仕組みを自ら実装して話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "チャットAIがアスキーアートを生成する試みがネットニュースで紹介された。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202303.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-archive-76-03",
+      "date": "2023-03-14",
+      "title": "はてブのホットエントリーにAIがコメントするアカウントが話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "はてなブックマークの人気記事にAIがブックマークコメントを付ける試みが報じられた。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202303.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-archive-76-04",
+      "date": "2023-03-24",
+      "title": "ChatGPTが大量の返信をくれるSNSが登場",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "書き込むだけでAIから多数の返信を受け取れる、承認欲求を疑似的に満たすSNSが紹介された。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202303.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-76-05",
+      "date": "2023-03-30",
+      "title": "人間がChatGPTを演じる「俺GPT」が登場",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ChatGPTの代わりに人間が答えるパロディサービスが登場し、アクセスが集中したと報じられた。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202303.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-76-06",
+      "date": "2023-03-31",
+      "title": "懐かしの「バザールでござーる」がネットで再注目",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "NECのキャラクターがSNSで再び脚光を浴びたことが報じられた。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202303.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-76-07",
+      "date": "2023-04-05",
+      "title": "Twitterの犬アイコンを青い鳥へ戻す拡張機能が登場",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "Twitterのロゴ変更に対するユーザーの反応として、従来の鳥アイコンを復活させる拡張機能が登場。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202304.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-76-08",
+      "date": "2023-04-07",
+      "title": "文化庁の日本映画データベースが閉鎖されドメイン放棄が報じられる",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "約4万8千件の映画情報を集めた文化庁のウェブサイトが閉鎖されたと報じられた。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202304.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-76-09",
+      "date": "2023-04-10",
+      "title": "昔のダイエー店舗を写真で保存した個人サイトが話題に",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "かつてのダイエー店舗を網羅的に記録する個人アーカイブサイトが紹介された。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202304.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-76-10",
+      "date": "2023-04-24",
+      "title": "初代iPhoneの未開封品を約15年後に開封する動画が話題に",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "長年未開封だった初代iPhoneを開封する動画がネットで注目された。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202304.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-archive-76-11",
+      "date": "2023-04-27",
+      "title": "Windows 98でもChatGPTを使える「JavaGPT」が登場",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "旧Windowsで動くChatGPTクライアントがGitHubで公開されたと報じられた。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202304.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-76-12",
+      "date": "2024-09-02",
+      "title": "YouTubeのうるさいサムネイルを再現するジェネレーターが話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "YouTubeでよく見かける煽り気味のサムネイルを作るツールが紹介された。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202409.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-76-13",
+      "date": "2024-09-06",
+      "title": "人力でデフラグするブラウザーゲームが話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "昔のディスク最適化画面を思わせるブロックを自分で並べ替えるゲームが報じられた。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202409.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-76-14",
+      "date": "2024-09-26",
+      "title": "Google検索の「cache」コマンドが完全廃止",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "Google検索でキャッシュを表示する機能が完全に廃止されたと報じられた。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202409.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-archive-76-15",
+      "date": "2024-09-27",
+      "title": "「魔法のiらんど」がカクヨムへの統合方針を発表",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "携帯小説文化を支えた『魔法のiらんど』の統合が報じられた。実際の終了日ではなく報道日。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202409.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-archive-76-16",
+      "date": "2024-10-02",
+      "title": "アキバ総研の終了後にWaybackリンク集が登場",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "終了した『アキバ総研』のInternet Archive保存ページへのリンクをまとめたサイトが紹介された。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202410.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-76-17",
+      "date": "2024-10-07",
+      "title": "「これは最初の投稿です。」で検索すると歯科サイトが並ぶ現象が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "Google検索の奇妙な結果をめぐるネット上の発見が報じられた。 日付は報道日であり、初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202410.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 284
+    "currentDistinctMonthDays": 289
   }
 }

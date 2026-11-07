@@ -15,7 +15,7 @@
 | ミーム | 作品 | 現時点で確定した情報 | 本誌発売日 | 状態 | 出典 |
 |---|---|---|---|---|---|
 | 何が嫌いかより何が好きかで自分を語れよ!!! | ツギハギ漂流作家 | 最終第22話・週刊少年ジャンプ2006年32号。発売3日後の2006-07-13の同号感想記事がセリフを直接引用。 | 2006-07-10 | **公開可（当時の読者記録で照合）** | https://aiba.livedoor.biz/archives/50561871.html ; https://www.jajanken.net/sakuhins/zPm81YV8ER |
-| だが断る | ジョジョの奇妙な冒険 第4部 | 岸辺露伴とハイウェイ・スターの場面。単行本41巻『ハイウェイ・スター その③』との対応が二次資料で判明。雑誌掲載号と発売日は未確定 | 未確定 | 調査中 | https://www.jajanken.net/sakuhins/Ym78Rox0ax ; https://conorelmes.com/anime/jojo-daga-kotowaru/ |
+| だが断る | ジョジョの奇妙な冒険 第4部 | 通算第386話・第4部121話。週刊少年ジャンプ1994年46号、雑誌掲載時『グっときたぜ！』、単行本41巻『ハイウェイ・スター その③』。 | **1994-10-18** | **公開可（話数・号数・発売日を照合）** | https://jojowiki.com/DU_Chapter_121 ; https://wikiwiki.jp/jojo2ch/%E3%83%87%E3%83%BC%E3%82%BF/%E5%8F%8E%E9%8C%B2%E8%A9%B1%E4%B8%80%E8%A6%A7/part4-5 |
 | 計画通り | DEATH NOTE | page.53『悲鳴』、週刊少年ジャンプ2005年7号。美術展資料でも原画の号数・話数を確認。雑誌の号の日付は1月31日。 | **2005-01-17** | **公開可（発売日一覧＋展覧会資料で照合）** | https://deathnote.fandom.com/wiki/Weekly_Shonen_Jump ; https://www.city.takasaki.gunma.jp/uploaded/attachment/15905.pdf ; https://www.jajanken.net/sakuhins/QLm8jkY09P |
 
 ## 注意
@@ -38,3 +38,7 @@
 ## 第164次監査（2026-11-08）
 - 『DEATH NOTE』page.53『悲鳴』掲載の週刊少年ジャンプ2005年7号は**2005-01-17発売**。Death Note Wikiの雑誌号別一覧に「表記日2005-01-31／発売日2005-01-17」が別列で掲載。高崎市公開の原画展資料も「WJ 2005年第7号 page.53 悲鳴」を裏付ける。https://deathnote.fandom.com/wiki/Weekly_Shonen_Jump ; https://www.city.takasaki.gunma.jp/uploaded/attachment/15905.pdf
 - 発売日資料は二次情報なので、後日当時の書店・出版社の一次記録が見つかれば差し替える。『だが断る』の初出日は引き続き保留。
+
+## 第165次監査（2026-11-08）
+- 『だが断る』を含む『ジョジョ』第386話『グっときたぜ！』（単行本で『ハイウェイ・スター その③』）は、週刊少年ジャンプ1994年46号、**1994-10-18発売**。JoJo WikiのIn Store Dateと号数、ジョジョ疑問スレの原作話数一覧を突合。https://jojowiki.com/DU_Chapter_121 ; https://wikiwiki.jp/jojo2ch/%E3%83%87%E3%83%BC%E3%82%BF/%E5%8F%8E%E9%8C%B2%E8%A9%B1%E4%B8%80%E8%A6%A7/part4-5
+- 1995年3月は41巻の単行本発売時期。ネットの一部解説は1995年を本誌初出と誤認させるので区別。発売日情報は専門ファンDB由来で、出版社の一次発売記録が見つかれば追加照合する。

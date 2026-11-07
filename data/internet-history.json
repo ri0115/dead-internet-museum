@@ -6852,6 +6852,72 @@
       "source": "https://www.pixiv.co.jp/2023/12/14/121456",
       "sourceType": "operator",
       "importance": 5
+    },
+    {
+      "date": "2021-09-13",
+      "title": "「ゆっくり茶番劇」の商標登録が出願される",
+      "summary": "東方Projectの二次創作動画ジャンルとして以前から使われていた「ゆっくり茶番劇」の商標登録が第三者によって出願された。出願日を記録。",
+      "source": "https://save-the-yukkuri.github.io/Yukkuri-Chabangeki-Soudou-Database/",
+      "importance": 4,
+      "id": "yukkuri-trademark-82-01",
+      "category": "ネット文化・騒動",
+      "region": "日本",
+      "sourceType": "contemporary_reporting"
+    },
+    {
+      "date": "2022-02-24",
+      "title": "「ゆっくり茶番劇」の文字商標が登録される",
+      "summary": "後に大きなネット騒動となる「ゆっくり茶番劇」の文字商標が登録された。騒動が表面化した2022年5月15日とは別の日付。",
+      "source": "https://www.itmedia.co.jp/news/article/2205/16/1220516090/",
+      "importance": 4,
+      "id": "yukkuri-trademark-82-02",
+      "category": "ネット文化・騒動",
+      "region": "日本",
+      "sourceType": "contemporary_reporting"
+    },
+    {
+      "date": "2022-05-15",
+      "title": "「ゆっくり茶番劇」の商標登録と使用料の主張がネットで炎上",
+      "summary": "第三者が「ゆっくり茶番劇」の商標権取得と使用料を主張する告知を行い、東方Project二次創作文化の共有財産をめぐる議論が拡大した。",
+      "source": "https://news.denfaminicogamer.jp/news/220516g",
+      "importance": 5,
+      "id": "yukkuri-trademark-82-03",
+      "category": "ネット文化・騒動",
+      "region": "日本",
+      "sourceType": "contemporary_reporting"
+    },
+    {
+      "date": "2022-05-20",
+      "title": "ドワンゴが「ゆっくり茶番劇」の商標問題に公式見解を公表",
+      "summary": "ドワンゴが「ゆっくり茶番劇」の文字商標について見解を公表し、従来の動画タイトルへの使用は商標権侵害にならないとの立場を示した。",
+      "source": "https://realsound.jp/tech/2022/05/post-1035344.html",
+      "importance": 5,
+      "id": "yukkuri-trademark-82-04",
+      "category": "ネット文化・騒動",
+      "region": "日本",
+      "sourceType": "contemporary_reporting"
+    },
+    {
+      "date": "2022-05-23",
+      "title": "ドワンゴが「ゆっくり茶番劇」商標問題への対応方針を会見",
+      "summary": "ドワンゴが記者会見を開き、商標権放棄の交渉や無効審判請求などの対応方針を説明した。",
+      "source": "https://origin.originalnews.nico/371525",
+      "importance": 5,
+      "id": "yukkuri-trademark-82-05",
+      "category": "ネット文化・騒動",
+      "region": "日本",
+      "sourceType": "contemporary_reporting"
+    },
+    {
+      "date": "2022-05-24",
+      "title": "「ゆっくり茶番劇」商標権者が抹消申請を発表",
+      "summary": "商標権者が商標登録の抹消申請を行ったと発表。申請日であり、この時点で抹消が確定したわけではない。",
+      "source": "https://www.itmedia.co.jp/business/articles/2205/24/news183.html",
+      "importance": 5,
+      "id": "yukkuri-trademark-82-06",
+      "category": "ネット文化・騒動",
+      "region": "日本",
+      "sourceType": "contemporary_reporting"
     }
   ],
   "coverage": {

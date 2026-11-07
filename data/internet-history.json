@@ -8227,6 +8227,94 @@
       "source": "https://www.dexerto.com/entertainment/bella-poarchs-viral-m-to-the-b-tiktok-breaks-record-for-most-likes-1418840/",
       "sourceType": "contemporary_reporting",
       "importance": 3
+    },
+    {
+      "id": "platform-buzz-tiktok-2021-11-09-0",
+      "date": "2021-11-09",
+      "title": "TikTok流行語大賞2021の30候補が発表",
+      "category": "プラットフォーム内バズ・TikTok",
+      "region": "日本",
+      "summary": "「いやヤバいでしょ」など、日本のTikTokで拡散した楽曲・言葉・チャレンジ30件を公式が候補として発表。個別の流行開始日ではなく、年間流行の公式記録日。",
+      "source": "https://prtimes.jp/main/html/rd/p/000000537.000030435.html",
+      "sourceType": "platform_primary",
+      "importance": 4
+    },
+    {
+      "id": "platform-buzz-tiktok-2021-12-08-1",
+      "date": "2021-12-08",
+      "title": "TikTok流行語大賞2021は「モテすぎて草誘ってて森」",
+      "category": "プラットフォーム内バズ・TikTok",
+      "region": "日本",
+      "summary": "TikTok公式の年間流行語大賞が「#モテすぎて草誘ってて森」に決定。特別賞は「#YONA YONA DANCE」。受賞発表日を記録。",
+      "source": "https://newsroom.tiktok.com/tiktok-announced-the-buzzword-award-of-2021/?lang=ja-JP",
+      "sourceType": "platform_primary",
+      "importance": 4
+    },
+    {
+      "id": "platform-buzz-tiktok-2022-11-10-2",
+      "date": "2022-11-10",
+      "title": "TikTok流行語大賞2022の30候補が発表",
+      "category": "プラットフォーム内バズ・TikTok",
+      "region": "日本",
+      "summary": "TikTokが「踊る暇があったら発明してえ」や「Overdose」など2022年の国内トレンド30件を公表。元動画の投稿・流行開始日とは区別。",
+      "source": "https://newsroom.tiktok.com/tiktok-trend-word-awards-2022?lang=ja-JP",
+      "sourceType": "platform_primary",
+      "importance": 4
+    },
+    {
+      "id": "platform-buzz-tiktok-2022-12-06-3",
+      "date": "2022-12-06",
+      "title": "TikTok流行語大賞2022は「チグハグ」",
+      "category": "プラットフォーム内バズ・TikTok",
+      "region": "日本",
+      "summary": "THE SUPER FRUITの「それでは聴いてください、チグハグ」が大賞を受賞。PUFFY「愛のしるし」は特別賞。#チグハグは当時12億回超の再生を記録。",
+      "source": "https://newsroom.tiktok.com/tiktok-buzzword-award-2022-results?lang=ja-JP",
+      "sourceType": "platform_primary",
+      "importance": 4
+    },
+    {
+      "id": "platform-buzz-tiktok-2023-11-16-4",
+      "date": "2023-11-16",
+      "title": "TikTokトレンド大賞2023の20候補を発表",
+      "category": "プラットフォーム内バズ・TikTok",
+      "region": "日本",
+      "summary": "TikTokが流行語に限らず音楽・ハッシュタグ・グルメ・スポーツなど20候補を発表。従来の「流行語大賞」から「トレンド大賞」へ名称変更。",
+      "source": "https://newsroom.tiktok.com/tiktok-trend-award-2023?lang=ja-JP",
+      "sourceType": "platform_primary",
+      "importance": 4
+    },
+    {
+      "id": "platform-buzz-tiktok-2023-12-14-5",
+      "date": "2023-12-14",
+      "title": "TikTokトレンド大賞2023は「ストリートスナップ」",
+      "category": "プラットフォーム内バズ・TikTok",
+      "region": "日本",
+      "summary": "年間大賞に「ストリートスナップ」が選出。「アイドル」「なぁぜなぁぜ」「ユニクロバッグ」なども部門賞。TikTok上の国内流行を示す公式記録。",
+      "source": "https://newsroom.tiktok.com/tiktok-trend-awards-2023-japan/?lang=ja-JP",
+      "sourceType": "platform_primary",
+      "importance": 4
+    },
+    {
+      "id": "platform-buzz-instagram-2022-12-01-6",
+      "date": "2022-12-01",
+      "title": "Instagramが国内Z世代の2022年トレンドを発表",
+      "category": "プラットフォーム内バズ・Instagram",
+      "region": "日本",
+      "summary": "Instagram公式が国内18〜25歳のハッシュタグ・リール使用楽曲・検索語・お題スタンプの傾向を公開。「#韓国ファッション」「#韓国ヘア」や手書きのお題などが特徴。",
+      "source": "https://about.fb.com/ja/news/2022/12/genztrend2022/",
+      "sourceType": "platform_primary",
+      "importance": 4
+    },
+    {
+      "id": "platform-buzz-instagram-2023-12-19-7",
+      "date": "2023-12-19",
+      "title": "Instagramが国内Z世代の2023年トレンド総集編を発表",
+      "category": "プラットフォーム内バズ・Instagram",
+      "region": "日本",
+      "summary": "Instagramが国内Z世代の人気検索語・ハッシュタグ・リール楽曲・ARエフェクトを振り返る総集編を公開。日本国内の流行を公式データで追える記録。",
+      "source": "https://about.fb.com/ja/news/2023/12/instagram_genz_trend_report_2023_year_end_edition/",
+      "sourceType": "platform_primary",
+      "importance": 4
     }
   ],
   "coverage": {

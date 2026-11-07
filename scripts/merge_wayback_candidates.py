@@ -23,6 +23,7 @@ for path in sorted((root/"prior-audits").glob("*.zip")):
 count=0
 for r in records:
     if r.get("snapshot"):continue
+    if r.get("candidateReview")=="rejected":continue
     if r["id"] in candidates:
         r["candidateSnapshot"]=candidates[r["id"]]
         count+=1

@@ -3805,6 +3805,39 @@
       "source": "https://support.microsoft.com/ja-jp/skype/skype-is-retiring-in-may-2025-what-you-need-to-know",
       "sourceType": "operator",
       "importance": 5
+    },
+    {
+      "id": "google-reader-shutdown-2013",
+      "date": "2013-07-01",
+      "title": "Google Readerがサービス終了",
+      "category": "Webサービス終了",
+      "region": "世界",
+      "summary": "GoogleがRSSリーダー「Google Reader」を終了。ブログやニュースをRSSで購読する文化の象徴的な転換点。",
+      "source": "https://googlereader.blogspot.com/2013/03/powering-down-google-reader.html",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "internet-explorer-11-retirement-2022",
+      "date": "2022-06-15",
+      "title": "Internet Explorer 11のデスクトップアプリがサポート終了",
+      "category": "ブラウザ",
+      "region": "世界",
+      "summary": "Windows 10の対象バージョンでIE11デスクトップアプリのサポートが終了。日本時間では6月16日。IEモードや一部OSは対象外。",
+      "source": "https://learn.microsoft.com/en-us/lifecycle/announcements/internet-explorer-11-end-of-support",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "google-stadia-shutdown-2023",
+      "date": "2023-01-18",
+      "title": "Google Stadiaがサービス終了",
+      "category": "Webサービス終了",
+      "region": "世界",
+      "summary": "GoogleのクラウドゲームサービスStadiaが終了。クラウドゲームの商用化と難しさを象徴する出来事。",
+      "source": "https://support.google.com/stadia/answer/9578631?hl=en",
+      "sourceType": "operator",
+      "importance": 4
     }
   ],
   "coverage": {

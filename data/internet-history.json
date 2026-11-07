@@ -7226,6 +7226,39 @@
       "source": "https://www.itmedia.co.jp/news/article/2208/25/1220825207/",
       "sourceType": "contemporary_reporting",
       "importance": 4
+    },
+    {
+      "id": "salome-vtuber-debut-2022-05-21",
+      "date": "2022-05-21",
+      "title": "壱百満天原サロメがにじさんじでデビュー",
+      "category": "動画・音楽文化",
+      "region": "日本",
+      "summary": "ANYCOLORが壱百満天原サロメのデビューを公式発表し、同日からTwitterアカウントが始動。初配信は5月24日であり、デビュー日と分けて記録する。",
+      "source": "https://www.anycolor.co.jp/news/9ftyls47u",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "salome-first-stream-2022-05-24",
+      "date": "2022-05-24",
+      "title": "壱百満天原サロメが初配信、胃カメラ画像を公開",
+      "category": "動画・音楽文化",
+      "region": "日本",
+      "summary": "にじさんじの壱百満天原サロメがYouTubeで初配信。お嬢様口調と胃カメラ画像を披露する異色の自己紹介がSNSで話題となった。本人の公開動画を一次資料とする。",
+      "source": "https://www.youtube.com/watch?v=AniQdstq4KM",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "salome-million-2022-06-07",
+      "date": "2022-06-07",
+      "title": "壱百満天原サロメが初配信14日で登録者100万人突破",
+      "category": "動画・音楽文化",
+      "region": "日本",
+      "summary": "壱百満天原サロメのYouTube登録者数が6月7日に100万人を突破。初配信から14日で、当時VTuberとして最速と報じられた。所属会社の翌日付発表と当日報道で確認。",
+      "source": "https://www.itmedia.co.jp/news/article/2206/07/1220607164/",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
     }
   ],
   "coverage": {

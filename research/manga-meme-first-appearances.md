@@ -14,7 +14,7 @@
 
 | ミーム | 作品 | 現時点で確定した情報 | 本誌発売日 | 状態 | 出典 |
 |---|---|---|---|---|---|
-| 何が嫌いかより何が好きかで自分を語れよ!!! | ツギハギ漂流作家 | 最終第22話は週刊少年ジャンプ2006年32号。複数の解説・引用資料がこのセリフを最終話と明記。ただし原作誌面の直接照合は未実施 | 2006-07-10（32号の発売日） | 要原作照合 | https://www.jajanken.net/sakuhins/zPm81YV8ER ; https://www.comics.org/issue/1405313/ ; https://www.tcg-bloglife.com/entry/2015/02/19/114956 |
+| 何が嫌いかより何が好きかで自分を語れよ!!! | ツギハギ漂流作家 | 最終第22話・週刊少年ジャンプ2006年32号。発売3日後の2006-07-13の同号感想記事がセリフを直接引用。 | 2006-07-10 | **公開可（当時の読者記録で照合）** | https://aiba.livedoor.biz/archives/50561871.html ; https://www.jajanken.net/sakuhins/zPm81YV8ER |
 | だが断る | ジョジョの奇妙な冒険 第4部 | 岸辺露伴とハイウェイ・スターの場面。単行本41巻『ハイウェイ・スター その③』との対応が二次資料で判明。雑誌掲載号と発売日は未確定 | 未確定 | 調査中 | https://www.jajanken.net/sakuhins/Ym78Rox0ax ; https://conorelmes.com/anime/jojo-daga-kotowaru/ |
 | 計画通り | DEATH NOTE | セリフの該当話数・本誌掲載号は未照合 | 未確定 | 調査中 | — |
 
@@ -25,3 +25,8 @@
 - 『ツギハギ漂流作家』の台詞が最終話に登場するとの記述を、2015年のブログと2026年の質問投稿で確認。いずれも原作そのものではないため、公開可には昇格しない。https://www.tcg-bloglife.com/entry/2015/02/19/114956 ; https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10328913755
 - 『だが断る』の単行本内位置は『ハイウェイ・スター その③』とする二次解説を発見。アニメ第28話の放送日を原作初出日と混同しない。https://conorelmes.com/anime/jojo-daga-kotowaru/
 - 『ツギハギ漂流作家』由来のセリフがルフィのものと誤認されたネット文化の記録は、2013年の用語解説および2014年のゲームでの使用を報じた記事で確認。漫画の初出日とネットでの再流通日は別のイベントとして扱う。https://netyougo.com/manga/9378.html ; https://blog.esuteru.com/archives/7594274.html
+
+## 第162次監査（2026-11-08）
+- 2006年7月13日付の『週刊少年ジャンプ32号』当時の読者感想で『ツギハギ漂流作家』最終話の当該セリフを直接引用。後年の回想だけに依存せず、同時代記録で掲載話とセリフを照合できたため、7月10日発売日のカレンダーイベントを追加。https://aiba.livedoor.biz/archives/50561871.html
+- 号数照合は文化庁メディア芸術データベースを元にしたジャジャン研。https://www.jajanken.net/sakuhins/zPm81YV8ER
+- 『DEATH NOTE』は全話の号数一覧を確認したが、『計画通り』の原作話数を未確定。日付を推測して追加しない。https://www.jajanken.net/sakuhins/QLm8jkY09P

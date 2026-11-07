@@ -7842,11 +7842,33 @@
       "source": "https://adamcquirk.com/videos/",
       "sourceType": "creator_primary_and_upload_date_secondary",
       "importance": 3
+    },
+    {
+      "id": "qq-360-difficult-decision-2010-11-03",
+      "date": "2010-11-03",
+      "title": "中国ネットで「非常に難しい決定」コピペが拡散",
+      "category": "ネットミーム・コピペ",
+      "region": "中国",
+      "summary": "TencentがQQと360製品の併用を拒否する声明を2010年11月3日に発表。声明の「非常に難しい決定」という表現がネットユーザーに大量に改変・パロディ化された。",
+      "source": "https://knowyourmeme.com/memes/a-very-difficult-decision",
+      "sourceType": "meme_history_secondary",
+      "importance": 4
+    },
+    {
+      "id": "fortnite-og-return-2023-11-03",
+      "date": "2023-11-03",
+      "title": "Fortnite OG開始、初期マップ復活がネットで話題に",
+      "category": "ゲーム・ネット文化",
+      "region": "世界",
+      "summary": "Fortniteが初期の島を再現した「Fortnite OG」を2023年11月3日に公開。懐古的な投稿や復帰プレイヤーの反応がSNS上でミーム化した。",
+      "source": "https://knowyourmeme.com/editorials/guides/whats-the-november-3rd-fortnite-update-the-og-maps-return-and-its-memes-on-tiktok-explained",
+      "sourceType": "contemporary_secondary",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 342
+    "currentDistinctMonthDays": 343
   }
 }

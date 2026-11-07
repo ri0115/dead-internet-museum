@@ -8425,6 +8425,61 @@
       "source": "https://forbesjapan.com/articles/detail/67576",
       "sourceType": "contemporary_reporting",
       "importance": 5
+    },
+    {
+      "id": "platform-viral-2018-04-04-0",
+      "date": "2018-04-04",
+      "title": "「Despacito」がYouTube史上初の50億再生を達成",
+      "summary": "ギネス世界記録による達成日。2017年1月12日公開のMVが、世界的な動画視聴記録を更新した。",
+      "source": "https://www.guinnessworldrecords.com/world-records/520890-first-youtube-video-to-receive-5-billion-views",
+      "category": "プラットフォーム内バズ・YouTube",
+      "region": "世界",
+      "sourceType": "record_authority",
+      "importance": 4
+    },
+    {
+      "id": "platform-viral-2024-11-06-1",
+      "date": "2024-11-06",
+      "title": "TikTokトレンド大賞2024の16候補が発表",
+      "summary": "TikTok日本公式が『Giri Giri』『おともだち』『12345678Challenge』など16の年間トレンド候補を発表。元投稿の日付とは区別する。",
+      "source": "https://newsroom.tiktok.com/trend-nominees-2024?lang=ja-JP",
+      "category": "プラットフォーム内バズ・TikTok",
+      "region": "日本",
+      "sourceType": "platform_primary",
+      "importance": 4
+    },
+    {
+      "id": "platform-viral-2024-12-05-2",
+      "date": "2024-12-05",
+      "title": "TikTokトレンド大賞2024は「Giri Giri」",
+      "summary": "KOMOREBIの『Giri Giri』が大賞。『ギリハピダンス』が流行し、公式によれば2024年1〜9月の楽曲総再生は23億回超。部門賞は『一目惚れ』『しかのこのこのここしたんたん』、特別賞はショートドラマ。",
+      "source": "https://newsroom.tiktok.com/trend-2024?lang=ja-JP",
+      "category": "プラットフォーム内バズ・TikTok",
+      "region": "日本",
+      "sourceType": "platform_primary",
+      "importance": 4
+    },
+    {
+      "id": "platform-viral-2024-12-05-3",
+      "date": "2024-12-05",
+      "title": "TikTok年間クリエイター大賞はSATOYU（OHIOBOSS）",
+      "summary": "TikTok Awards Japan 2024でSATOYU(^↓^)OHIOBOSSがCreator of the Yearを受賞。2024年のフォロワー増加は約400万人と公式発表。",
+      "source": "https://newsroom.tiktok.com/awards?lang=ja-JP",
+      "category": "プラットフォーム内バズ・TikTok",
+      "region": "日本",
+      "sourceType": "platform_primary",
+      "importance": 4
+    },
+    {
+      "id": "platform-viral-2024-12-09-4",
+      "date": "2024-12-09",
+      "title": "TikTokが2024年の世界・日本の年間バズ総集編を公開",
+      "summary": "TikTokが『Year on TikTok 2024』を公開。国内外で話題になったトレンド、クリエイター、楽曲、コミュニティを振り返る公式記録。",
+      "source": "https://newsroom.tiktok.com/year-on-tiktok-2024-jp?lang=ja-JP",
+      "category": "プラットフォーム内バズ・TikTok",
+      "region": "日本",
+      "sourceType": "platform_primary",
+      "importance": 4
     }
   ],
   "coverage": {

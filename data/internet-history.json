@@ -2347,11 +2347,73 @@
       "source": "https://www.nic.ad.jp/timeline/#202151",
       "sourceType": "historical_timeline",
       "importance": 5
+    },
+    {
+      "id": "samurai-senkousha-2001",
+      "date": "2001-03-03",
+      "title": "侍魂が「先行者」テキストを公開",
+      "category": "個人サイト・ネットミーム",
+      "region": "日本",
+      "summary": "個人テキストサイト「侍魂」が中国製ロボット「先行者」を題材にした記事を公開。個人サイト文化を代表するネット上の大ヒットとなった。",
+      "source": "https://websitemap.sakura.ne.jp/webhistory.html",
+      "sourceType": "independent_historical_archive",
+      "importance": 5,
+      "editorialNote": "公開日は個人サイト史年表による。2001年当時の作者インタビューでも先行者記事の反響を確認できる。",
+      "secondarySource": "https://internet.watch.impress.co.jp/www/article/2001/0730/megahit.htm"
+    },
+    {
+      "id": "tenimyu-beta-2007",
+      "date": "2007-01-18",
+      "title": "「あいつこそがテニスの王子様」がニコニコβに投稿",
+      "category": "空耳・ネットミーム",
+      "region": "日本",
+      "summary": "テニミュ空耳ブームの初期動画がニコニコ動画βに投稿されたとする記録。2007年3月6日のSMILEVIDEO再投稿とは区別する。",
+      "source": "https://knowyourmeme.com/memes/tenimyu",
+      "sourceType": "community_historical_archive",
+      "importance": 5,
+      "dateNote": "初期のYouTube動画をニコニコβで共有した日。2007年3月6日は後の投稿基盤での投稿日。",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "nicovideo-onmyoji-sm9-2007",
+      "date": "2007-03-06",
+      "title": "「レッツゴー！陰陽師」（sm9）がニコニコ動画に投稿",
+      "category": "動画・ネットミーム",
+      "region": "日本",
+      "summary": "ニコニコ動画に現存する最古の動画の一つ。弾幕コメント文化を象徴する作品として定着。",
+      "source": "https://originalnews.nico/412709",
+      "sourceType": "platform_operator",
+      "importance": 5,
+      "originalUrl": "https://www.nicovideo.jp/watch/sm9"
+    },
+    {
+      "id": "tenimyu-sm27-2007",
+      "date": "2007-03-06",
+      "title": "テニミュ空耳動画「あいつこそがテニスの王子様」（sm27）が投稿",
+      "category": "空耳・ネットミーム",
+      "region": "日本",
+      "summary": "ニコニコ動画γ開始日に投稿されたテニミュ空耳動画。空耳字幕とコメントの相互作用を象徴する作品。元動画は削除済み。",
+      "source": "https://originalnews.nico/92763",
+      "sourceType": "platform_operator_editorial",
+      "importance": 5,
+      "dateNote": "ミーム自体の初出ではなくsm27の投稿日。",
+      "originalStatus": "deleted"
+    },
+    {
+      "id": "nekonabe-upload-2007",
+      "date": "2007-08-05",
+      "title": "「ねこ鍋」がニコニコ動画に投稿",
+      "category": "動物・ネットミーム",
+      "region": "日本",
+      "summary": "子猫が土鍋に入って眠る動画が投稿され、DVDや写真集にも展開するネット発の人気コンテンツとなった。",
+      "source": "https://www.j-cast.com/2007/11/11013088.html",
+      "sourceType": "contemporary_report",
+      "importance": 5
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Source anchor and exact day required. Event occurrence, announcement and shutdown must be distinguished. HTML publication deferred.",
+    "policy": "Only day-verified events. Distinguish original creation, repost and viral spread; mark secondary-only sources. Site HTML remains unchanged.",
     "currentDistinctMonthDays": 159
   }
 }

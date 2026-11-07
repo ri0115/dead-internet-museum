@@ -28,7 +28,7 @@
     "current_html": "v2.7 TIME MACHINE / 453 records",
     "design_note": "mechanical 7-digit counters, low-frequency NEW blink, reduced-motion and toggle; no fictitious visitor traffic",
     "batch11_added": 17,
-    "revision": "research_v52_url_merge",
+    "revision": "research_v53_url_merge",
     "total_exhibits": 453,
     "last_updated": "2026-11-07",
     "note_batch12": "開始年・存続期間・元号跨ぎの可視化。サービス本体と旧ブランド/サポート終了を区別。",
@@ -1863,13 +1863,13 @@
       "source_primary": false,
       "closure_scope": "entire_service",
       "post_closure": "ライブドアブログへ移行・エクスポートが案内された。",
-      "original_url": "",
+      "original_url": "http://blog.drecom.jp/",
       "record_origin": "research_2026_11_06",
-      "editorial_note": "【開始年監査】マイプロフィールとしては2003年7月から。ドリコムブログ名への改称は2004年9月",
+      "editorial_note": "【開始年監査】マイプロフィールとしては2003年7月から。ドリコムブログ名への改称は2004年9月 第53次：運営元2009-10-26発表に記載されたURLを確認。2010年3月末終了、livedoor Blogへ移行。Wayback保存ページ未確認。",
       "source_review": "secondary_documented",
       "archive_url": null,
       "archive_validation": "not_checked",
-      "archive_search_url": null,
+      "archive_search_url": "https://web.archive.org/web/*/http://blog.drecom.jp/",
       "entity_type": "service",
       "editorial_status": "core",
       "editorial_basis": "大手一般向けサービス、当時の代表性、または日本のWeb文化史上の影響を考慮した暫定編集判断。利用者数の実測ではない。",
@@ -1892,7 +1892,9 @@
         "duration_precision": "approx_from_calendar_years",
         "classification_basis": "start year + end year; no exact duration implied",
         "caveat": ""
-      }
+      },
+      "archive_link_type": "wayback_calendar_unverified",
+      "original_url_evidence": "https://drecom.co.jp/corporate_news/2009/10/post-26.php"
     },
     {
       "id": "kinugasa",

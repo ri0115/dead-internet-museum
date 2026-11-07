@@ -1,0 +1,36 @@
+{
+  "batch": 48,
+  "date": "2026-11-07",
+  "source_master_sha": "0d93c4b8eb15fd4ebab49674f70334c1680dec24",
+  "status": "researched_not_yet_merged_into_master",
+  "archive_verification": "calendar_links_only_no_snapshot_verified",
+  "records": [
+    {
+      "id": "hatena-haiku",
+      "name": "はてなハイク",
+      "original_url": "http://h.hatena.ne.jp/",
+      "archive_search_url": "https://web.archive.org/web/*/http://h.hatena.ne.jp/",
+      "original_url_evidence": "https://labo.hatenastaff.com/entry/2019/03/27/173524",
+      "evidence_tier": "operator",
+      "archive_link_type": "wayback_calendar_unverified"
+    },
+    {
+      "id": "sarusal",
+      "name": "さるさる日記",
+      "original_url": "http://www.diary.ne.jp/",
+      "archive_search_url": "https://web.archive.org/web/*/http://www.diary.ne.jp/",
+      "original_url_evidence": "https://internet.watch.impress.co.jp/docs/news/444463.html",
+      "evidence_tier": "contemporary_report_with_original_link",
+      "archive_link_type": "wayback_calendar_unverified"
+    },
+    {
+      "id": "kanshin",
+      "name": "関心空間",
+      "original_url": "http://www.kanshin.com/",
+      "archive_search_url": "https://web.archive.org/web/*/http://www.kanshin.com/",
+      "original_url_evidence": "https://internet.watch.impress.co.jp/docs/yajiuma/1012278.html",
+      "evidence_tier": "contemporary_report_with_original_link",
+      "archive_link_type": "wayback_calendar_unverified"
+    }
+  ]
+}

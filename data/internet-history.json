@@ -8535,11 +8535,55 @@
       "source": "https://yutura.net/news/archives/20886",
       "sourceType": "contemporary_platform_reporting",
       "importance": 5
+    },
+    {
+      "id": "hikakin-channel-open-2006-12-30",
+      "date": "2006-12-30",
+      "title": "HIKAKINがYouTubeチャンネルを開設",
+      "category": "YouTube・クリエイター史",
+      "region": "日本",
+      "summary": "HIKAKINがビートボックスを中心とする自身のYouTubeチャンネルを開設。初期の投稿には削除されたものがあるため、開設日と現存最古の動画投稿日は区別する。",
+      "source": "https://www.youtube.com/user/HIKAKIN",
+      "sourceType": "channel_primary_and_retrospective",
+      "importance": 5
+    },
+    {
+      "id": "hikakin-oldest-surviving-video-2007-09-24",
+      "date": "2007-09-24",
+      "title": "HIKAKINの現存最古のビートボックス動画が公開",
+      "category": "YouTube・クリエイター史",
+      "region": "日本",
+      "summary": "浴室で撮影された『HIKAKIN Beatbox』が公開。現存最古の動画として紹介されるが、削除済みの過去投稿があるため、YouTubeでの最初の投稿と断定しない。",
+      "source": "https://www.youtube.com/watch?v=kjyKUIx3Ou8",
+      "sourceType": "video_primary",
+      "importance": 5
+    },
+    {
+      "id": "hikakin-super-mario-beatbox-2010-06-17",
+      "date": "2010-06-17",
+      "title": "HIKAKIN「Super Mario Beatbox」投稿、世界的に拡散",
+      "category": "プラットフォーム内バズ・YouTube",
+      "region": "日本→世界",
+      "summary": "HIKAKINがスーパーマリオのBGMをビートボックスで再現した動画を投稿。国内月間アクセス1位を記録し海外でも話題に。本人が2020年の10周年投稿で人生の転機と振り返った。",
+      "source": "https://www.youtube.com/watch?v=LE-JN7_rxtE",
+      "sourceType": "video_primary",
+      "importance": 5
+    },
+    {
+      "id": "hikakintv-first-video-2011-07-19",
+      "date": "2011-07-19",
+      "title": "「HikakinTV」初投稿、YouTuberとしての活動が拡大",
+      "category": "YouTube・クリエイター史",
+      "region": "日本",
+      "summary": "ビートボックス中心の『HIKAKIN』とは別に『HikakinTV』で初投稿。後に商品紹介や日常企画を扱う日本有数のYouTubeチャンネルへ成長した。",
+      "source": "https://logtube.jp/entertainment/53251/",
+      "sourceType": "retrospective_reporting",
+      "importance": 5
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 349
+    "currentDistinctMonthDays": 351
   }
 }

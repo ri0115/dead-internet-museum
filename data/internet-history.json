@@ -4168,11 +4168,44 @@
       "source": "https://www.crypton.co.jp/cfm/news/2015/06/09amuro_namie",
       "sourceType": "operator",
       "importance": 4
+    },
+    {
+      "id": "5000-trillion-yen-logo-2016",
+      "date": "2016-09-05",
+      "title": "「5000兆円欲しい！」ロゴ画像が投稿される",
+      "category": "ネット文化",
+      "region": "日本",
+      "summary": "ケースワベによる特徴的な文字ロゴが投稿された。翌2017年には改変画像やジェネレーターへ派生し、ネットのおもちゃとして定着。",
+      "source": "https://commons.wikimedia.org/wiki/File:5000-cho-yen-hoshii.png",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "5000-trillion-yen-rediscovery-2017",
+      "date": "2017-04-20",
+      "title": "「5000兆円欲しい！」ロゴの再投稿が拡散の契機に",
+      "category": "ネット文化",
+      "region": "日本",
+      "summary": "作者ケースワベがロゴ画像を再投稿。改変素材としての再発見と、その後の大量の派生作品につながった。",
+      "source": "https://kimu3.net/20170601/7972",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "genba-neko-meme-post-2018",
+      "date": "2018-08-14",
+      "title": "現場猫「ヨシ！」の初期投稿が登場",
+      "category": "ネット文化",
+      "region": "日本",
+      "summary": "工事現場で指差し確認する猫の改変画像が投稿され、2018年夏以降の現場猫ミーム拡散につながった。元絵・改変画像・後の仕事猫を区別する。",
+      "source": "https://kimu3.net/20181126/12039",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 224
+    "currentDistinctMonthDays": 225
   }
 }

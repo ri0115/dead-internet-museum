@@ -3350,11 +3350,52 @@
       "importance": 4,
       "originalDateType": "reported_site_opening",
       "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "dailyportal-launch-2002",
+      "date": "2002-10-07",
+      "title": "「デイリーポータル」開設",
+      "category": "個人サイト・読み物サイト",
+      "region": "日本",
+      "summary": "ニフティの読み物サイト『デイリーポータル』が開設。2003年1月に『デイリーポータルZ』へ改称。サイト自身の周年年表で開設日が確認できる。",
+      "source": "https://dailyportalz.jp/kiji/22years-history",
+      "sourceType": "official_site_anniversary_history",
+      "importance": 5,
+      "originalDateType": "site_launch",
+      "verificationStatus": "official_primary_source_confirmed"
+    },
+    {
+      "id": "pya-first-post-2003",
+      "date": "2003-04-15",
+      "title": "画像・Flash投稿サイト「pya!」最初の投稿",
+      "category": "画像投稿サイト・Flash文化",
+      "region": "日本",
+      "summary": "ネタ画像やFlashにコメント・評価を付けられる投稿サイト『pya!』の最初の作品が投稿されたとする日付。2003年4月の開始は当時の運営を取材した記事でも裏付けられるが、15日という日付は二次資料によるため原投稿アーカイブの再照合が必要。",
+      "source": "https://rip.so/pya.html",
+      "secondarySource": "https://www.itmedia.co.jp/news/article/1202/22/1120222076/",
+      "sourceType": "retrospective_archive_and_contemporary_reporting",
+      "importance": 5,
+      "originalDateType": "reported_first_post",
+      "verificationStatus": "secondary_exact_date_month_confirmed_by_contemporary_reporting"
+    },
+    {
+      "id": "pya-server-closure-notice-2012",
+      "date": "2012-02-17",
+      "title": "「pya!」が自宅サーバー運営終了を告知",
+      "category": "画像投稿サイト・Flash文化",
+      "region": "日本",
+      "summary": "管理人が更新履歴で2月末の自宅サーバー運営終了を告知。レンタルサーバーでの再出発を予定していたため、サイトそのものの終了とは区別する。",
+      "source": "https://hatenanews.com/articles/201202/7697",
+      "secondarySource": "https://www.itmedia.co.jp/news/article/1202/22/1120222076/",
+      "sourceType": "contemporary_reporting_citing_official_changelog",
+      "importance": 4,
+      "originalDateType": "site_notice_date",
+      "verificationStatus": "contemporary_report_confirmed"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Exact-date sourced milestones, secondary-source verification flags retained; date conflicts flagged; no HTML publication.",
-    "currentDistinctMonthDays": 202
+    "policy": "Exact-day sourced milestones only; label secondary date evidence and distinguish site closure from server migration. HTML deferred.",
+    "currentDistinctMonthDays": 203
   }
 }

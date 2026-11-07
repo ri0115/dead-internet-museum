@@ -6434,11 +6434,165 @@
       "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202410.html",
       "sourceType": "contemporary_reporting",
       "importance": 3
+    },
+    {
+      "id": "internet-history-77-01",
+      "date": "2025-01-27",
+      "title": "Kiwi Browserの開発終了が報じられる",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "Chrome拡張機能をスマホで利用できたブラウザー「Kiwi Browser」の開発終了が報じられた。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202501.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-history-77-02",
+      "date": "2025-03-19",
+      "title": "電子工作メディア「fabcross」がサイト終了を発表",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "電子工作系ウェブメディアがサイト閉鎖を告知。記事閲覧ができなくなることも報じられた。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202503.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-history-77-03",
+      "date": "2025-03-25",
+      "title": "日本語Flashサイトのアーカイブ集が話題に",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "Flashを使った日本語ウェブサイトを集めたアーカイブが紹介され、かつての個人サイト文化を保存する試みが注目された。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202503.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-77-04",
+      "date": "2025-05-21",
+      "title": "Windows XPの「3D ピンボール」がAndroidへ移植",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "懐かしいWindows付属ゲームのAndroid向け移植版が紹介された。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202505.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-history-77-05",
+      "date": "2025-05-23",
+      "title": "1990年代〜2010年代のGPU箱絵アーカイブが話題に",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "かつてのグラフィックカードのパッケージ画像を収集したアーカイブが報じられた。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202505.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-history-77-06",
+      "date": "2025-05-28",
+      "title": "次世代ブラウザー「Arc」の開発停止が報じられる",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "新しいブラウザー体験を提案した「Arc」の開発停止が報じられた。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202505.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-history-77-07",
+      "date": "2025-05-27",
+      "title": "『ジークアクス』風サブタイトルジェネレーターが登場",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "アニメの特徴的なタイトル演出を模したジェネレーターが紹介された。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202505.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-history-77-08",
+      "date": "2025-06-04",
+      "title": "「炎上シミュレーター」がネットで話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "SNSでの炎上を疑似体験できるシミュレーターが紹介された。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202506.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-history-77-09",
+      "date": "2025-06-30",
+      "title": "Power Macの隠しイースターエッグが27年ぶりに発見される",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "1990年代後半のPower Macに隠された演出が発見されたと報じられた。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202506.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-history-77-10",
+      "date": "2025-09-29",
+      "title": "56Kモデム12台を束ねてYouTubeを再生する動画が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "旧式のダイヤルアップモデムを12台接続し、現代の動画サービスに挑戦する実験が話題になった。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202509.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-history-77-11",
+      "date": "2025-09-30",
+      "title": "日本式の『いなくなった猫に帰ってきてもらう方法』が海外でバズる",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "日本で語られてきた猫にまつわる方法がTikTokを通じて海外に拡散した。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202509.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-history-77-12",
+      "date": "2025-12-03",
+      "title": "老舗CGI配布サイト「CGI RESCUE」が終了予定を発表",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "約30年の歴史を持つCGIプログラム配布サイトが、2026年3月末の終了予定を発表したと報じられた。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202512.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-77-13",
+      "date": "2025-12-04",
+      "title": "AIと会話しながら遊ぶリバーシが公開",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "生成AIと会話しながら対戦できるブラウザーゲームが紹介された。 記録日は記事掲載日であり、元の出来事の日付と異なる場合がある。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202512.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-history-77-14",
+      "date": "2024-12-27",
+      "title": "Vectorホームページサービス終了が年末に回顧される",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "2024年12月27日の年末回顧記事で、Vectorホームページサービスの2024年12月20日終了が紹介された。記事掲載日を記録。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202412.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 289
+    "currentDistinctMonthDays": 293
   }
 }

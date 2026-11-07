@@ -2497,11 +2497,39 @@
       "importance": 4,
       "originalDateType": "derivative_community",
       "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "nurupo-gah-2002",
+      "date": "2002-06-20",
+      "title": "「ぬるぽ」→「ガッ」のやり取りが誕生",
+      "category": "有名コピペ・AA・掲示板",
+      "region": "日本",
+      "summary": "2ちゃんねるのプログラマー板「NullPointerExceptionを『ぬるぽ』と呼ぶスレ」の冒頭で「ぬるぽ」に「ｶﾞｯ」と返すやり取りが生まれたとされる。",
+      "source": "https://www.wdic.org/w/TECH/%E3%81%AC%E3%82%8B%E3%81%BD",
+      "secondarySource": "https://news.mynavi.jp/article/20220621-2374498/",
+      "sourceType": "historical_reference_and_retrospective_report",
+      "importance": 5,
+      "originalDateType": "first_known_forum_post",
+      "verificationStatus": "secondary_sources_corrob"
+    },
+    {
+      "id": "kuu-tsukare-2012",
+      "date": "2012-11-11",
+      "title": "「くぅ～疲れましたw これにて完結です！」が投稿",
+      "category": "有名コピペ・掲示板",
+      "region": "日本",
+      "summary": "2ちゃんねるVIPの『まどか「壁山が一位・・・？」』スレッドで、SSのあとがきとして投稿された文章が後に定番コピペ化した。",
+      "source": "https://nlab.itmedia.co.jp/cont/articles/3228629/",
+      "secondarySource": "https://netyougo.com/2ch/8494.html",
+      "sourceType": "contemporary_retrospective_report_and_reproduced_post",
+      "importance": 5,
+      "originalDateType": "original_forum_post",
+      "verificationStatus": "reproduced_timestamp_and_reporting"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Distinguish original creation, first repost, and spread; secondary-only evidence is provisional. Site HTML deferred.",
-    "currentDistinctMonthDays": 162
+    "policy": "Exact dated historical evidence. Distinguish creation, first surviving post, and spread; record source quality.",
+    "currentDistinctMonthDays": 164
   }
 }

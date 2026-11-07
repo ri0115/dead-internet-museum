@@ -90,11 +90,143 @@
       "source": "https://www.webdesignmuseum.org/web-design-history",
       "sourceType": "historical_timeline",
       "importance": 4
+    },
+    {
+      "id": "www-announcement-1991",
+      "date": "1991-08-06",
+      "title": "WWW構想がインターネットのニュースグループで告知される",
+      "category": "Webの歴史",
+      "region": "世界",
+      "summary": "ティム・バーナーズ＝リーがalt.hypertextにWorld Wide Webプロジェクトを紹介。",
+      "source": "https://web30.web.cern.ch/web-history.html",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "web-public-domain-1993",
+      "date": "1993-04-30",
+      "title": "CERNがWWWソフトウェアを無償公開",
+      "category": "Webの歴史",
+      "region": "世界",
+      "summary": "CERNがWebの基盤技術をパブリックドメインに置くことを決定。",
+      "source": "https://home.cern/science/computing/birth-web",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "mozilla-project-1998",
+      "date": "1998-02-23",
+      "title": "mozilla.orgプロジェクト発足",
+      "category": "ブラウザ",
+      "region": "世界",
+      "summary": "Netscapeがmozilla.orgプロジェクトを開始。",
+      "source": "https://www-archive.mozilla.org/about/timeline",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "netscape-source-1998",
+      "date": "1998-03-31",
+      "title": "Netscape Communicatorのソースコード公開",
+      "category": "オープンソース",
+      "region": "世界",
+      "summary": "Netscape Communicatorのソースコードがインターネット上に公開された。",
+      "source": "https://www-archive.mozilla.org/about/timeline",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "mozilla-1-2002",
+      "date": "2002-06-05",
+      "title": "Mozilla 1.0リリース",
+      "category": "ブラウザ",
+      "region": "世界",
+      "summary": "Mozillaのオープンソースブラウザスイート1.0が公開された。",
+      "source": "https://www-archive.mozilla.org/about/timeline",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "phoenix-2002",
+      "date": "2002-09-23",
+      "title": "Firefoxの前身Phoenix 0.1公開",
+      "category": "ブラウザ",
+      "region": "世界",
+      "summary": "後にFirefoxとなる独立型ブラウザPhoenixの最初の正式版が公開された。",
+      "source": "https://www-archive.mozilla.org/about/timeline",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "firefox-1-2004",
+      "date": "2004-11-09",
+      "title": "Firefox 1.0公開",
+      "category": "ブラウザ",
+      "region": "世界",
+      "summary": "Mozilla Firefox 1.0が公開され、ブラウザ競争の転換点となった。",
+      "source": "https://blog.mozilla.org/en/firefox/firefox-milestones/",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "thunderbird-1-2004",
+      "date": "2004-12-07",
+      "title": "Thunderbird 1.0公開",
+      "category": "電子メール",
+      "region": "世界",
+      "summary": "MozillaのオープンソースメールクライアントThunderbird 1.0が公開された。",
+      "source": "https://www-archive.mozilla.org/about/timeline",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "first-tweet-2006",
+      "date": "2006-03-21",
+      "title": "Twitterに最初の投稿",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "ジャック・ドーシーがTwitterの最初のメッセージを投稿した。",
+      "source": "https://www.computerhistory.org/tdih/march/21/",
+      "sourceType": "museum",
+      "importance": 5
+    },
+    {
+      "id": "firefox-2-2006",
+      "date": "2006-10-24",
+      "title": "Firefox 2.0公開",
+      "category": "ブラウザ",
+      "region": "世界",
+      "summary": "Mozilla Firefox 2.0が公開された。",
+      "source": "https://www-archive.mozilla.org/about/timeline",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "thunderbird-2-2007",
+      "date": "2007-04-18",
+      "title": "Thunderbird 2.0公開",
+      "category": "電子メール",
+      "region": "世界",
+      "summary": "Mozilla Thunderbird 2.0が公開された。",
+      "source": "https://www-archive.mozilla.org/about/timeline",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "firefox-3-2008",
+      "date": "2008-06-17",
+      "title": "Firefox 3.0公開",
+      "category": "ブラウザ",
+      "region": "世界",
+      "summary": "Firefox 3.0が公開された。",
+      "source": "https://wiki.mozilla.org/Timeline",
+      "sourceType": "operator",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Only exact-day, sourced, meaningful internet events. Do not invent events to fill empty dates.",
-    "currentDistinctMonthDays": 8
+    "policy": "Exact day and evidence required. Do not fabricate or overstate significance to fill gaps.",
+    "currentDistinctMonthDays": 19
   }
 }

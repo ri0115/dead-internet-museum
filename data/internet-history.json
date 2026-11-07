@@ -2621,11 +2621,78 @@
       "originalDateType": "popular_derivative_upload",
       "originalUrl": "https://www.nicovideo.jp/watch/sm2097776",
       "verificationStatus": "platform_verified"
+    },
+    {
+      "id": "donald-ranranru-nico-2007",
+      "date": "2007-03-06",
+      "title": "「ドナルドのうわさ ランランルーってなんなんだー？」投稿",
+      "category": "音MAD・ネットミーム",
+      "region": "日本",
+      "summary": "ドナルドの『ランランルー』を扱った初期ニコニコ動画（sm7594）の投稿日。後の教祖ドナルドMADブームそのものの発生日ではない。",
+      "source": "https://kimu3.net/20170324/7128",
+      "sourceType": "independent_historical_research",
+      "importance": 5,
+      "originalDateType": "early_video_upload",
+      "originalUrl": "https://www.nicovideo.jp/watch/sm7594",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "donald-doukeshi-2007",
+      "date": "2007-07-11",
+      "title": "「道化師は大変な洗脳を施していきました」投稿",
+      "category": "音MAD・ネットミーム",
+      "region": "日本",
+      "summary": "『魔理沙は大変なものを盗んでいきました』を素材にしたドナルドMAD。『教祖ドナルド』ブームの転機として語られる。",
+      "source": "https://kimu3.net/20170324/7128",
+      "sourceType": "independent_historical_research",
+      "importance": 5,
+      "originalDateType": "derivative_video_upload",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "keyboard-crasher-marisa-2007",
+      "date": "2007-06-09",
+      "title": "「クラッシャーは大変なキーボードを破壊していきました」投稿",
+      "category": "音MAD・ネットミーム",
+      "region": "日本",
+      "summary": "キーボードクラッシャーと東方アレンジを組み合わせた初期MAD（sm427208）が投稿された。元のキーボードクラッシャー動画の初出とは区別する。",
+      "source": "https://app.matumo.com/nico24-tmp-search/?version=TFFH",
+      "sourceType": "video_metadata_index",
+      "importance": 5,
+      "originalDateType": "derivative_video_upload",
+      "originalUrl": "https://www.nicovideo.jp/watch/sm427208",
+      "verificationStatus": "video_metadata_index"
+    },
+    {
+      "id": "keyboard-crasher-return-2018",
+      "date": "2018-05-15",
+      "title": "キーボードクラッシャー本人が日本のファンへメッセージ動画を公開",
+      "category": "ネットミーム・後日談",
+      "region": "日本・ドイツ",
+      "summary": "2000年代に動画で話題となった本人が日本の視聴者に向けたメッセージを投稿した。ネットミームの当事者のその後を伝える記録。",
+      "source": "https://nlab.itmedia.co.jp/cont/articles/3278755/",
+      "sourceType": "contemporary_report",
+      "importance": 4,
+      "originalDateType": "follow_up_video_upload",
+      "verificationStatus": "contemporary_report"
+    },
+    {
+      "id": "elshaddai-phrase-award-2010",
+      "date": "2010-12-03",
+      "title": "「そんな装備で大丈夫か？」ネット流行語大賞金賞が報道される",
+      "category": "ゲーム・ネットミーム",
+      "region": "日本",
+      "summary": "ゲーム『エルシャダイ』PVの台詞がネット流行語大賞2010の金賞に選ばれたと報じられた日。PV初公開日や投票締切日とは区別する。",
+      "source": "https://www.inside-games.jp/article/2010/12/03/46088.html",
+      "sourceType": "contemporary_report",
+      "importance": 5,
+      "originalDateType": "award_report_date",
+      "verificationStatus": "contemporary_report"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Exact date and source required; distinguish first post, original release, repost and derivative; secondary-only records marked.",
-    "currentDistinctMonthDays": 167
+    "policy": "Require dated evidence. Separate original release, derivative uploads, later reports and awards. Mark secondary-only evidence. Site HTML deferred.",
+    "currentDistinctMonthDays": 171
   }
 }

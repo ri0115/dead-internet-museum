@@ -8315,6 +8315,50 @@
       "source": "https://about.fb.com/ja/news/2023/12/instagram_genz_trend_report_2023_year_end_edition/",
       "sourceType": "platform_primary",
       "importance": 4
+    },
+    {
+      "id": "maezawa-twitter-giveaway-2019-01-05",
+      "date": "2019-01-05",
+      "title": "前澤友作の「総額1億円お年玉」ツイート投稿",
+      "category": "プラットフォーム内バズ・Twitter",
+      "region": "日本",
+      "summary": "前澤友作が100人に100万円を贈る企画をTwitterに投稿。フォローとRTを応募条件とし、記録的拡散を生んだ。記録更新日とは区別する。",
+      "source": "https://www.nikkansports.com/entertainment/news/201901060000012.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "maezawa-twitter-japan-record-2019-01-06",
+      "date": "2019-01-06",
+      "title": "前澤お年玉ツイートが日本のRT記録を更新",
+      "category": "プラットフォーム内バズ・Twitter",
+      "region": "日本",
+      "summary": "前澤友作の100万円プレゼント企画が、当時の国内最多リツイート記録を更新。1月6日午後には166万RTに達したと報じられた。",
+      "source": "https://nlab.itmedia.co.jp/cont/articles/3286349/",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "maezawa-twitter-world-record-2019-01-07",
+      "date": "2019-01-07",
+      "title": "前澤お年玉ツイートが当時の世界最多RT記録を更新",
+      "category": "プラットフォーム内バズ・Twitter",
+      "region": "日本→世界",
+      "summary": "2019年1月5日のプレゼント企画投稿が1月7日に当時の世界最多リツイート記録を更新。応募終了時には550万RT超に達した。記録は当時のものであり、現時点の歴代最多とは限らない。",
+      "source": "https://www.itmedia.co.jp/news/article/1901/07/1190107108/",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "kawaikute-gomen-takaneno-mv-2022-11-18",
+      "date": "2022-11-18",
+      "title": "「可愛くてごめん」高嶺のなでしこ版MV公開",
+      "category": "プラットフォーム内バズ・YouTube・TikTok",
+      "region": "日本",
+      "summary": "高嶺のなでしこがHoneyWorks『可愛くてごめん』のカバーMVをYouTubeで公開。TikTok等で広まった『Chu! 可愛くてごめん』の音源文化を象徴する一つの公式映像。楽曲自体の初公開日とは区別する。",
+      "source": "https://takanenonadeshiko.jp/honeyworks-%E3%80%8C%E5%8F%AF%E6%84%9B%E3%81%8F%E3%81%A6%E3%81%94%E3%82%81%E3%82%93%E3%80%8D%E3%82%92%E3%82%AB%E3%83%90%E3%83%BC%E3%81%97mv%E3%82%92%E5%85%AC%E9%96%8B%E3%81%84%E3%81%9F%E3%81%97/",
+      "sourceType": "artist_primary",
+      "importance": 5
     }
   ],
   "coverage": {

@@ -2,16 +2,17 @@
 
 かつて使われ、終了・統合・改称などで姿を変えたインターネットサービスを記録するデジタル博物館。
 
-- **411 records**（2026-11-06 時点の調査スナップショット）
-- **HTML v1.1** — Windows 98風デザインと年代別タイムマシン
+- **455 records**（2026-11-07、URL監査時点の報告値。マスターとの再照合待ち）
+- **公開HTML** — レトロなブラウザ風デザインと年代別タイムマシン（バージョン表記は要同期）
 - 元号年表、検索・ジャンル絞り込み、Wayback Machineの保存履歴リンク
 - 収録件数には完全終了だけでなくブランド移行・一部機能終了も含みます。
 
 ## ファイル構成
 
 - [index.html](index.html) — オフラインでも閲覧できる単一HTML
-- [data/master.json](data/master.json) — 411件の研究用統合マスター（今後の編集の正本）
+- [data/master.json](data/master.json) — 研究用統合マスター（今後の編集の正本）
 - [research/README.md](research/README.md) — 調査・監査・公開ルール
+- [research/url-audit-batch43.md](research/url-audit-batch43.md) — URL状態・Wayback確認基準
 
 ## 編集方針
 
@@ -30,3 +31,7 @@ Created by Ryutaro Inami.
 ## 第28次アップデート
 
 第24〜27次で監査していた11件を統合し、data/master.json と index.html を411件に同期しました。更新停止やブランド移管は全面閉鎖と別扱いです。各追加レコードの原資料は research/ および data/batches/ に記録しています。
+
+## URL監査（第43次）
+
+2026-11-07時点の報告値：全455件、Waybackリンク登録済み230件、旧URL未特定224件、元URLあり・Wayback未設定1件、対象URLなし（確認済み）0件。リンク登録率は230/455＝50.5%。Waybackリンク登録と保存ページの実在確認は別指標です。今後は対象URLなし（確認済み）を分母から除く設置可能対象率も併記します。これらは監査時点の報告値であり、master.jsonとHTMLの件数整合は未検証です。

@@ -3115,11 +3115,89 @@
       "importance": 4,
       "originalDateType": "contemporary_news_publication",
       "verificationStatus": "contemporary_source_confirmed"
+    },
+    {
+      "id": "gilcrows-fla-2004",
+      "date": "2004-04-21",
+      "title": "GilCrowsのFLA板観測所が開設",
+      "category": "Flash・個人サイト",
+      "region": "日本",
+      "summary": "FLASH・動画板の動向を追う個人サイト『GilCrowsのFLA板観測所』が開設。後に『GilCrowsの映像技術研究所』としてFlashやネット動画の紹介を担った。",
+      "source": "https://websitemap.sakura.ne.jp/monograph/monograph06.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 4,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "hirobro-2004",
+      "date": "2004-05-04",
+      "title": "動画紹介ブログ「ひろぶろ」が開設",
+      "category": "個人サイト・動画文化",
+      "region": "日本",
+      "summary": "面白動画・衝撃動画などを紹介する『ひろぶろ』が開設。動画共有サイトが主流になる前後の個人キュレーション文化を象徴する。",
+      "source": "https://websitemap.sakura.ne.jp/monograph/monograph06.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 4,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "kotaro-blog-2004",
+      "date": "2004-09-03",
+      "title": "「小太郎ぶろぐ」が開設",
+      "category": "個人サイト・動画文化",
+      "region": "日本",
+      "summary": "動画や画像などの話題を紹介する個人ブログ『小太郎ぶろぐ』が開設。個人ニュースサイトと動画紹介ブログが広がった時代の代表例。",
+      "source": "https://websitemap.sakura.ne.jp/monograph/monograph06.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 4,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "moon-chronicle-2004",
+      "date": "2004-09-22",
+      "title": "「MOON CHRONICLE」が開設",
+      "category": "個人サイト・ニュースサイト",
+      "region": "日本",
+      "summary": "個人ニュースサイト『MOON CHRONICLE』が開設。後に『ニュースサイト読本』や『ニュースサイトたん』などの企画を展開。",
+      "source": "https://websitemap.sakura.ne.jp/monograph/monograph06.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 4,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "hatena-bookmark-beta-2005",
+      "date": "2005-02-10",
+      "title": "はてなブックマークがベータ版を公開",
+      "category": "個人サイト・ソーシャルブックマーク",
+      "region": "日本",
+      "summary": "はてなブックマークがベータ版を公開。個人サイトやブログの記事をブックマークとコメントで共有する文化の大きな節目。",
+      "source": "https://hatena.co.jp/press/release/archive/2005",
+      "sourceType": "official_company_press_archive",
+      "importance": 5,
+      "originalDateType": "official_beta_release",
+      "verificationStatus": "official_or_contemporary_source_confirmed"
+    },
+    {
+      "id": "hatena-bookmark-official-2005",
+      "date": "2005-08-19",
+      "title": "はてなブックマークが正式サービスを開始",
+      "category": "個人サイト・ソーシャルブックマーク",
+      "region": "日本",
+      "summary": "INTERNET Watchが2005年8月19日付で正式サービス開始を報道。はてな公式の8月21日付プレスリリースとは日付が異なるため、当時の報道に基づく正式サービス開始日として記録。",
+      "source": "https://internet.watch.impress.co.jp/cda/news/2005/08/19/8837.html",
+      "sourceType": "contemporary_report",
+      "importance": 5,
+      "originalDateType": "contemporary_reported_release",
+      "verificationStatus": "official_or_contemporary_source_confirmed"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Exact-date source required. Clearly distinguish original events from reporting dates; avoid filler and duplicate IDs. HTML unchanged.",
-    "currentDistinctMonthDays": 191
+    "policy": "Exact-day source required; identify secondary-source site dates and distinguish contemporaneous release report from company press release publication. No HTML changes.",
+    "currentDistinctMonthDays": 197
   }
 }

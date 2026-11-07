@@ -7578,11 +7578,22 @@
       "source": "https://knowyourmeme.com/memes/old-town-road",
       "sourceType": "meme_origin_with_post",
       "importance": 3
+    },
+    {
+      "id": "jpnic-ip-users-mailing-list-1996-02-05",
+      "date": "1996-02-05",
+      "title": "JPNICが「IP-USERS」メーリングリストを開設",
+      "category": "日本のインターネット史",
+      "region": "日本",
+      "summary": "IPアドレス割り振り方針について利用者の意見を集めるIP-USERSメーリングリストが開設。ネットワーク運用のルールをオンラインで議論する初期のコミュニティの一例。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "operator",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 319
+    "currentDistinctMonthDays": 320
   }
 }

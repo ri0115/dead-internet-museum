@@ -7435,11 +7435,22 @@
       "source": "https://about.fb.com/news/2014/08/introducing-hyperlapse-from-instagram/",
       "sourceType": "operator",
       "importance": 3
+    },
+    {
+      "id": "first-intel-macs-announced-2006-01-10",
+      "date": "2006-01-10",
+      "title": "初のIntel搭載Mac「iMac」「MacBook Pro」が発表",
+      "category": "PC・ウェブ文化",
+      "region": "世界",
+      "summary": "AppleがMacworldでIntel Core Duo搭載のiMacとMacBook Proを発表。iMacは同日出荷、MacBook Proは翌月出荷予定とされた。",
+      "source": "https://www.apple.com/newsroom/2006/01/10Apple-Unveils-New-iMac-with-Intel-Core-Duo-Processor/",
+      "sourceType": "operator",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 307
+    "currentDistinctMonthDays": 308
   }
 }

@@ -5092,11 +5092,88 @@
       "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201311.html",
       "sourceType": "contemporary_reporting",
       "importance": 4
+    },
+    {
+      "id": "chargeman-mad-2007-08-17",
+      "date": "2007-08-17",
+      "title": "『チャージマン研！』初期MAD「殺人レコード」作品が投稿",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "2007年8月17日付の『チャージマン研は大変な殺人レコードを破壊していきました』の投稿記録。現存記録で確認できる初期MADの一つ。",
+      "source": "https://memeroku.com/meme/chargeman-ken/",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "chargeman-mad-followup-2007-10-05",
+      "date": "2007-10-05",
+      "title": "『チャージマン研！』初期MADの派生作品が投稿",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "2007年8月の先行MADを参考にした作品の2007年10月5日付投稿記録。派生が始まったことを示す。",
+      "source": "https://memeroku.com/meme/chargeman-ken/",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "chargeman-youkai-shoujo-2008-10-20",
+      "date": "2008-10-20",
+      "title": "「チャージマンの妖怪少女」が投稿",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "東方Projectの楽曲と『チャージマン研！』を組み合わせた音MADが投稿され、後のチャー研MAD拡大の転機となった。",
+      "source": "https://kimu3.net/20170320/7070",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "chargeman-charge-zone-2009-04-25",
+      "date": "2009-04-25",
+      "title": "音MAD「CHARGE ZONE」が投稿",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "『チャージマン研！』とRED ZONEを組み合わせた音MADが投稿され、チャー研MADの代表作として広まった。",
+      "source": "https://knowyourmeme.com/memes/subcultures/chargeman-ken",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "donald-unowen-mad-2007-12-06",
+      "date": "2007-12-06",
+      "title": "ドナルドの「ランランルー」と東方楽曲の音MADが投稿",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ドナルドのCM映像と『U.N.オーエンは彼女なのか？』を組み合わせた音MADの投稿が記録されている。",
+      "source": "https://knowyourmeme.com/memes/mcdonalds-ran-ran-ru-commercials",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "donald-mc-donald-mad-2008-01-01",
+      "date": "2008-01-01",
+      "title": "「M.C.ドナルドはダンスに夢中なのか？」初代動画が投稿",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ニコニコ動画でドナルドMADを代表する音MADの初代が投稿。削除・再投稿を経て長く引用された。",
+      "source": "https://otomad.fandom.com/ja/wiki/M.C.%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%81%AF%E3%83%80%E3%83%B3%E3%82%B9%E3%81%AB%E5%A4%A2%E4%B8%AD%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E6%9C%80%E7%B5%82%E9%AC%BC%E7%95%9C%E9%81%93%E5%8C%96%E5%B8%AB%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%EF%BC%AD%28sm1919148%29",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "donald-mad-reupload-2008-01-17",
+      "date": "2008-01-17",
+      "title": "「M.C.ドナルドはダンスに夢中なのか？」3代目が投稿",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "削除・再投稿を経たドナルドMADの3代目動画が2008年1月17日に投稿された記録。",
+      "source": "https://otomad.fandom.com/ja/wiki/M.C.%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%81%AF%E3%83%80%E3%83%B3%E3%82%B9%E3%81%AB%E5%A4%A2%E4%B8%AD%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E6%9C%80%E7%B5%82%E9%AC%BC%E7%95%9C%E9%81%93%E5%8C%96%E5%B8%AB%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%EF%BC%AD%28sm1919148%29",
+      "sourceType": "historical_record",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 256
+    "currentDistinctMonthDays": 258
   }
 }

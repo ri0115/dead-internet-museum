@@ -7710,11 +7710,44 @@
       "source": "https://knowyourmeme.com/memes/3d-gif-dubstep",
       "sourceType": "meme_origin",
       "importance": 3
+    },
+    {
+      "id": "popipo-niconico-original-2008-12-11",
+      "date": "2008-12-11",
+      "title": "ラマーズPが「ぽっぴっぽー」をニコニコ動画に投稿",
+      "category": "VOCALOID・ニコニコ動画",
+      "region": "日本",
+      "summary": "初音ミクの楽曲「ぽっぴっぽー」の本店動画が投稿された。楽曲と野菜ジュースの振り付けがニコニコ動画を中心に広がり、数多くの派生動画が生まれた。",
+      "source": "https://knowyourmeme.com/memes/po-pi-po-%E3%81%BD%E3%81%A3%E3%81%B4%E3%81%A3%E3%81%BD%E3%83%BC",
+      "sourceType": "meme_history_secondary",
+      "importance": 5
+    },
+    {
+      "id": "chiitan-x-ad-first-known-2023-11-24",
+      "date": "2023-11-24",
+      "title": "ちぃたん☆のX広告が投稿される",
+      "category": "日本発ネットミーム",
+      "region": "日本",
+      "summary": "ちぃたん☆が『広告する商品はないので動画を見て笑って』と呼びかける英語投稿を公開。後に大量表示されるX広告として海外でも話題に。確認できる初期投稿の日付であり、広告配信開始の確定日ではない。",
+      "source": "https://knowyourmeme.com/memes/chiitan-twitter-x-ads/",
+      "sourceType": "meme_history_secondary",
+      "importance": 4
+    },
+    {
+      "id": "we-are-number-one-original-one-hour-upload-2016-12-09",
+      "date": "2016-12-09",
+      "title": "「We Are Number One」公式1時間版がYouTubeに公開",
+      "category": "動画・ネットミーム",
+      "region": "世界",
+      "summary": "LazyTown公式YouTubeチャンネルが『We Are Number One』のオリジナル音源を1時間繰り返す動画を公開。既に流行していたリミックス文化への公式側の応答であり、ミームの初出ではない。",
+      "source": "https://knowyourmeme.com/memes/we-are-number-one",
+      "sourceType": "meme_history_secondary",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 330
+    "currentDistinctMonthDays": 333
   }
 }

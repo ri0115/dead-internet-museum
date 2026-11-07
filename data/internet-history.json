@@ -5906,11 +5906,198 @@
       "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201610.html",
       "sourceType": "contemporary_reporting",
       "importance": 3
+    },
+    {
+      "id": "internet-culture-74-01",
+      "date": "2017-12-08",
+      "title": "駅名当てサイト「Ekinator」が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "鉄道ファンが駅名を推理するサービス「Ekinator」が当時のネットニュースで紹介された。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201712.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-74-02",
+      "date": "2018-09-03",
+      "title": "個人サイト「100SHIKI」が18年間の更新を終了",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "海外のウェブサービスを紹介し続けた「100SHIKI」が2018年8月31日をもって更新終了したと報じられた。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201809.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-culture-74-03",
+      "date": "2018-09-10",
+      "title": "「いらすとや風のお姉さん」が踊るMMD動画が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "フリー素材の絵柄を立体化したようなキャラクターのダンス動画がネットで話題になった。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201809.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-74-04",
+      "date": "2018-10-03",
+      "title": "「支離滅裂な思考・発言」イラストのネット拡散と取り下げが話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "Twitterで拡散した画像をめぐり、出版社が取り下げ対応を行ったことが報じられた。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201810.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-74-05",
+      "date": "2018-10-09",
+      "title": "フォロワーの画像から架空の文庫本を作るTwitter企画が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ユーザーが投稿した画像を素材に架空の文庫本を制作するアカウントが評判になった。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201810.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-74-06",
+      "date": "2018-10-10",
+      "title": "バンクシー作品の裁断を模した画像加工サイトが登場",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "画像をアップロードすると裁断されたような画像になるパロディサイトが話題になった。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201810.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-74-07",
+      "date": "2018-12-05",
+      "title": "Twitterで通知が止まらないバズ体験を再現するアプリが登場",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "大量の通知を疑似体験できるアプリが当時のネットニュースで紹介された。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201812.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-74-08",
+      "date": "2018-12-12",
+      "title": "「今北産業」を再現する3行要約サービスが登場",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "長文を3行にまとめるサービスが、古典的なネットスラング「今北産業」に結び付けて紹介された。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201812.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-74-09",
+      "date": "2018-12-19",
+      "title": "「布団が吹っ飛んだ」を実演するマシンが話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "駄洒落を入力すると実際に布団が吹っ飛ぶ工作が報じられた。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201812.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-74-10",
+      "date": "2018-12-21",
+      "title": "いらすとやが新元号発表のイラストを先行公開",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "新元号発表前から、発表会見を描いたフリー素材が公開された。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201812.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-74-11",
+      "date": "2019-01-25",
+      "title": "「猫は液体」の証拠写真がSNSに集まる",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "フェリシモの呼びかけで「猫は液体」を示すような写真が多数投稿された。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201901.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-74-12",
+      "date": "2019-02-20",
+      "title": "ファミコンを使ったネット対戦の動画が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "本来ネット接続機能のないファミコンでネット対戦を実現する動画がニコニコ動画で話題になった。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201902.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-74-13",
+      "date": "2019-02-21",
+      "title": "CERNが世界初のウェブブラウザーを再現したアプリを公開",
+      "category": "ネットのおもちゃ",
+      "region": "海外",
+      "summary": "世界初のウェブブラウザー「WorldWideWeb」を再現したウェブアプリが公開されたと報じられた。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201902.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-culture-74-14",
+      "date": "2019-08-19",
+      "title": "スマート冷蔵庫からツイートした少女が世界で話題に",
+      "category": "ネットのおもちゃ",
+      "region": "海外",
+      "summary": "電子機器を取り上げられた少女がスマート冷蔵庫からツイートしたという投稿が世界的な話題となった。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201908.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-74-15",
+      "date": "2019-08-20",
+      "title": "低スペックPCの文字入力遅延を体験するサイトが登場",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "入力が遅れて反映される体験サイトが、低スペックPCのあるあるネタとして紹介された。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201908.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-74-16",
+      "date": "2019-08-27",
+      "title": "「禿同」「wktk」「乙」の懐かしネットスラングがLINEスタンプ化",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "古いネット用語を題材とするLINEスタンプが当時のニュースで紹介された。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201908.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-74-17",
+      "date": "2019-10-17",
+      "title": "10年前に流行したYouTube動画を見られる日替わりサイトが登場",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "かつて流行した動画を日替わりで見せる、ネットの記憶を掘り起こすサイトが紹介された。 日付は記事掲載日（初出日とは限らない）。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201910.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 276
+    "currentDistinctMonthDays": 282
   }
 }

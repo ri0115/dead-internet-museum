@@ -28,9 +28,9 @@
     "current_html": "v2.7 TIME MACHINE / 453 records",
     "design_note": "mechanical 7-digit counters, low-frequency NEW blink, reduced-motion and toggle; no fictitious visitor traffic",
     "batch11_added": 17,
-    "revision": "research_v43",
+    "revision": "research_v49_url_merge",
     "total_exhibits": 453,
-    "last_updated": "2026-11-06",
+    "last_updated": "2026-11-07",
     "note_batch12": "開始年・存続期間・元号跨ぎの可視化。サービス本体と旧ブランド/サポート終了を区別。",
     "current_era_reference": "1950s〜令和（実装は昭和・平成・令和）",
     "batch13_birth_year_filled": 24,
@@ -97,7 +97,8 @@
     "batch42_added": 2,
     "note_batch42": "Manga Rockの閲覧機能停止とS-Cute旧動画配信の終了を追加。Anitube・Share Videosは最終停止日未確定のため保留。",
     "batch43_added": 2,
-    "note_batch43": "併走更新のv42（451件）を継承しStripperwebとLiveLeakを追加。Manga RockとS-Cuteは既収録のため重複なし。"
+    "note_batch43": "併走更新のv42（451件）を継承しStripperwebとLiveLeakを追加。Manga RockとS-Cuteは既収録のため重複なし。",
+    "url_audit_note": "Six historic URLs and unverified Wayback calendar links merged from batches 48–49."
   },
   "exhibits": [
     {
@@ -1485,13 +1486,13 @@
       "source_primary": true,
       "closure_scope": "entire_service",
       "post_closure": "終了前にデータ移行・保存の案内。",
-      "original_url": "",
+      "original_url": "http://h.hatena.ne.jp/",
       "record_origin": "research_2026_11_06",
-      "editorial_note": "旧ハイクと「はてなハイク2」は別のサービス。",
+      "editorial_note": "旧ハイクと「はてなハイク2」は別のサービス。 第48–49次調査：旧URL候補追加。Wayback保存ページは未確認。",
       "source_review": "source_identified",
       "archive_url": null,
       "archive_validation": "not_checked",
-      "archive_search_url": null,
+      "archive_search_url": "https://web.archive.org/web/*/http://h.hatena.ne.jp/",
       "entity_type": "service",
       "editorial_status": "core",
       "editorial_basis": "大手一般向けサービス、当時の代表性、または日本のWeb文化史上の影響を考慮した暫定編集判断。利用者数の実測ではない。",
@@ -1506,7 +1507,8 @@
         "duration_precision": "approx_from_calendar_years",
         "classification_basis": "start year + end year; no exact duration implied",
         "caveat": ""
-      }
+      },
+      "archive_link_type": "wayback_calendar_unverified"
     },
     {
       "id": "hatena-group",
@@ -1525,13 +1527,13 @@
       "source_primary": true,
       "closure_scope": "entire_service",
       "post_closure": "ユーザーにデータ出力・移行を案内。",
-      "original_url": "",
+      "original_url": "http://g.hatena.ne.jp/",
       "record_origin": "research_2026_11_06",
-      "editorial_note": "初期告知から終了時期が変更されているため最終日を採用。",
+      "editorial_note": "初期告知から終了時期が変更されているため最終日を採用。 第48–49次調査：旧URL候補追加。Wayback保存ページは未確認。",
       "source_review": "source_identified",
       "archive_url": null,
       "archive_validation": "not_checked",
-      "archive_search_url": null,
+      "archive_search_url": "https://web.archive.org/web/*/http://g.hatena.ne.jp/",
       "entity_type": "service",
       "editorial_status": "core",
       "editorial_basis": "大手一般向けサービス、当時の代表性、または日本のWeb文化史上の影響を考慮した暫定編集判断。利用者数の実測ではない。",
@@ -1547,7 +1549,8 @@
         "duration_precision": "approx_from_calendar_years",
         "classification_basis": "start year + end year; no exact duration implied",
         "caveat": ""
-      }
+      },
+      "archive_link_type": "wayback_calendar_unverified"
     },
     {
       "id": "hatena-rss",
@@ -1566,13 +1569,13 @@
       "source_primary": true,
       "closure_scope": "entire_service",
       "post_closure": "はてなアンテナ等への移行を推奨。",
-      "original_url": "",
+      "original_url": "http://r.hatena.ne.jp/",
       "record_origin": "research_2026_11_06",
-      "editorial_note": "",
+      "editorial_note": " 第48–49次調査：旧URL候補追加。Wayback保存ページは未確認。",
       "source_review": "source_identified",
       "archive_url": null,
       "archive_validation": "not_checked",
-      "archive_search_url": null,
+      "archive_search_url": "https://web.archive.org/web/*/http://r.hatena.ne.jp/",
       "entity_type": "service",
       "editorial_status": "core",
       "editorial_basis": "大手一般向けサービス、当時の代表性、または日本のWeb文化史上の影響を考慮した暫定編集判断。利用者数の実測ではない。",
@@ -1587,7 +1590,8 @@
         "duration_precision": "approx_from_calendar_years",
         "classification_basis": "start year + end year; no exact duration implied",
         "caveat": ""
-      }
+      },
+      "archive_link_type": "wayback_calendar_unverified"
     },
     {
       "id": "hatena-ring",
@@ -1775,13 +1779,13 @@
       "source_primary": false,
       "closure_scope": "entire_service",
       "post_closure": "事前にデータをエクスポートするよう案内。",
-      "original_url": "",
+      "original_url": "http://www.diary.ne.jp/",
       "record_origin": "research_2026_11_06",
-      "editorial_note": "",
+      "editorial_note": " 第48–49次調査：旧URL候補追加。Wayback保存ページは未確認。",
       "source_review": "secondary_documented",
       "archive_url": null,
       "archive_validation": "not_checked",
-      "archive_search_url": null,
+      "archive_search_url": "https://web.archive.org/web/*/http://www.diary.ne.jp/",
       "entity_type": "service",
       "editorial_status": "core",
       "editorial_basis": "大手一般向けサービス、当時の代表性、または日本のWeb文化史上の影響を考慮した暫定編集判断。利用者数の実測ではない。",
@@ -1796,7 +1800,8 @@
         "duration_precision": "approx_from_calendar_years",
         "classification_basis": "start year + end year; no exact duration implied",
         "caveat": ""
-      }
+      },
+      "archive_link_type": "wayback_calendar_unverified"
     },
     {
       "id": "cururu",
@@ -1815,13 +1820,13 @@
       "source_primary": false,
       "closure_scope": "entire_service",
       "post_closure": "",
-      "original_url": "",
+      "original_url": "http://www.cururu.jp/",
       "record_origin": "research_2026_11_06",
-      "editorial_note": "当初の2009-11-30終了予定が2010-03-31へ延長された。",
+      "editorial_note": "当初の2009-11-30終了予定が2010-03-31へ延長された。 第48–49次調査：旧URL候補追加。Wayback保存ページは未確認。",
       "source_review": "secondary_documented",
       "archive_url": null,
       "archive_validation": "not_checked",
-      "archive_search_url": null,
+      "archive_search_url": "https://web.archive.org/web/*/http://www.cururu.jp/",
       "entity_type": "service",
       "editorial_status": "core",
       "editorial_basis": "大手一般向けサービス、当時の代表性、または日本のWeb文化史上の影響を考慮した暫定編集判断。利用者数の実測ではない。",
@@ -1836,7 +1841,8 @@
         "duration_precision": "approx_from_calendar_years",
         "classification_basis": "start year + end year; no exact duration implied",
         "caveat": ""
-      }
+      },
+      "archive_link_type": "wayback_calendar_unverified"
     },
     {
       "id": "drecom-blog",
@@ -1943,13 +1949,13 @@
       "source_primary": false,
       "closure_scope": "entire_service",
       "post_closure": "",
-      "original_url": "",
+      "original_url": "http://www.kanshin.com/",
       "record_origin": "research_2026_11_06",
-      "editorial_note": "",
+      "editorial_note": " 第48–49次調査：旧URL候補追加。Wayback保存ページは未確認。",
       "source_review": "secondary_documented",
       "archive_url": null,
       "archive_validation": "not_checked",
-      "archive_search_url": null,
+      "archive_search_url": "https://web.archive.org/web/*/http://www.kanshin.com/",
       "entity_type": "service",
       "editorial_status": "core",
       "editorial_basis": "大手一般向けサービス、当時の代表性、または日本のWeb文化史上の影響を考慮した暫定編集判断。利用者数の実測ではない。",
@@ -1964,7 +1970,8 @@
         "duration_precision": "approx_from_calendar_years",
         "classification_basis": "start year + end year; no exact duration implied",
         "caveat": ""
-      }
+      },
+      "archive_link_type": "wayback_calendar_unverified"
     },
     {
       "id": "ameba-now",

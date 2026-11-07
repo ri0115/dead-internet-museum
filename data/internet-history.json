@@ -6918,11 +6918,44 @@
       "category": "ネット文化・騒動",
       "region": "日本",
       "sourceType": "contemporary_reporting"
+    },
+    {
+      "id": "satsuma-hogwarts-viral-2023-02-14",
+      "date": "2023-02-14",
+      "title": "「薩摩ホグワーツ」の大喜利がXで拡散",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "『ハリー・ポッター』世界と薩摩武士の示現流を組み合わせた大喜利がSNSで拡散。2月14日付の松永マグロによる投稿が確認できる。最初の発案者・初出投稿と断定せず、確認できた拡散の起点として収録。",
+      "source": "https://search.yahoo.co.jp/realtime/search/pickup/23367",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "satsuma-hogwarts-reported-2023-02-16",
+      "date": "2023-02-16",
+      "title": "「薩摩ホグワーツ」がネットニュースで紹介される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "薩摩武士がホグワーツの魔法世界に入り込むSNS大喜利が、ねとらぼで2月16日に報道された。これは報道日であり、元ネタの初出日ではない。",
+      "source": "https://nlab.itmedia.co.jp/cont/articles/3351634/",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "nyaho-stand-viral-2022-02-27",
+      "date": "2022-02-27",
+      "title": "新ポケモン発表をきっかけに「ニャオハ立つな」が広まる",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "『ポケットモンスター スカーレット・バイオレット』の発表と新御三家ニャオハの公開を受け、進化後に二足歩行してほしくないというネットミーム『ニャオハ立つな』が広まった。初投稿日時は未確認。",
+      "source": "https://realsound.jp/tech/2022/12/post-1212450.html",
+      "sourceType": "historical_record",
+      "importance": 5
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 296
+    "currentDistinctMonthDays": 297
   }
 }

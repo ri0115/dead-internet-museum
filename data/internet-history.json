@@ -2833,11 +2833,25 @@
       "importance": 5,
       "originalDateType": "original_upload",
       "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "tashiro-matsuri-time-thread-2001",
+      "date": "2001-12-19",
+      "title": "「田代祭り」TIME誌投票スレッドが立つ",
+      "category": "2ちゃんねる・ネット祭り",
+      "region": "日本",
+      "summary": "TIME誌の2001年Person of the Year読者投票をめぐる2ちゃんねるのスレッドが12月19日14時25分に立てられた。当時のログが研究論文に引用されている。田代祭り全体の開始日と断定せず、このスレッドの作成日として記録。",
+      "source": "http://ebi.2ch.net/keiba/kako/1008/10087/1008746699.html",
+      "secondarySource": "https://kwansei.repo.nii.ac.jp/record/25136/files/%E8%B0%B7%E6%9D%91%E8%A6%81_%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91%28%E8%AB%96%E6%96%87%E5%85%A8%E6%96%87%EF%BC%89.pdf",
+      "sourceType": "archived_forum_thread_cited_in_academic_research",
+      "importance": 5,
+      "originalDateType": "documented_thread_creation",
+      "verificationStatus": "academic_quote_of_timestamped_forum_log"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Exact-day sourced events only; distinguish original post and spread. Secondary-only evidence flagged; no HTML update.",
-    "currentDistinctMonthDays": 178
+    "policy": "Dated evidence required; distinguish a documented thread from origin of a larger meme or movement.",
+    "currentDistinctMonthDays": 179
   }
 }

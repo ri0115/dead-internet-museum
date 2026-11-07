@@ -5,7 +5,7 @@ from pathlib import Path
 root=Path(__file__).resolve().parents[1]
 html_path=root/"index.html"
 html=html_path.read_text(encoding="utf-8")
-pattern=r'(<script id="catalog" type="application/json">)([\\s\\S]*?)(</script>)'
+pattern=r'(<script id="catalog" type="application/json">)([\s\S]*?)(</script>)'
 m=re.search(pattern,html)
 if not m:raise SystemExit("Catalog missing")
 records=json.loads(m.group(2))

@@ -7897,11 +7897,22 @@
       "source": "https://knowyourmeme.com/memes/subcultures/krainagrzybowtv",
       "sourceType": "meme_history_secondary",
       "importance": 3
+    },
+    {
+      "id": "umauma-origin-investigation-2008-03-09",
+      "date": "2008-03-09",
+      "title": "「ウマウマ」の海外発祥を追跡した日本語記事が公開",
+      "category": "ネットミーム・考察",
+      "region": "日本",
+      "summary": "ニコニコ動画で大流行していた「ウッーウッーウマウマ(ﾟ∀ﾟ)」について、日本語ブログ『うつせみ日記』が発祥経路を調査した記事を公開。2005年の海外掲示板の『Popotan dance』GIFと2006年の楽曲合成Flashを区別して記録した。これはミームの誕生日ではなく、日本語による起源検証記事の公開日。",
+      "source": "https://hidematu.hatenadiary.org/entry/20080309/1205043971",
+      "sourceType": "contemporary_primary_blog",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 345
+    "currentDistinctMonthDays": 346
   }
 }

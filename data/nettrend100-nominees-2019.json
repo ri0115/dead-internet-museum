@@ -1,0 +1,722 @@
+{
+  "year": 2019,
+  "source": "https://www.pixivision.net/ja/a/5246",
+  "sourcePublisher": "pixivision / pixiv",
+  "selection": "2019-01-01 to 2019-11-18 combined encyclopedia page accesses",
+  "nomineesCount": 100,
+  "updated": "2026-11-07",
+  "matchMethod": "Normalized title substring heuristic only; possible_match does not mean coverage verified",
+  "status": "full_nominee_list_transcribed; human review pending",
+  "nominees": [
+    {
+      "index": 1,
+      "term": "アイドル部",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 2,
+      "term": "猗窩座",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 3,
+      "term": "我妻善逸",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 4,
+      "term": "アップランド",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 5,
+      "term": "アナザーライダー",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 6,
+      "term": "安室透",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 7,
+      "term": "暗殺チーム",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 8,
+      "term": "Undertale",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 9,
+      "term": "無限の剣製",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 10,
+      "term": "イキリ鯖太郎",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 11,
+      "term": "宇髄天元",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 12,
+      "term": "産屋敷耀哉",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 13,
+      "term": "ウミガメのスープ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 14,
+      "term": "衛宮士郎",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 15,
+      "term": "黄金の風",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 16,
+      "term": "オーマジオウ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 17,
+      "term": "御伽原江良",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 18,
+      "term": "オメガバース",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 19,
+      "term": "獪岳",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 20,
+      "term": "カイドウ(ONEPIECE)",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 21,
+      "term": "花京院ちえり",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 22,
+      "term": "かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 23,
+      "term": "竈門炭治郎",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 24,
+      "term": "竈門禰豆子",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 25,
+      "term": "仮面ライダージオウ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 26,
+      "term": "仮面ライダーゼロワン",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 27,
+      "term": "甘露寺蜜璃",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 28,
+      "term": "ギアッチョ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 29,
+      "term": "鬼殺隊",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 30,
+      "term": "鬼舞辻無惨",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 31,
+      "term": "鬼滅の刃",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 32,
+      "term": "キュルル(けものフレンズ)",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 33,
+      "term": "ギルガメッシュ(Fate)",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 34,
+      "term": "キング・クリムゾン",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 35,
+      "term": "グイード・ミスタ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 36,
+      "term": "ゲーム部プロジェクト",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 37,
+      "term": "ケムリクサ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 38,
+      "term": "けものフレンズ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 39,
+      "term": "けものフレンズ2",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 40,
+      "term": "現場猫",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 41,
+      "term": "ゴールド・エクスペリエンス・レクイエム",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 42,
+      "term": "黒死牟",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 43,
+      "term": "胡蝶しのぶ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 44,
+      "term": "ゴマすりクソバード",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 45,
+      "term": "Sans",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 46,
+      "term": "椎名唯華",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 47,
+      "term": "不死川玄弥",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 48,
+      "term": "不死川実弥",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 49,
+      "term": "渋谷ハジメ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 50,
+      "term": "シャミ子が悪いんだよ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 51,
+      "term": "十二鬼月",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 52,
+      "term": "上級国民",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 53,
+      "term": "ジョルノ・ジョバァーナ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 54,
+      "term": "スター☆トゥインクルプリキュア",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 55,
+      "term": "セッコ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 56,
+      "term": "殺生院キアラ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 57,
+      "term": "全集中の呼吸",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 58,
+      "term": "大乱闘スマッシュブラザーズ SPECIAL",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 59,
+      "term": "チョコラータ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 60,
+      "term": "栗花落カナヲ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 61,
+      "term": "ディアボロ(ジョジョの奇妙な冒険)",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 62,
+      "term": "電脳少女シロ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 63,
+      "term": "東方Project",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 64,
+      "term": "童磨",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 65,
+      "term": "時透無一郎",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 66,
+      "term": ".LIVE",
+      "status": "possible_match",
+      "matchedEventIds": [
+        "meta-2015-12-03-10"
+      ],
+      "reviewed": false
+    },
+    {
+      "index": 67,
+      "term": "冨岡義勇",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 68,
+      "term": "トラファルガー・ロー",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 69,
+      "term": "トリッシュ・ウナ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 70,
+      "term": "ナランチャ・ギルガ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 71,
+      "term": "なんでも実況J",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 72,
+      "term": "にじさんじ",
+      "status": "possible_match",
+      "matchedEventIds": [
+        "salome-vtuber-debut-2022-05-21"
+      ],
+      "reviewed": false
+    },
+    {
+      "index": 73,
+      "term": "バーチャルYouTuber",
+      "status": "possible_match",
+      "matchedEventIds": [
+        "tiyu12-vtuber-2018"
+      ],
+      "reviewed": false
+    },
+    {
+      "index": 74,
+      "term": "敗北者",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 75,
+      "term": "幕末志士",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 76,
+      "term": "嘴平伊之助",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 77,
+      "term": "柱(鬼滅の刃)",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 78,
+      "term": "パンナコッタ・フーゴ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 79,
+      "term": "ヒプノシスマイク",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 80,
+      "term": "悲鳴嶼行冥",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 81,
+      "term": "ファイアーエムブレム 風花雪月",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 82,
+      "term": "Fate/Grand Order",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 83,
+      "term": "ブローノ・ブチャラティ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 84,
+      "term": "プロシュート",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 85,
+      "term": "ペニーワイズ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 86,
+      "term": "ポケットモンスター ソード・シールド",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 87,
+      "term": "間桐桜",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 88,
+      "term": "○○の主役は我々だ!",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 89,
+      "term": "みんなのトラウマ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 90,
+      "term": "メローネ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 91,
+      "term": "メンヘラ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 92,
+      "term": "もこ田めめめ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 93,
+      "term": "夢見りあむ",
+      "status": "possible_match",
+      "matchedEventIds": [
+        "internet-meme-source-20261107-04"
+      ],
+      "reviewed": false
+    },
+    {
+      "index": 94,
+      "term": "ゆゆうた",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 95,
+      "term": "夜桜たま",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 96,
+      "term": "四皇",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 97,
+      "term": "リゾット・ネエロ",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 98,
+      "term": "令和",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 99,
+      "term": "煉獄杏寿郎",
+      "status": "not_yet_matched",
+      "matchedEventIds": [],
+      "reviewed": false
+    },
+    {
+      "index": 100,
+      "term": "ワザップジョルノ",
+      "status": "possible_match",
+      "matchedEventIds": [
+        "meme-milestone-72-01"
+      ],
+      "reviewed": false
+    }
+  ]
+}

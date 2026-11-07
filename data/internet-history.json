@@ -6093,11 +6093,165 @@
       "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201910.html",
       "sourceType": "contemporary_reporting",
       "importance": 4
+    },
+    {
+      "id": "internet-archive-75-01",
+      "date": "2020-10-16",
+      "title": "1980年代のネットニュース約210万件のアーカイブが復元",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "初期インターネットの議論を記録したネットニュースの大量アーカイブが復元されたと報道。 日付は当時の記事掲載日であり、現象の初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202010.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-archive-75-02",
+      "date": "2020-12-07",
+      "title": "福井県立図書館の「覚え違いタイトル集」がネットで再び話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "「若おおかみは小学生」「唐魔族三兄弟」などの覚え違いが新たに紹介された。 日付は当時の記事掲載日であり、現象の初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202012.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-75-03",
+      "date": "2020-12-10",
+      "title": "ニコニコ動画のボーカロイド投稿13年分を集計した分析が話題に",
+      "category": "動画・音楽文化",
+      "region": "日本",
+      "summary": "ニコニコ動画に投稿されたボーカロイド動画の長期集計が紹介された。 日付は当時の記事掲載日であり、現象の初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202012.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-75-04",
+      "date": "2020-12-18",
+      "title": "「一言でエンジニアを怒らせる方法」がネットで話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "エンジニアにとって身に覚えのある言葉を集める投稿が反響を呼んだ。 日付は当時の記事掲載日であり、現象の初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202012.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-75-05",
+      "date": "2020-12-18",
+      "title": "PC高速化ソフト「ガンガンガン速」の公式サイトが閲覧不能に",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "テレビCMなどで知られたPC高速化ソフトのサイトが閲覧できなくなったと報道。サービスの正式終了日とは断定しない。 日付は当時の記事掲載日であり、現象の初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202012.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-75-06",
+      "date": "2020-12-22",
+      "title": "Origami Payのシステム停止を振り返る技術ブログが話題に",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "終了した決済サービスの停止作業を説明する記事が、技術的な記録として評価された。 日付は当時の記事掲載日であり、現象の初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202012.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-75-07",
+      "date": "2021-01-26",
+      "title": "Twitter公式アカウントの消えたアイコンを描く遊びが流行",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "Twitter公式アカウントのアイコン消失を受け、ユーザーが独自アイコンを貼る遊びが広がった。 日付は当時の記事掲載日であり、現象の初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202101.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-75-08",
+      "date": "2021-08-31",
+      "title": "「500円札」「手動の車窓」など昭和の思い出がTwitterで話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "昔の生活用品や習慣を振り返る投稿が大量に集まった。 日付は当時の記事掲載日であり、現象の初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202108.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-archive-75-09",
+      "date": "2021-09-01",
+      "title": "Googleの消えたメッセージングサービス一覧が話題に",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "Googleが長年提供・終了してきたメッセージングサービスをまとめた一覧が紹介された。 日付は当時の記事掲載日であり、現象の初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202109.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-75-10",
+      "date": "2021-09-09",
+      "title": "「呼び込み君」をギターアンプに改造した動画が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "店頭販促用の音声再生機器を楽器用アンプに改造した動画が紹介された。 日付は当時の記事掲載日であり、現象の初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202109.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-75-11",
+      "date": "2021-12-24",
+      "title": "Minecraft内で阿部寛のホームページを表示する動画が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "軽量・高速で知られる阿部寛のホームページをMinecraft内で閲覧する動画が報じられた。 日付は当時の記事掲載日であり、現象の初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202112.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-archive-75-12",
+      "date": "2022-06-03",
+      "title": "先行者そっくりの四足歩行ロボットがネットで話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "往年のネット文化で知られるロボット「先行者」を思わせる製品がクラウドファンディングで注目された。 日付は当時の記事掲載日であり、現象の初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202206.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-75-13",
+      "date": "2022-06-07",
+      "title": "「えんぴつ曲げマシーン」の進化がネットで話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "鉛筆を曲がって見せる動きを機械で再現する工作が注目された。 日付は当時の記事掲載日であり、現象の初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202206.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-75-14",
+      "date": "2022-10-14",
+      "title": "新作『うる星やつら』をビデオデッキで録画する遊びがSNSで発生",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "新作アニメをあえて古いビデオデッキで録画するレトロな遊びが話題になった。 日付は当時の記事掲載日であり、現象の初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index202210.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 282
+    "currentDistinctMonthDays": 284
   }
 }

@@ -2847,11 +2847,53 @@
       "importance": 5,
       "originalDateType": "documented_thread_creation",
       "verificationStatus": "academic_quote_of_timestamped_forum_log"
+    },
+    {
+      "id": "typhoon-croquette-2001",
+      "date": "2001-08-21",
+      "title": "「台風コロッケ」誕生の書き込み",
+      "category": "有名コピペ・掲示板・ネット風習",
+      "region": "日本",
+      "summary": "2ちゃんねるの台風11号実況スレッド111番に、13時10分『念のため、コロッケを16個買ってきました。もう3個食べてしまいました。』と投稿。以降、台風時にコロッケを食べるネット風習へ発展。",
+      "source": "https://mimizun.com/log/2ch/news/998366541/",
+      "secondarySource": "https://j-town.net/2016/08/22230767.html?p=all",
+      "sourceType": "archived_forum_log_and_retrospective_report",
+      "importance": 5,
+      "originalDateType": "timestamped_original_forum_post",
+      "verificationStatus": "archived_forum_transcription_corrob",
+      "originalPostNumber": 111,
+      "originalPostTime": "13:10"
+    },
+    {
+      "id": "eight-heads-mona-2001",
+      "date": "2001-09-25",
+      "title": "「8頭身モナーはキモイ」スレッド登場",
+      "category": "AA・掲示板・ネットミーム",
+      "region": "日本",
+      "summary": "2ちゃんねるモナー板に『8頭身のモナーはキモイ』スレッドが登場し、後の『8頭身モナー』キャラクター文化につながる。高頭身AAそのものの初出とは区別する。",
+      "source": "https://w.atwiki.jp/aacharadic/pages/32.html",
+      "sourceType": "community_character_history",
+      "importance": 5,
+      "originalDateType": "character_origin_thread",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "nihongode-ok-2005",
+      "date": "2005-05-20",
+      "title": "「日本語でおk」の元ネタとなる掲示板スレッド登場",
+      "category": "有名コピペ・ネットスラング",
+      "region": "日本",
+      "summary": "2ちゃんねる喪男板の『ウルトラマンが悩みを聞いてあげるスレッド』で、意味不明なウルトラマン語に対する『日本語でおk』の応答が生まれたとされる。",
+      "source": "https://moto-neta.com/net/nihongode-ok/",
+      "sourceType": "secondary_meme_origin_research",
+      "importance": 5,
+      "originalDateType": "origin_thread_creation",
+      "verificationStatus": "secondary_source_only"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Dated evidence required; distinguish a documented thread from origin of a larger meme or movement.",
-    "currentDistinctMonthDays": 179
+    "policy": "Use exact-dated evidence. Distinguish origin posts and related threads; flag secondary-only records. HTML publication deferred.",
+    "currentDistinctMonthDays": 182
   }
 }

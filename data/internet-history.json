@@ -7916,8 +7916,8 @@
       "category": "ネットミーム・音楽",
       "region": "日本",
       "summary": "ニコニコ動画で空耳・手描きMADとして大流行したスウェーデン発「Caramelldansen」を収録する日本のコンピレーションアルバムが発売。海外発のネットミームが日本の商業音楽に波及した節目。ミームの発祥日ではなく商品発売日。",
-      "source": "https://www.j-cast.com/2008/03/08017442.html",
-      "sourceType": "contemporary_reporting",
+      "source": "https://www.neowing.co.jp/product/QWCE-47",
+      "sourceType": "release_listing",
       "importance": 4
     },
     {
@@ -7930,11 +7930,22 @@
       "source": "https://w.atwiki.jp/nicoten/pages/262.html",
       "sourceType": "contemporary_fan_documentation",
       "importance": 4
+    },
+    {
+      "id": "umauma-cd-revival-reported-2008-02-25",
+      "date": "2008-02-25",
+      "title": "「ウマウマ」CD化と販売中止アルバムの復活が報じられる",
+      "category": "ネットミーム・音楽",
+      "region": "日本",
+      "summary": "ITmedia NEWSが、ニコニコ動画などで広がった「ウッーウッーウマウマ(ﾟ∀ﾟ)」のCD化と、ジャケット問題で販売中止になったトランスアルバムの改題・再発売を報道。ネットミームの商業展開を伝える当時の記事公開日。",
+      "source": "https://www.itmedia.co.jp/news/article/0802/25/1080225030/",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 348
+    "currentDistinctMonthDays": 349
   }
 }

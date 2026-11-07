@@ -8480,6 +8480,61 @@
       "region": "日本",
       "sourceType": "platform_primary",
       "importance": 4
+    },
+    {
+      "id": "honda-tsubasa-youtube-announcement-2018-09-21",
+      "date": "2018-09-21",
+      "title": "本田翼がYouTube「ほんだのばいく」開設を発表",
+      "category": "YouTube・著名人チャンネル開始",
+      "region": "日本",
+      "summary": "所属事務所スターダストプロモーションが、ゲーム実況を中心とするYouTubeチャンネル『ほんだのばいく』の開設を正式発表。チャンネル開設発表日と初の公式生配信日を区別する。",
+      "source": "https://www.4gamer.net/games/999/G999905/20180922034/",
+      "sourceType": "agency_press_release",
+      "importance": 5
+    },
+    {
+      "id": "honda-tsubasa-first-youtube-live-2018-09-22",
+      "date": "2018-09-22",
+      "title": "本田翼「ほんだのばいく」初の公式ゲーム生配信",
+      "category": "YouTube・著名人チャンネル開始",
+      "region": "日本",
+      "summary": "本田翼がYouTubeで初の公式ゲーム実況生配信を実施。芸能人によるゲーム実況の本格参入を象徴する出来事。9月8日の事前配信とは区別する。",
+      "source": "https://www.4gamer.net/games/999/G999905/20180922034/",
+      "sourceType": "agency_press_release",
+      "importance": 5
+    },
+    {
+      "id": "kajisac-youtube-debut-2018-10-01",
+      "date": "2018-10-01",
+      "title": "キングコング梶原が「カジサック」としてYouTubeデビュー",
+      "category": "YouTube・著名人チャンネル開始",
+      "region": "日本",
+      "summary": "お笑い芸人・梶原雄太がYouTubeで『カジサック』としての活動を開始。テレビ芸人のYouTube本格進出を代表する節目。",
+      "source": "https://yutura.net/news/archives/27958",
+      "sourceType": "retrospective_platform_reporting",
+      "importance": 5
+    },
+    {
+      "id": "egachan-youtube-debut-2020-02-01",
+      "date": "2020-02-01",
+      "title": "江頭2:50がYouTube「エガちゃんねる」を開設",
+      "category": "YouTube・著名人チャンネル開始",
+      "region": "日本",
+      "summary": "江頭2:50が公式YouTubeチャンネル『エガちゃんねる』を開設し初動画を公開。テレビで知られた芸人がYouTubeを主戦場に広げた象徴的事例。",
+      "source": "https://www.oricon.co.jp/news/2154441/full/",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "egachan-one-million-2020-02-09",
+      "date": "2020-02-09",
+      "title": "「エガちゃんねる」が開始9日目で登録者100万人",
+      "category": "プラットフォーム内バズ・YouTube",
+      "region": "日本",
+      "summary": "2020年2月1日に始動した江頭2:50の『エガちゃんねる』が、2月9日にチャンネル登録者100万人を達成。開設時の注目が急速な登録者増加につながった。",
+      "source": "https://yutura.net/news/archives/20886",
+      "sourceType": "contemporary_platform_reporting",
+      "importance": 5
     }
   ],
   "coverage": {

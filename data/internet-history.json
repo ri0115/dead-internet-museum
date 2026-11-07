@@ -4520,11 +4520,88 @@
       "source": "https://about.fb.com/ja/company.info/",
       "sourceType": "operator",
       "importance": 3
+    },
+    {
+      "id": "net-toy-report-2010-05-20-01",
+      "date": "2010-05-20",
+      "title": "「吹 っ 切 れ た」の大量派生が当時のニュースで紹介される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ニコニコ動画でキャラクターや実在人物などを踊らせる「吹っ切れた」動画が大量投稿されているとINTERNET Watchが紹介。これは報道日であり原作投稿日ではない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/368090.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "net-toy-report-2010-05-20-02",
+      "date": "2010-05-20",
+      "title": "2ちゃんねるの口コミで漫画『ホームセンターてんこ』が売上急増",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "2ちゃんねるでの紹介がきっかけとなり漫画『ホームセンターてんこ』がAmazonで品切れとなるほど注目を集めたと報道。報道日を記録。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/368090.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "net-toy-report-2010-01-14-03",
+      "date": "2010-01-14",
+      "title": "松岡修造botがさくらや閉店に熱いエールを送り話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "松岡修造の熱血語りを模したTwitter botが家電量販店さくらやの清算報道に反応し、当時のネットニュースに取り上げられた。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/342123.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "net-toy-report-2010-04-14-04",
+      "date": "2010-04-14",
+      "title": "芸能人をエヴァに乗せる2ちゃんねるネタが話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "高田純次、松岡修造などの芸能人をエヴァンゲリオンに搭乗させる定番の改変ネタがINTERNET Watchで紹介された。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/360991.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "net-toy-report-2012-03-12-05",
+      "date": "2012-03-12",
+      "title": "Siriを模倣するTwitter botがネットで話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "日本語版Siriの話題に応答する非公式bot「SiriBot」が人気となり、松岡修造botとの掛け合いも話題になった。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/518133.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "net-toy-report-2012-03-12-06",
+      "date": "2012-03-12",
+      "title": "戦時中の本に描かれたパラパラ漫画が2ちゃんねるで話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "古本に描かれた精巧な戦闘機のパラパラ漫画が2ちゃんねるからまとめサイトへ広まり注目された。1942年の本という説明は当時の報道に基づく。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/518133.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "net-toy-report-2008-07-01-07",
+      "date": "2008-07-01",
+      "title": "吉野家コピペが実際の注文事情とともに回顧される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "INTERNET Watchが吉野家の注文ルールの変化に触れ、かつての吉野家コピペを回顧。初出日ではなく報道日。",
+      "source": "https://internet.watch.impress.co.jp/static/yajiuma/2008/07/01/",
+      "sourceType": "contemporary_reporting",
+      "importance": 2
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 234
+    "currentDistinctMonthDays": 235
   }
 }

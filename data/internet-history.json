@@ -7589,11 +7589,33 @@
       "source": "https://www.nic.ad.jp/timeline/",
       "sourceType": "operator",
       "importance": 3
+    },
+    {
+      "id": "google-plus-one-japan-2011-06-28",
+      "date": "2011-06-28",
+      "title": "Google検索の「+1」ボタンが日本語対応",
+      "category": "SNS・ネット文化",
+      "region": "日本",
+      "summary": "Google検索結果の「+1」ボタンが日本語を含む43言語に対応。SNS型の推薦を検索に組み込もうとした時代の出来事。Google日本語公式ブログの当日付発表による。",
+      "source": "https://blog.google/intl/ja-jp/products/explore-get-answers/2011_06_1/",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "first-iphone-us-retail-launch-2007-06-29",
+      "date": "2007-06-29",
+      "title": "初代iPhoneが米国で発売される",
+      "category": "モバイル・ネット文化",
+      "region": "世界",
+      "summary": "初代iPhoneが米国で発売。携帯端末でのウェブ閲覧やオンラインサービス利用の転換点。1月9日の発表とは別の日付として記録。",
+      "source": "https://www.apple.com/newsroom/2007/06/28iPhone-Premieres-This-Friday-Night-at-Apple-Retail-Stores/",
+      "sourceType": "operator",
+      "importance": 5
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 320
+    "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
+    "currentDistinctMonthDays": 322
   }
 }

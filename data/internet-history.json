@@ -7457,11 +7457,44 @@
       "source": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-app-more-secure-home-apps-web/",
       "sourceType": "operator",
       "importance": 3
+    },
+    {
+      "id": "first-commercial-arpanet-spam-1978-05-03",
+      "date": "1978-05-03",
+      "title": "ARPANETで初期の商用スパムメールが送信される",
+      "category": "ネット文化・セキュリティ",
+      "region": "世界",
+      "summary": "DECのGary Thuerkが製品説明会を宣伝する未承諾の一斉メールをARPANET利用者に送信。現代の迷惑メール文化の起点として知られる。",
+      "source": "https://www.computerhistory.org/tdih/May/03/",
+      "sourceType": "museum_historical_record",
+      "importance": 5
+    },
+    {
+      "id": "slate-online-magazine-launch-1996-06-25",
+      "date": "1996-06-25",
+      "title": "ウェブ雑誌「Slate」が創刊",
+      "category": "メディア・個人サイト",
+      "region": "世界",
+      "summary": "Microsoftの支援でオンライン雑誌Slateが創刊。ウェブ上の編集・論評メディアが広がる初期の事例。",
+      "source": "https://thehistoryoftheweb.com/timeline/?date_from=all",
+      "sourceType": "web_history_timeline",
+      "importance": 3
+    },
+    {
+      "id": "zip2-launch-1996-08-15",
+      "date": "1996-08-15",
+      "title": "地域情報と地図を組み合わせた「Zip2」が公開",
+      "category": "ウェブサービス",
+      "region": "世界",
+      "summary": "地域の事業者情報を地図と組み合わせたウェブサービスZip2が公開されたとウェブ史年表に記録されている。",
+      "source": "https://thehistoryoftheweb.com/timeline/?date_from=all",
+      "sourceType": "web_history_timeline",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 309
+    "currentDistinctMonthDays": 312
   }
 }

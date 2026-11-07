@@ -28,7 +28,7 @@
     "current_html": "v2.7 TIME MACHINE / 453 records",
     "design_note": "mechanical 7-digit counters, low-frequency NEW blink, reduced-motion and toggle; no fictitious visitor traffic",
     "batch11_added": 17,
-    "revision": "research_v51_url_merge",
+    "revision": "research_v52_url_merge",
     "total_exhibits": 453,
     "last_updated": "2026-11-07",
     "note_batch12": "開始年・存続期間・元号跨ぎの可視化。サービス本体と旧ブランド/サポート終了を区別。",
@@ -2915,13 +2915,13 @@
       "source_primary": false,
       "closure_scope": "entire_service",
       "post_closure": "",
-      "original_url": "",
+      "original_url": "https://dir.yahoo.co.jp/",
       "record_origin": "research_2026_11_06",
-      "editorial_note": "",
+      "editorial_note": " 第52次：ヤフー公式2017年プレスリリース掲載URL dir.yahoo.co.jp/info を根拠に旧ドメインを登録。Wayback保存ページ未確認。",
       "source_review": "secondary_documented",
       "archive_url": null,
       "archive_validation": "not_checked",
-      "archive_search_url": null,
+      "archive_search_url": "https://web.archive.org/web/*/https://dir.yahoo.co.jp/",
       "entity_type": "service",
       "editorial_status": "core",
       "editorial_basis": "大手一般向けサービス、当時の代表性、または日本のWeb文化史上の影響を考慮した暫定編集判断。利用者数の実測ではない。",
@@ -2936,7 +2936,9 @@
         "duration_precision": "approx_from_calendar_years",
         "classification_basis": "start year + end year; no exact duration implied",
         "caveat": ""
-      }
+      },
+      "archive_link_type": "wayback_calendar_unverified",
+      "original_url_evidence": "https://www.lycorp.co.jp/news/archive/Y/ja/ja20170629_A.pdf"
     },
     {
       "id": "yahoo-toolbar",

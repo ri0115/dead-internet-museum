@@ -8381,6 +8381,50 @@
       "source": "https://www.washingtonpost.com/technology/2018/12/13/youtube-rewind-was-supposed-celebrate-its-now-most-disliked-video-sites-history/",
       "sourceType": "contemporary_reporting",
       "importance": 5
+    },
+    {
+      "id": "gangnam-style-youtube-upload-2012-07-15",
+      "date": "2012-07-15",
+      "title": "PSY「江南スタイル」MVがYouTubeに公開",
+      "category": "プラットフォーム内バズ・YouTube",
+      "region": "韓国→世界",
+      "summary": "PSYの公式MVがYouTubeに公開。乗馬ダンスと模倣動画が世界的に広まり、同年12月の10億再生へつながった。公開日と記録達成日は別記録。",
+      "source": "https://blog.youtube/creator-and-artist-stories/10-years-of-youtubes-billion-views-club-psy-gangnam-style/",
+      "sourceType": "platform_primary",
+      "importance": 5
+    },
+    {
+      "id": "gangnam-style-youtube-billion-2012-12-21",
+      "date": "2012-12-21",
+      "title": "「江南スタイル」がYouTube史上初の10億再生",
+      "category": "プラットフォーム内バズ・YouTube",
+      "region": "韓国→世界",
+      "summary": "PSY『江南スタイル』がYouTubeで初めて10億再生を突破。YouTube公式が同日発表し、世界規模の動画バズの象徴となった。",
+      "source": "https://blog.youtube/news-and-events/ytvev/?hl=ca",
+      "sourceType": "platform_primary",
+      "importance": 5
+    },
+    {
+      "id": "bals-twitter-2013-08-02",
+      "date": "2013-08-02",
+      "title": "『ラピュタ』放送でTwitter「バルス祭り」再燃",
+      "category": "プラットフォーム内バズ・Twitter",
+      "region": "日本",
+      "summary": "『天空の城ラピュタ』放送の23時22分ごろ、Twitterで「バルス」の同時投稿が殺到。サービスは持ちこたえた。『毎秒58,475ツイートの世界記録』との流布はTwitterが否定しており、記録として採用しない。",
+      "source": "https://www.itmedia.co.jp/news/article/1308/03/1130803008/",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "hikiniku-tiktok-570m-2023-11-17",
+      "date": "2023-11-17",
+      "title": "TikTok「#ひき肉です」関連動画が累計5.7億再生",
+      "category": "プラットフォーム内バズ・TikTok",
+      "region": "日本",
+      "summary": "ちょんまげ小僧の自己紹介『ひき肉です』がTikTokの模倣・ダンス動画に波及。2023年11月17日時点でハッシュタグ付き動画の合計視聴回数は約5億7000万回と報じられた。個別動画の再生数ではない。",
+      "source": "https://forbesjapan.com/articles/detail/67576",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
     }
   ],
   "coverage": {

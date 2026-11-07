@@ -16,7 +16,7 @@
 |---|---|---|---|---|---|
 | 何が嫌いかより何が好きかで自分を語れよ!!! | ツギハギ漂流作家 | 最終第22話・週刊少年ジャンプ2006年32号。発売3日後の2006-07-13の同号感想記事がセリフを直接引用。 | 2006-07-10 | **公開可（当時の読者記録で照合）** | https://aiba.livedoor.biz/archives/50561871.html ; https://www.jajanken.net/sakuhins/zPm81YV8ER |
 | だが断る | ジョジョの奇妙な冒険 第4部 | 岸辺露伴とハイウェイ・スターの場面。単行本41巻『ハイウェイ・スター その③』との対応が二次資料で判明。雑誌掲載号と発売日は未確定 | 未確定 | 調査中 | https://www.jajanken.net/sakuhins/Ym78Rox0ax ; https://conorelmes.com/anime/jojo-daga-kotowaru/ |
-| 計画通り | DEATH NOTE | セリフの該当話数・本誌掲載号は未照合 | 未確定 | 調査中 | — |
+| 計画通り | DEATH NOTE | 原作第53話『悲鳴』、週刊少年ジャンプ2005年7号、誌面の日付2005-01-31。原作セリフは複数の解説資料で照合。 | **未確定（発売日の別途照合が必要）** | 発売日調査中 | https://www.jajanken.net/sakuhins/QLm8jkY09P ; https://indexindex.net/work.php?work_id=6958 ; https://dijitama.com/keikakudoori/ |
 
 ## 注意
 2006年32号は表記日付2006-07-24だが、実際の発売日は2006-07-10。日付だけから『ツギハギ漂流作家』のセリフ初出を断定してはいけない。
@@ -30,3 +30,7 @@
 - 2006年7月13日付の『週刊少年ジャンプ32号』当時の読者感想で『ツギハギ漂流作家』最終話の当該セリフを直接引用。後年の回想だけに依存せず、同時代記録で掲載話とセリフを照合できたため、7月10日発売日のカレンダーイベントを追加。https://aiba.livedoor.biz/archives/50561871.html
 - 号数照合は文化庁メディア芸術データベースを元にしたジャジャン研。https://www.jajanken.net/sakuhins/zPm81YV8ER
 - 『DEATH NOTE』は全話の号数一覧を確認したが、『計画通り』の原作話数を未確定。日付を推測して追加しない。https://www.jajanken.net/sakuhins/QLm8jkY09P
+
+## 第163次監査（2026-11-08）
+- 『DEATH NOTE』の『計画通り』は原作page.53『悲鳴』。掲載誌は週刊少年ジャンプ2005年7号（誌面日付2005-01-31）。文化庁メディア芸術DB由来のジャジャン研・INDEXINDEXと、漫画ミーム解説で交差確認。実売日は未確認なので本番カレンダーへの追加を保留。https://www.jajanken.net/sakuhins/QLm8jkY09P ; https://indexindex.net/work.php?work_id=6958 ; https://dijitama.com/keikakudoori/
+- 『だが断る』は二次解説に単行本41巻という記述がある一方、巻ごとのエピソード対応に疑義があり、前回台帳の『ハイウェイ・スター その③』特定を確定情報として扱わない。https://x333.blog54.fc2.com/blog-entry-6020.html

@@ -232,7 +232,7 @@ function renderAnniversaries(){
  const days=[['今日は何の日？',today],['昨日',today-86400000]].map(([label,time])=>{
   const date=new Date(time),key=String(date.getUTCMonth()+1).padStart(2,'0')+'-'+String(date.getUTCDate()).padStart(2,'0');
   const history=HISTORY.filter(e=>e.date.slice(5)===key);
-  const closed=D.filter(r=>typeof r.end==='string'&&/^\\d{4}-\\d{2}-\\d{2}$/.test(r.end)&&r.end.slice(5)===key&&r.datePrecision==='day'&&r.primary===true&&!(String(r.quality||'')+' '+String(r.sourceLabel||'')).toLowerCase().includes('secondary')&&/^(entire_service|full_service|service_end_distinct_successor)$/.test(r.scope||''));
+  const closed=D.filter(r=>typeof r.end==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(r.end)&&r.end.slice(5)===key&&r.datePrecision==='day'&&r.primary===true&&!(String(r.quality||'')+' '+String(r.sourceLabel||'')).toLowerCase().includes('secondary')&&/^(entire_service|full_service|service_end_distinct_successor)$/.test(r.scope||''));
   return {label,date,key,history,closed};
  }).filter(d=>d.history.length||d.closed.length);
  board.replaceChildren();board.hidden=!days.length;if(!days.length)return;

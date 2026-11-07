@@ -28,7 +28,7 @@
     "current_html": "v2.7 TIME MACHINE / 453 records",
     "design_note": "mechanical 7-digit counters, low-frequency NEW blink, reduced-motion and toggle; no fictitious visitor traffic",
     "batch11_added": 17,
-    "revision": "research_v49_url_merge",
+    "revision": "research_v51_url_merge",
     "total_exhibits": 453,
     "last_updated": "2026-11-07",
     "note_batch12": "開始年・存続期間・元号跨ぎの可視化。サービス本体と旧ブランド/サポート終了を区別。",
@@ -1610,13 +1610,13 @@
       "source_primary": true,
       "closure_scope": "entire_service",
       "post_closure": "",
-      "original_url": "",
+      "original_url": "http://ring.hatena.ne.jp/",
       "record_origin": "research_2026_11_06",
-      "editorial_note": "2008年終了予定は延期され、2012年に実際終了。",
+      "editorial_note": "2008年終了予定は延期され、2012年に実際終了。 第51次：2005年の運営元プレスリリースで旧URL確認。Wayback保存ページ未確認。",
       "source_review": "source_identified",
       "archive_url": null,
       "archive_validation": "not_checked",
-      "archive_search_url": null,
+      "archive_search_url": "https://web.archive.org/web/*/http://ring.hatena.ne.jp/",
       "entity_type": "service",
       "editorial_status": "core",
       "editorial_basis": "大手一般向けサービス、当時の代表性、または日本のWeb文化史上の影響を考慮した暫定編集判断。利用者数の実測ではない。",
@@ -1631,7 +1631,9 @@
         "duration_precision": "approx_from_calendar_years",
         "classification_basis": "start year + end year; no exact duration implied",
         "caveat": ""
-      }
+      },
+      "archive_link_type": "wayback_calendar_unverified",
+      "original_url_evidence": "https://hatena.co.jp/press/release/entry/2005/11/15/000000"
     },
     {
       "id": "hatena-koko",

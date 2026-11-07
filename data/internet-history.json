@@ -4751,11 +4751,220 @@
       "source": "https://internet.watch.impress.co.jp/category/topic/index356.html",
       "sourceType": "contemporary_reporting",
       "importance": 4
+    },
+    {
+      "id": "internet-culture-archive-2011-09-06-01",
+      "date": "2011-09-06",
+      "title": "老人2ちゃんねらーの「2ゲット」コピペが旧字体で再現され話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "旧字体で再構成した2ゲットコピペが話題に。2011年9月6日の報道日であり原文の初出日ではない。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201109.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-culture-archive-2011-11-18-02",
+      "date": "2011-11-18",
+      "title": "ネットスラング「マミる」が現代用語の基礎知識に掲載され話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "『魔法少女まどか☆マギカ』から生まれた言葉が一般の新語集に取り上げられた。報道日を記録。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201111.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-archive-2011-11-30-03",
+      "date": "2011-11-30",
+      "title": "スライム肉まんの改変画像がネットに大量出現",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "発売されたスライム肉まんを加工した写真がネット上に大量投稿される様子が報じられた。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201111.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-archive-2012-01-27-04",
+      "date": "2012-01-27",
+      "title": "大分合同新聞のイラストに猫を足す改変が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "大分合同新聞のイラストに猫を描き足す改変遊びが紹介された。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201201.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-culture-archive-2012-03-01-05",
+      "date": "2012-03-01",
+      "title": "「てへぺろ」ジェネレーターがアクセス殺到でダウン",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "誰でも「てへぺろ」を表現できるサイトがアクセス集中でダウンしたと報じられた。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201203.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-archive-2012-03-19-06",
+      "date": "2012-03-19",
+      "title": "ネットで「ろくろを回す」ポーズのパロディが流行",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "IT業界人などのインタビュー写真で見かける手のポーズが、ネット上で定番の改変ネタになった。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201203.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-archive-2012-05-01-07",
+      "date": "2012-05-01",
+      "title": "ニコニコ超会議の脳波ネコミミ「necomimi」が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "脳波で動くネコミミがイベントで人気となり、ネットオークションで高値になったと報じられた。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/530615.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-culture-archive-2012-05-09-08",
+      "date": "2012-05-09",
+      "title": "「にゃんこ型イヤホンジャックカバー」の試作品が登場",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "Twitterで話題になったイラストから短期間で試作品が生まれたと報じられた。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/531351.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-archive-2012-08-28-09",
+      "date": "2012-08-28",
+      "title": "「にゃんこ型イヤホンジャックカバー」の偽造品が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ネット発の人気アクセサリーに粗雑な偽造品が登場し、話題になった。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/555721.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-culture-archive-2012-09-12-10",
+      "date": "2012-09-12",
+      "title": "「全自動スカートめくり機」の動画が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "奇抜な工作を紹介する動画がネットで注目を集めた。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201209.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-culture-archive-2012-09-13-11",
+      "date": "2012-09-13",
+      "title": "キリ番・右クリック禁止を再現する個人サイトが話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "1990年代の個人ホームページの演出を再現したサイトが話題に。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201209.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-archive-2012-09-14-12",
+      "date": "2012-09-14",
+      "title": "縦に伸び続けるiPhoneのコラ画像が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "iPhone 5の縦長化を誇張した改変画像がネットで流行した。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201209.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-archive-2012-09-18-13",
+      "date": "2012-09-18",
+      "title": "iPhone 5と無関係な物を比べる比較表が大量発生",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "iPhone 5の仕様比較表を模倣して、無関係な物と比較する画像が拡散した。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201209.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-culture-archive-2012-11-08-14",
+      "date": "2012-11-08",
+      "title": "ハローマック非公式botの哀愁ある投稿が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "懐かしの玩具店「ハローマック」を模した非公式botが話題になった。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201211.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-culture-archive-2012-11-09-15",
+      "date": "2012-11-09",
+      "title": "Angry Birdsとスター・ウォーズのコラボゲームが話題に",
+      "category": "ゲーム・ネット文化",
+      "region": "日本",
+      "summary": "スマートフォンゲームの人気シリーズとスター・ウォーズのコラボ作品が登場したと報じられた。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201211.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-culture-archive-2012-12-20-16",
+      "date": "2012-12-20",
+      "title": "Google日本法人がFA宣言したつば九郎にオファー",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "プロ野球マスコットのつば九郎とGoogle日本法人の契約交渉がネットで話題になった。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/579478.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-archive-2011-02-01-17",
+      "date": "2011-02-01",
+      "title": "中国の実物大ニセガンダムを描いたパロディイラストが話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "中国の実物大ロボットをガンダム風に描く二次創作がネットで注目された。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/424038.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-archive-2011-04-15-18",
+      "date": "2011-04-15",
+      "title": "「そんな装備で大丈夫か？」のエルシャダイ体験版が配信開始",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "発売前からネットミームになった『エルシャダイ』の体験版配信が始まった。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/439749.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-culture-archive-2011-07-15-19",
+      "date": "2011-07-15",
+      "title": "ネットのある時代とない時代を比較したイラストが2ちゃんねるで話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ネット以前と現在の暮らしを対比するイラストが2ちゃんねるで議論を呼んだ。（日付は当時の報道日。初出とは限らない）",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/460691.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 244
+    "currentDistinctMonthDays": 251
   }
 }

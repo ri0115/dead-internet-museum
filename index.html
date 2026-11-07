@@ -182,11 +182,22 @@ body{background-color:#d2d8e7;background-image:radial-gradient(#a4b2ce 1px,trans
 .detail>.time-portal{margin:12px 0 17px;width:100%;box-sizing:border-box}
 .detail>.time-portal+.lifecard{margin-top:14px}
 @media(max-width:640px){.detail>.time-portal{margin-top:10px}}
+
+/* Anniversary notices: retro inset panel; omitted entirely when no verified matches. */
+.anniversary-board{margin:13px 0 16px;border:3px ridge #b9b6a7;background:#f4f0d9;padding:10px 13px;box-shadow:inset 1px 1px #fff;font-size:12px}
+.anniversary-board[hidden]{display:none!important}
+.anniversary-day+.anniversary-day{border-top:1px dashed #a6a294;margin-top:9px;padding-top:9px}
+.anniversary-day h2{margin:0 0 4px;font:bold 13px 'MS Gothic',monospace;color:#1b2c70}
+.anniversary-day .anniversary-date{font:11px 'Courier New',monospace;color:#656565;margin-left:7px}
+.anniversary-day button{display:inline-block;margin:4px 7px 2px 0;padding:5px 10px;background:#fffbea;border:2px outset #ded6b6;color:#1b307e;text-decoration:underline;font-weight:bold;cursor:pointer}
+.anniversary-day button:hover{background:#fff0b0}
+.anniversary-day small{color:#555}
 </style></head><body data-api-base="https://dead-internet-museum-api.inaryu070.workers.dev"><div class="wrap" id="top"><div class="browserbar"><span class="drive">▣</span><strong>Dead Internet Museum - Archive Explorer [Offline HTML]</strong><span class="windowctrl" aria-hidden="true"><span>_</span><span>□</span><span>×</span></span></div>
 <div class="retro-ticker" aria-label="アーカイブのお知らせ"><span class="retro-ticker-label">★ NEW ★</span><div class="retro-ticker-track"><span class="retro-ticker-text">◆ WELCOME TO THE DEAD INTERNET MUSEUM ◆ 404 BUT FOUND. ◆ 消えたサイトの記憶を探す、インターネット・タイムマシン ◆ INTERNET TIME MACHINE ◆</span></div><span class="retro-ticker-star" aria-hidden="true">★</span></div>
 <div class="browsermenu"><span>ファイル(F)</span><span>編集(E)</span><span>表示(V)</span><span>お気に入り(A)</span><span>ヘルプ(H)</span></div>
 <header class="nav"><div class="brand">DEAD INTERNET <em>MUSEUM</em><span class="ver">/ 3.0 TIME MACHINE</span></div><div class="upper desktop">AN ARCHIVE OF DIGITAL EPHEMERA · EST. 2026</div></header>
 <section class="hero"><div><h1 class="hero-404">404 <span>BUT FOUND.</span></h1><p>かつて夢中になったサイトも、毎日開いたサービスも。誕生と終了、その時代の記憶をたどる、インターネットの博物館。</p></div></section>
+<section id="anniversaryBoard" class="anniversary-board" aria-label="今日は何の日・昨日" hidden></section>
 <div class="retro-signboard"><div><span class="sprites" aria-hidden="true"><span class="pixel-ornament"></span><span class="pixel-ornament"></span></span>　<strong>WELCOME TO DEAD INTERNET MUSEUM!</strong>　<span class="siteblink">★ NEW RECORDS ★</span></div><div><span class="sprites">Since 2026 / HTML 4EVER</span>　<button type="button" class="btn effects-btn" id="effectsToggle" aria-pressed="true">点滅：ON</button></div></div>
 <div class="oldweb-guestbook" aria-label="昔のホームページ風カウンター"><span class="visitor-label">★ あなたは</span><span class="visitor-digits" id="localVisitCount" aria-live="off">0000001</span><span class="visitor-label">番目の訪問です ★</span><span class="kiriban" id="kiribanNotice">キリ番：100 / 500 / 1000 / 以降1000ごと</span><a class="mutual" href="#archiveList" id="mutualLinkBanner">★ 相互リンク募集中 ★</a></div>
 <div class="stats"><div class="stat"><small>INDEXED / 収録候補</small><strong id="total">—</strong></div><div class="stat"><small>OFFICIAL / 運営元資料</small><strong id="official">—</strong></div><div class="stat"><small>FOUND / 絞り込み結果</small><strong id="found">—</strong></div><div class="stat"><small>BOOKMARK / 保存済み</small><strong id="bookCount">—</strong></div></div>
@@ -210,6 +221,30 @@ body{background-color:#d2d8e7;background-image:radial-gradient(#a4b2ce 1px,trans
 <script>
 'use strict';
 const D=JSON.parse(document.getElementById('catalog').textContent), $=id=>document.getElementById(id);
+// Today's and yesterday's confirmed service closures, using Japan calendar dates.
+// No placeholder is shown if neither day has a reliable, day-precision record.
+function renderAnniversaries(){
+ const board=document.getElementById('anniversaryBoard');
+ const now=new Date();
+ const jstParts=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(now);
+ const part=k=>Number(jstParts.find(p=>p.type===k).value);
+ const todayUTC=Date.UTC(part('year'),part('month')-1,part('day'));
+ const labels=[['今日は何の日？',new Date(todayUTC)],['昨日',new Date(todayUTC-86400000)]];
+ const days=labels.map(([title,day])=>{
+  const mm=String(day.getUTCMonth()+1).padStart(2,'0'),dd=String(day.getUTCDate()).padStart(2,'0');
+  const matches=D.filter(r=>typeof r.end==='string'&&/^\\d{4}-\\d{2}-\\d{2}$/.test(r.end)&&r.end.slice(5)===mm+'-'+dd&&r.datePrecision==='day'&&r.primary===true&&!(String(r.quality||'')+' '+String(r.sourceLabel||'')).toLowerCase().includes('secondary')&&/^(entire_service|full_service|service_end_distinct_successor)$/.test(r.scope||''));
+  return {title,mm,dd,matches};
+ }).filter(x=>x.matches.length);
+ if(!days.length){board.hidden=true;board.replaceChildren();return;}
+ board.hidden=false;board.replaceChildren();
+ for(const day of days){
+  const section=document.createElement('div');section.className='anniversary-day';
+  const heading=document.createElement('h2');heading.textContent='★ '+day.title+'  '+Number(day.mm)+'月'+Number(day.dd)+'日';section.appendChild(heading);
+  for(const r of day.matches){const btn=document.createElement('button');btn.type='button';btn.textContent='✝ '+r.name+'（'+r.end.slice(0,4)+'年終了）';btn.addEventListener('click',()=>openDetail(r.id));section.appendChild(btn);}
+  board.appendChild(section);
+ }
+}
+renderAnniversaries();
 const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 let bookmarks=new Set(), active=null, visible=48, onlyBookmarks=false;
 try{bookmarks=new Set(JSON.parse(localStorage.getItem('dim_bookmarks')||'[]'))}catch(_){}

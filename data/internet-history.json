@@ -2793,11 +2793,51 @@
       "importance": 5,
       "originalDateType": "commercial_release",
       "verificationStatus": "historical_research_secondary"
+    },
+    {
+      "id": "melt-2007-12-07",
+      "date": "2007-12-07",
+      "title": "初音ミク楽曲「メルト」がニコニコ動画に投稿",
+      "category": "ボカロ・ネットミーム",
+      "region": "日本",
+      "summary": "ryoによる初音ミク楽曲『メルト』が投稿。ボカロ音楽の大衆化を象徴する作品。投稿日はニコニコ公式の周年記事で確認。",
+      "source": "https://origin.originalnews.nico/476953",
+      "sourceType": "platform_operator_anniversary",
+      "importance": 5,
+      "originalDateType": "original_upload",
+      "originalUrl": "https://www.nicovideo.jp/watch/sm1715919",
+      "verificationStatus": "platform_verified"
+    },
+    {
+      "id": "doriko-uta-ni-katachi-2008-01-20",
+      "date": "2008-01-20",
+      "title": "「歌に形はないけれど」がニコニコ動画に投稿",
+      "category": "ボカロ・ネット文化",
+      "region": "日本",
+      "summary": "dorikoによる初音ミク楽曲が投稿された日。ニコニコ公式の15周年回顧記事で日付を確認。",
+      "source": "https://originalnews.nico/406655",
+      "sourceType": "platform_operator_anniversary",
+      "importance": 4,
+      "originalDateType": "original_upload",
+      "verificationStatus": "platform_verified"
+    },
+    {
+      "id": "miku-leek-2007-09-04",
+      "date": "2007-09-04",
+      "title": "「Ievan Polkka」初音ミク版が投稿、ネギミク文化の起点に",
+      "category": "ボカロ・ネットミーム",
+      "region": "日本",
+      "summary": "Otomaniaによる『VOCALOID2 初音ミクに「Ievan Polkka」を歌わせてみた』が投稿。初音ミクとネギの組み合わせを広めた代表的動画。",
+      "source": "https://note.com/bxjp/n/n4c8d211eb31b",
+      "sourceType": "independent_music_history",
+      "importance": 5,
+      "originalDateType": "original_upload",
+      "verificationStatus": "secondary_source_only"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Exact date and citation; distinguish original release, contemporary coverage, thread creation and commercial release; mark source quality. HTML publication deferred.",
-    "currentDistinctMonthDays": 176
+    "policy": "Exact-day sourced events only; distinguish original post and spread. Secondary-only evidence flagged; no HTML update.",
+    "currentDistinctMonthDays": 178
   }
 }

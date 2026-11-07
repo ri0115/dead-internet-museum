@@ -5774,11 +5774,143 @@
       "source": "https://www.nikkansports.com/general/nikkan/news/202411050000320.html",
       "sourceType": "historical_record",
       "importance": 5
+    },
+    {
+      "id": "internet-archive-73-01",
+      "date": "2014-01-21",
+      "title": "有名コピペ「明日がセンター試験本番ですよ！」の投稿者が2ちゃんねるに再登場",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "約10年前のセンター試験コピペの投稿者とされる人物が2ちゃんねるに登場したと報じられた。 記録日は当時の記事掲載日であり、元ネタの初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201401.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-archive-73-02",
+      "date": "2014-01-29",
+      "title": "「きれいなジャイアン」のフィギュア予約が人気に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ネットで知名度の高い『きれいなジャイアン』が立体商品化され、注目を集めた。 記録日は当時の記事掲載日であり、元ネタの初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201401.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-73-03",
+      "date": "2014-12-05",
+      "title": "「進捗どうですかっ!?」のLINEスタンプが登場",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "創作・開発界隈で定型句となった進捗確認ネタがLINEスタンプになった。 記録日は当時の記事掲載日であり、元ネタの初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201412.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-73-04",
+      "date": "2014-12-25",
+      "title": "はてな匿名ダイアリー発の「かまぼこ」関連エントリーが増殖",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "はてな匿名ダイアリーから派生した関連投稿が増殖し、まとめページも作られた。 記録日は当時の記事掲載日であり、元ネタの初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201412.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-archive-73-05",
+      "date": "2014-12-26",
+      "title": "「全自動ひきこもり機」がプライズ化",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ネットで知られた奇妙な装置『全自動ひきこもり機』が景品商品になったと報じられた。 記録日は当時の記事掲載日であり、元ネタの初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201412.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-73-06",
+      "date": "2015-06-05",
+      "title": "画像拡大AI「waifu2x」の派生ソフトが10種類を超える",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ネット発の画像高解像度化技術『waifu2x』の派生ソフトが多数登場した。 記録日は当時の記事掲載日であり、元ネタの初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201506.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-73-07",
+      "date": "2015-09-02",
+      "title": "Windows起動音を4000％に引き伸ばした音源が話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "Windowsの起動音を極端に引き伸ばした音楽がネットで注目された。 記録日は当時の記事掲載日であり、元ネタの初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201509.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-archive-73-08",
+      "date": "2016-01-28",
+      "title": "Google検索結果が「1件」になる言葉を探す遊びが流行",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "検索結果がちょうど1件になる語句を探すTwitter上の遊びが報じられた。 記録日は当時の記事掲載日であり、元ネタの初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201601.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-73-09",
+      "date": "2016-01-29",
+      "title": "ファミマ入店音を題材にした21の変奏曲がニコニコ動画で話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "コンビニ入店音を21種類の音楽的変奏にした動画が注目された。 記録日は当時の記事掲載日であり、元ネタの初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201601.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-archive-73-10",
+      "date": "2016-06-22",
+      "title": "「IPv4テトリス」が難しすぎるゲームとして話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "IPアドレスを揃えると得点になる変則テトリスがネットで注目された。 記録日は当時の記事掲載日であり、元ネタの初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201606.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
+    },
+    {
+      "id": "internet-archive-73-11",
+      "date": "2016-10-19",
+      "title": "阿部寛のホームページがデザインを変えずに移転",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "軽量でレトロなデザインがネットで愛される『阿部寛のホームページ』が移転した。 記録日は当時の記事掲載日であり、元ネタの初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201610.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-archive-73-12",
+      "date": "2016-10-18",
+      "title": "「High Five Selfie」がTwitterで海外流行",
+      "category": "ネットのおもちゃ",
+      "region": "海外",
+      "summary": "両手を合わせた状態で自撮りする写真の投稿がTwitterで流行した。 記録日は当時の記事掲載日であり、元ネタの初出日とは限らない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/index201610.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 274
+    "currentDistinctMonthDays": 276
   }
 }

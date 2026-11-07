@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "description": "Major events in internet history; separate from defunct services catalog. Dates are source-supported event dates, not article publication dates.",
+  "updated": "2026-11-07",
+  "events": [
+    {
+      "id": "wikipedia-launch-2001",
+      "date": "2001-01-15",
+      "title": "Wikipediaが公開",
+      "category": "サービス誕生",
+      "region": "世界",
+      "summary": "誰でも編集できるオンライン百科事典Wikipediaが公開された。",
+      "source": "https://en.wikipedia.org/wiki/History_of_Wikipedia",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "youtube-first-upload-2005",
+      "date": "2005-04-23",
+      "title": "YouTubeに最初の動画が投稿",
+      "category": "ネット文化",
+      "region": "世界",
+      "summary": "共同創業者が「Me at the zoo」を投稿。個人動画共有の象徴的な出発点。",
+      "source": "https://blog.youtube/news-and-events/youtube-at-15-my-personal-journey/",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "wannacry-global-2017",
+      "date": "2017-05-12",
+      "title": "WannaCryが世界規模で拡大",
+      "category": "セキュリティ",
+      "region": "世界",
+      "summary": "自己増殖型ランサムウェアによる大規模感染が世界各地で発生。",
+      "source": "https://www.justice.gov/archives/opa/press-release/file/1092091/dl",
+      "sourceType": "government",
+      "importance": 5
+    },
+    {
+      "id": "youtube-domain-2005",
+      "date": "2005-02-14",
+      "title": "YouTubeのWebサイトが登録される",
+      "category": "サービス誕生",
+      "region": "世界",
+      "summary": "YouTubeのWebサイトが登録された。動画共有サービスの歴史の始まり。",
+      "source": "https://blog.youtube/news-and-events/youtube-at-15-my-personal-journey/",
+      "sourceType": "operator",
+      "importance": 4
+    }
+  ]
+}

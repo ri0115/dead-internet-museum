@@ -961,11 +961,341 @@
       "source": "https://www.pixiv.co.jp/news/information/article/7140/",
       "sourceType": "operator_or_contemporary_report",
       "importance": 3
+    },
+    {
+      "id": "jpnic-verified-199902",
+      "date": "1999-02-22",
+      "title": "iモードがサービス開始",
+      "category": "モバイル・ネット文化",
+      "region": "日本",
+      "summary": "NTTドコモの携帯電話向けインターネットサービスが始まり、モバイルWeb文化が広がった。",
+      "source": "https://www.nic.ad.jp/timeline/#199902",
+      "sourceType": "historical_timeline",
+      "importance": 5
+    },
+    {
+      "id": "jpnic-verified-200003",
+      "date": "2000-01-24",
+      "title": "中央省庁のWebサイト改ざんが相次ぐ",
+      "category": "ネット事件",
+      "region": "日本",
+      "summary": "中央省庁のWebサイト改ざんが相次ぎ、行政機関のセキュリティ対策が注目された。",
+      "source": "https://www.nic.ad.jp/timeline/#200003",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-verified-200005",
+      "date": "2000-02-13",
+      "title": "不正アクセス禁止法施行",
+      "category": "ネット法制度",
+      "region": "日本",
+      "summary": "日本で不正アクセス行為の禁止等に関する法律が施行された。",
+      "source": "https://www.nic.ad.jp/timeline/#200005",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-verified-200006",
+      "date": "2000-02-29",
+      "title": "内閣官房に情報セキュリティ対策推進室設置",
+      "category": "セキュリティ",
+      "region": "日本",
+      "summary": "閏日に設置された政府の情報セキュリティ対策組織。",
+      "source": "https://www.nic.ad.jp/timeline/#200006",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-verified-200017",
+      "date": "2000-09-21",
+      "title": "政府がe-Japan構想を発表",
+      "category": "インターネット政策",
+      "region": "日本",
+      "summary": "政府がIT国家戦略の方向性を示すe-Japan構想を発表した。",
+      "source": "https://www.nic.ad.jp/timeline/#200017",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-verified-200021",
+      "date": "2000-10-18",
+      "title": "多言語ドメイン名評価キットmDNkit公開",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "日本語など多言語ドメイン名の普及に向けた技術ツールが公開された。",
+      "source": "https://www.nic.ad.jp/timeline/#200021",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-verified-200019",
+      "date": "2000-10-19",
+      "title": "JPドメイン名紛争処理方針施行",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "JPドメイン名をめぐる紛争処理の制度が施行された。",
+      "source": "https://www.nic.ad.jp/timeline/#200019",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-verified-200022",
+      "date": "2000-11-06",
+      "title": "日本語ドメイン名の運用試験開始",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "日本語ドメイン名の運用試験フェーズ1が始まった。",
+      "source": "https://www.nic.ad.jp/timeline/#200022",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-verified-200023",
+      "date": "2000-11-09",
+      "title": "国際化ドメイン名の試験登録が開始",
+      "category": "ドメイン",
+      "region": "世界",
+      "summary": "com、net、orgで国際化ドメイン名の試験登録サービスが始まった。",
+      "source": "https://www.nic.ad.jp/timeline/#200023",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-verified-200024",
+      "date": "2000-11-16",
+      "title": "新たな7種類のgTLD導入が決定",
+      "category": "ドメイン",
+      "region": "世界",
+      "summary": "ICANNが新しい7種類の一般トップレベルドメイン導入を決定した。",
+      "source": "https://www.nic.ad.jp/timeline/#200024",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-verified-200027",
+      "date": "2000-12-26",
+      "title": "フレッツADSLの本格提供開始",
+      "category": "インターネット普及",
+      "region": "日本",
+      "summary": "NTTのADSLサービスが本格的に提供され、家庭のブロードバンド普及が進んだ。",
+      "source": "https://www.nic.ad.jp/timeline/#200027",
+      "sourceType": "historical_timeline",
+      "importance": 5
+    },
+    {
+      "id": "jpnic-verified-200029",
+      "date": "2000-12-31",
+      "title": "インターネット博覧会（インパク）開幕",
+      "category": "ネット文化",
+      "region": "日本",
+      "summary": "政府主導のインターネット博覧会が始まった。",
+      "source": "https://www.nic.ad.jp/timeline/#200029",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-verified-200103",
+      "date": "2001-01-06",
+      "title": "IT基本法施行",
+      "category": "インターネット政策",
+      "region": "日本",
+      "summary": "高度情報通信ネットワーク社会形成基本法が施行された。",
+      "source": "https://www.nic.ad.jp/timeline/#200103",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-verified-200104",
+      "date": "2001-02-22",
+      "title": "汎用JPドメイン名の優先登録開始",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "JPRSが汎用JPドメイン名の優先登録受付を開始した。",
+      "source": "https://www.nic.ad.jp/timeline/#200104",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-verified-200106",
+      "date": "2001-03-01",
+      "title": "USENが家庭向けFTTHサービス開始",
+      "category": "インターネット普及",
+      "region": "日本",
+      "summary": "USENが家庭向け光ファイバーインターネット接続サービスを開始した。",
+      "source": "https://www.nic.ad.jp/timeline/#200106",
+      "sourceType": "historical_timeline",
+      "importance": 5
+    },
+    {
+      "id": "jpnic-verified-200112",
+      "date": "2001-05-07",
+      "title": "日本語ドメイン名運用試験フェーズ2開始",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "日本語ドメイン名の運用試験が次段階に進んだ。",
+      "source": "https://www.nic.ad.jp/timeline/#200112",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-verified-200117",
+      "date": "2001-06-14",
+      "title": "小泉内閣メールマガジン創刊",
+      "category": "メール・ネット文化",
+      "region": "日本",
+      "summary": "首相官邸によるメールマガジンが創刊され、政治家のネット発信として注目された。",
+      "source": "https://www.nic.ad.jp/timeline/#200117",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-verified-200121",
+      "date": "2001-08-29",
+      "title": "DDIポケットがPHS定額通信サービス開始",
+      "category": "モバイル・ネット文化",
+      "region": "日本",
+      "summary": "PHSを利用した定額制データ通信サービスが開始された。",
+      "source": "https://www.nic.ad.jp/timeline/#200121",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-verified-200132",
+      "date": "2001-10-01",
+      "title": "NTTドコモがFOMAを開始",
+      "category": "モバイル・ネット文化",
+      "region": "日本",
+      "summary": "NTTドコモが第三世代携帯電話サービスFOMAを開始した。",
+      "source": "https://www.nic.ad.jp/timeline/#200132",
+      "sourceType": "historical_timeline",
+      "importance": 5
+    },
+    {
+      "id": "jpnic-verified-200128",
+      "date": "2001-11-08",
+      "title": "サイバー犯罪条約が採択",
+      "category": "ネット法制度",
+      "region": "世界",
+      "summary": "サイバー犯罪への国際協力の枠組みとなる条約が採択された。",
+      "source": "https://www.nic.ad.jp/timeline/#200128",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-verified-200131",
+      "date": "2002-01-28",
+      "title": "eoメガファイバーがサービス開始",
+      "category": "インターネット普及",
+      "region": "日本",
+      "summary": "ケイ・オプティコムが光ファイバー接続サービスを開始した。",
+      "source": "https://www.nic.ad.jp/timeline/#200131",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-verified-200203",
+      "date": "2002-02-27",
+      "title": "JPRSとICANNが.jp管理契約締結",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "JPRSがICANNと.jp ccTLDスポンサー契約を締結した。",
+      "source": "https://www.nic.ad.jp/timeline/#200203",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-verified-200215",
+      "date": "2002-05-27",
+      "title": "プロバイダ責任制限法施行",
+      "category": "ネット法制度",
+      "region": "日本",
+      "summary": "インターネット上の権利侵害に関するプロバイダの責任や発信者情報開示の制度が施行された。",
+      "source": "https://www.nic.ad.jp/timeline/#200215",
+      "sourceType": "historical_timeline",
+      "importance": 5
+    },
+    {
+      "id": "jpnic-verified-200233",
+      "date": "2002-09-27",
+      "title": "IP電話向け050番号の割り当て開始",
+      "category": "ネット電話",
+      "region": "日本",
+      "summary": "IP電話サービス向けの050電話番号の割り当てが始まった。",
+      "source": "https://www.nic.ad.jp/timeline/#200233",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-verified-200223",
+      "date": "2002-10-21",
+      "title": "DNSルートサーバへの一斉攻撃",
+      "category": "ネット事件",
+      "region": "世界",
+      "summary": "インターネットの基盤となるルートDNSサーバが大規模攻撃を受けた。",
+      "source": "https://www.nic.ad.jp/timeline/#200223",
+      "sourceType": "historical_timeline",
+      "importance": 5
+    },
+    {
+      "id": "jpnic-verified-200304",
+      "date": "2003-02-14",
+      "title": "国際化ドメインのACE接頭辞がxn--に決定",
+      "category": "ドメイン",
+      "region": "世界",
+      "summary": "国際化ドメイン名のASCII表現で用いる接頭辞が決定した。",
+      "source": "https://www.nic.ad.jp/timeline/#200304",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-verified-200306",
+      "date": "2003-03-07",
+      "title": "国際化ドメイン名関連RFCが発行",
+      "category": "ドメイン",
+      "region": "世界",
+      "summary": "IDNA、Nameprep、PunycodeのRFCが発行された。",
+      "source": "https://www.nic.ad.jp/timeline/#200306",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-verified-200315",
+      "date": "2003-07-10",
+      "title": "日本語JPドメイン名のRFC準拠登録管理開始",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "JPRSがRFCに準拠した日本語JPドメイン名登録管理サービスを開始した。",
+      "source": "https://www.nic.ad.jp/timeline/#200315",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-verified-200319",
+      "date": "2003-09-17",
+      "title": "ENUMトライアルジャパン設立",
+      "category": "ネット電話",
+      "region": "日本",
+      "summary": "電話番号とインターネット識別子を結びつけるENUMの国内実証組織が設立された。",
+      "source": "https://www.nic.ad.jp/timeline/#200319",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-verified-200321",
+      "date": "2003-10-24",
+      "title": "NROが設立",
+      "category": "ネットワーク基盤",
+      "region": "世界",
+      "summary": "地域インターネットレジストリ間の調整組織NROが設立された。",
+      "source": "https://www.nic.ad.jp/timeline/#200321",
+      "sourceType": "historical_timeline",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Source-supported exact dates; separate service start and official opening; milestone events may be excluded by editorial review.",
-    "currentDistinctMonthDays": 75
+    "policy": "Exact-day events with JPNIC source anchors; 29 Feb explicitly included. Do not fill gaps with undated or invented items. Site HTML deferred.",
+    "currentDistinctMonthDays": 97
   }
 }

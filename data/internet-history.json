@@ -7743,11 +7743,66 @@
       "source": "https://knowyourmeme.com/memes/we-are-number-one",
       "sourceType": "meme_history_secondary",
       "importance": 4
+    },
+    {
+      "id": "stephen-forgets-not-internet-webcomic-2001",
+      "date": "2001-01-31",
+      "title": "ウェブ漫画「Stephen Forgets That He Isn't On the Internet」が公開",
+      "category": "個人サイト・ウェブ漫画",
+      "region": "世界",
+      "summary": "ウェブ漫画『The Joy of Tech!』で、ネット上の煽りを現実世界に持ち込む人物を描いた回が公開。後年、台詞を書き換える画像ミームとして再利用された。公開日と後年のミーム化を区別。",
+      "source": "https://knowyourmeme.com/memes/stephen-forgets-that-he-isnt-on-the-internet",
+      "sourceType": "meme_history_secondary",
+      "importance": 4
+    },
+    {
+      "id": "angry-dr-mario-ai-video-2024",
+      "date": "2024-05-13",
+      "title": "怒ったドクターマリオのAI動画がInstagramに投稿",
+      "category": "ネットミーム・画像改変",
+      "region": "世界",
+      "summary": "ドクターマリオの架空の誕生秘話を描いたAI生成動画が投稿され、怒った表情の画像を描き直すミームへ発展。初期投稿の日付を採用。",
+      "source": "https://knowyourmeme.com/memes/angry-dr-mario-dr-marios-origin-story-ai-video",
+      "sourceType": "meme_history_secondary",
+      "importance": 3
+    },
+    {
+      "id": "this-pic-goes-so-hard-original-2021",
+      "date": "2021-08-16",
+      "title": "「This Pic Goes So Hard. Feel Free To Screenshot」が投稿",
+      "category": "ネットミーム・画像改変",
+      "region": "世界",
+      "summary": "iFunnyで葉巻をくわえたサルの画像とともに投稿。スクリーンショットをさらにスクリーンショットする連鎖が生まれ、ネット画像の定番キャプションになった。",
+      "source": "https://knowyourmeme.com/memes/this-pic-goes-so-hard-feel-free-to-screenshot",
+      "sourceType": "meme_history_secondary",
+      "importance": 4
+    },
+    {
+      "id": "body-parts-cant-have-sounds-origin-2024",
+      "date": "2024-11-12",
+      "title": "「body parts can't have sounds」ミームの元投稿",
+      "category": "ネットミーム・コピペ",
+      "region": "世界",
+      "summary": "Xで音楽動画に皮肉を添える『body parts can't have sounds / ass:』形式の投稿が登場。文面を入れ替えるキャプションミームとして拡散。",
+      "source": "https://knowyourmeme.com/memes/body-parts-cant-have-sounds",
+      "sourceType": "meme_history_secondary",
+      "importance": 3
+    },
+    {
+      "id": "hell-be-fine-4chan-post-2015",
+      "date": "2015-12-28",
+      "title": "4chanに「I think hell be fine」の書き込み",
+      "category": "掲示板・ネットミーム",
+      "region": "世界",
+      "summary": "4chanの音楽板でロック歌手レミー・キルミスターの健康について『きっと大丈夫』と書き込まれた直後、本人の訃報が報じられた。誤字を含む一文が皮肉な掲示板ミームとして残った。",
+      "source": "https://knowyourmeme.com/memes/hell-be-fine",
+      "sourceType": "meme_history_secondary",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 333
+    "currentDistinctMonthDays": 338
   }
 }

@@ -7490,11 +7490,33 @@
       "source": "https://thehistoryoftheweb.com/timeline/?date_from=all",
       "sourceType": "web_history_timeline",
       "importance": 3
+    },
+    {
+      "id": "ibm-pc-announced-1981-08-12",
+      "date": "1981-08-12",
+      "title": "IBMが初代IBM PCを発表",
+      "category": "PC・ウェブ文化",
+      "region": "世界",
+      "summary": "IBMがPersonal Computer Model 5150をニューヨークで発表。後のインターネット利用を支えるパソコンの普及と互換機市場の拡大につながった。発売日ではなく発表日。",
+      "source": "https://www.ibm.com/history/personal-computer",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "mozilla-corporation-established-2005-08-03",
+      "date": "2005-08-03",
+      "title": "Mozilla Corporationが設立される",
+      "category": "ブラウザ・オープンソース",
+      "region": "世界",
+      "summary": "Mozilla Foundationの完全子会社としてMozilla Corporationが設立。Firefoxなどのオープンなウェブ技術を継続的に開発する体制が整えられた。",
+      "source": "https://wiki.mozilla.org/Timeline",
+      "sourceType": "operator",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 312
+    "currentDistinctMonthDays": 314
   }
 }

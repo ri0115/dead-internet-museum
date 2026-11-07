@@ -840,11 +840,132 @@
       "source": "https://www.nic.ad.jp/timeline/",
       "sourceType": "historical_timeline",
       "importance": 3
+    },
+    {
+      "id": "mixi-start-2004",
+      "date": "2004-02-22",
+      "title": "mixiがサービス開始",
+      "category": "SNS・ネット文化",
+      "region": "日本",
+      "summary": "招待制SNS「mixi」がスタート。正式オープンは3月3日。",
+      "source": "https://mixi.jp/chronology.pl?mode=main",
+      "sourceType": "operator_or_contemporary_report",
+      "importance": 5
+    },
+    {
+      "id": "mixi-official-2004",
+      "date": "2004-03-03",
+      "title": "mixiが正式オープン",
+      "category": "SNS・ネット文化",
+      "region": "日本",
+      "summary": "2月22日のサービス開始を経てmixiが正式オープンした。",
+      "source": "https://mixi.jp/chronology.pl?mode=main",
+      "sourceType": "operator_or_contemporary_report",
+      "importance": 5
+    },
+    {
+      "id": "pixiv-launch-2007",
+      "date": "2007-09-10",
+      "title": "pixivがサービス開始",
+      "category": "創作・ネット文化",
+      "region": "日本",
+      "summary": "イラスト投稿・交流サイトpixivが運営を開始。",
+      "source": "https://www.pixiv.co.jp/news/press-release/article/6050/",
+      "sourceType": "operator_or_contemporary_report",
+      "importance": 5
+    },
+    {
+      "id": "niconico-gamma-2007",
+      "date": "2007-03-06",
+      "title": "ニコニコ動画γ版が再開",
+      "category": "動画・ネット文化",
+      "region": "日本",
+      "summary": "DDoS攻撃などによるβ版停止後、10万人限定のγ版として再開。SMILEVIDEOも開始。",
+      "source": "https://www.itmedia.co.jp/news/article/0703/06/1070306067/",
+      "sourceType": "operator_or_contemporary_report",
+      "importance": 5
+    },
+    {
+      "id": "hatsune-miku-2007",
+      "date": "2007-08-31",
+      "title": "初音ミク発売",
+      "category": "創作・ネット文化",
+      "region": "日本",
+      "summary": "クリプトンが歌声合成ソフト「初音ミク」を発売。ニコニコ動画を中心に創作文化が広がった。",
+      "source": "https://www.vocaloid.com/anniversary/history/",
+      "sourceType": "operator_or_contemporary_report",
+      "importance": 5
+    },
+    {
+      "id": "pixiv-100m-2009",
+      "date": "2009-06-26",
+      "title": "pixiv登録者数100万人突破",
+      "category": "創作・ネット文化",
+      "region": "日本",
+      "summary": "pixivがサービス開始から655日で登録者100万人に到達。",
+      "source": "https://www.pixiv.co.jp/news/press-release/article/813/",
+      "sourceType": "operator_or_contemporary_report",
+      "importance": 3
+    },
+    {
+      "id": "pixiv-500m-2012",
+      "date": "2012-09-06",
+      "title": "pixiv登録者数500万人突破",
+      "category": "創作・ネット文化",
+      "region": "日本",
+      "summary": "pixivの登録ユーザー数が500万人に達した。",
+      "source": "https://www.pixiv.co.jp/news/press-release/article/1744/",
+      "sourceType": "operator_or_contemporary_report",
+      "importance": 3
+    },
+    {
+      "id": "pixiv-1000m-2014",
+      "date": "2014-02-22",
+      "title": "pixiv登録者数1000万人突破",
+      "category": "創作・ネット文化",
+      "region": "日本",
+      "summary": "pixivの登録ユーザー数が1000万人に到達。",
+      "source": "https://www.pixiv.co.jp/news/press-release/article/6050/",
+      "sourceType": "operator_or_contemporary_report",
+      "importance": 3
+    },
+    {
+      "id": "pixiv-2000m-2016",
+      "date": "2016-09-02",
+      "title": "pixiv登録者数2000万人突破",
+      "category": "創作・ネット文化",
+      "region": "日本",
+      "summary": "pixivの登録ユーザー数が2000万人に到達。",
+      "source": "https://www.pixiv.co.jp/news/press-release/article/6050/",
+      "sourceType": "operator_or_contemporary_report",
+      "importance": 3
+    },
+    {
+      "id": "pixiv-3000m-2018",
+      "date": "2018-02-11",
+      "title": "pixiv登録者数3000万人突破",
+      "category": "創作・ネット文化",
+      "region": "日本",
+      "summary": "pixivの登録ユーザー数が3000万人に到達。",
+      "source": "https://www.pixiv.co.jp/news/press-release/article/6050/",
+      "sourceType": "operator_or_contemporary_report",
+      "importance": 3
+    },
+    {
+      "id": "pixiv-4000m-2019",
+      "date": "2019-04-22",
+      "title": "pixiv登録者数4000万人突破",
+      "category": "創作・ネット文化",
+      "region": "日本",
+      "summary": "pixivの登録ユーザー数が4000万人に到達。",
+      "source": "https://www.pixiv.co.jp/news/information/article/7140/",
+      "sourceType": "operator_or_contemporary_report",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Exact dates with source; editorial significance reviewed separately. Site HTML not updated.",
-    "currentDistinctMonthDays": 67
+    "policy": "Source-supported exact dates; separate service start and official opening; milestone events may be excluded by editorial review.",
+    "currentDistinctMonthDays": 75
   }
 }

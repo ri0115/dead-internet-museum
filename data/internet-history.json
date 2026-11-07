@@ -6676,6 +6676,94 @@
       "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2071923.html",
       "sourceType": "contemporary_reporting",
       "importance": 4
+    },
+    {
+      "id": "internet-history-79-01",
+      "date": "2024-12-20",
+      "title": "Vectorの無料ホームページサービスが終了",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "フリーソフト作者向けに提供されていたVectorの個人ホームページサービスが終了。終了日を当時の報道で確認。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/1609184.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-79-02",
+      "date": "2025-09-17",
+      "title": "「教えて！goo」が終了予定日を迎える",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "2000年開始のQ&Aサービス「教えて！goo」が、公式に告知された終了予定日を迎えた。実際の停止完了は別途確認が必要。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2006719.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-79-03",
+      "date": "2025-11-18",
+      "title": "「goo blog」が終了予定日を迎える",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "2004年開始のブログサービス「goo blog」が公式に告知された終了予定日を迎えた。実際の停止完了は別途確認が必要。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2006719.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-79-04",
+      "date": "2025-09-22",
+      "title": "ニフティが黎明期の個人ホームページ3選を発表",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "ニフティが『押し鉄のススメ』『かけやま写真館』『世紀末亭』を紹介。ホームページ文化の継承を掲げた。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2049157.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-79-05",
+      "date": "2025-11-28",
+      "title": "「ぷらら光」のサービス統合が報じられる",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "ドコモ光・OCN インターネットへの統合手続きを2026年5月から始める方針が報道された。サービス終了日ではない。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2066595.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-history-79-06",
+      "date": "2026-03-31",
+      "title": "iモードとともに「jigブラウザ」がサービス終了",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "2004年開始の携帯電話向けブラウザー「jigブラウザ」が、iモード終了に合わせて提供を終えた。翌4月1日の報道で確認。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2098081.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-79-07",
+      "date": "2004-10-01",
+      "title": "携帯向け「jigブラウザ」がサービス開始",
+      "category": "サービス開始",
+      "region": "日本",
+      "summary": "フィーチャーフォンでPC向けウェブページを閲覧できるブラウザー「jigブラウザ」が提供開始。後年の終了記事に開始日が記載されている。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2098081.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-79-08",
+      "date": "2025-03-31",
+      "title": "ぷららの個人向けホームページサービスが終了",
+      "category": "サービスの終焉",
+      "region": "日本",
+      "summary": "プロバイダー「ぷらら」の個人向けホームページサービスが2025年3月末に終了したことが後年の報道で確認できる。",
+      "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2066595.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
     }
   ],
   "coverage": {

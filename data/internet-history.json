@@ -3193,11 +3193,64 @@
       "importance": 5,
       "originalDateType": "contemporary_reported_release",
       "verificationStatus": "official_or_contemporary_source_confirmed"
+    },
+    {
+      "id": "tiyu12-launch-2001",
+      "date": "2001-02-14",
+      "title": "バーチャルネットアイドル「ちゆ12歳」開設",
+      "category": "個人サイト・テキストサイト",
+      "region": "日本",
+      "summary": "バーチャルネットアイドルを名乗る個人テキストサイトが開設。後の『ちゆフォーマット』や量産型VNI文化に影響を与えた。",
+      "source": "https://nlab.itmedia.co.jp/cont/articles/3241566/",
+      "secondarySource": "https://websitemap.sakura.ne.jp/monograph/monograph06.html",
+      "sourceType": "retrospective_reporting_and_web_history",
+      "importance": 5,
+      "originalDateType": "site_opening",
+      "verificationStatus": "corroborated_secondary_sources"
+    },
+    {
+      "id": "samurai-media-feature-2001",
+      "date": "2001-07-30",
+      "title": "INTERNET Watchが「侍魂」をメガヒット個人サイトとして特集",
+      "category": "個人サイト・テキストサイト",
+      "region": "日本",
+      "summary": "INTERNET Watchが管理人・健氏へのインタビューを掲載。『先行者』のヒットやフォント演出など、当時のテキストサイト文化を当事者の証言で記録した記事の公開日。",
+      "source": "https://internet.watch.impress.co.jp/www/article/2001/0730/megahit.htm",
+      "sourceType": "contemporary_interview",
+      "importance": 4,
+      "originalDateType": "article_publication",
+      "verificationStatus": "contemporary_source_confirmed"
+    },
+    {
+      "id": "samurai-tekken-interview-2001",
+      "date": "2001-11-26",
+      "title": "「侍魂」管理人と『鉄拳4』開発者の座談会が報道される",
+      "category": "個人サイト・ゲーム文化",
+      "region": "日本",
+      "summary": "『侍魂』管理人・健氏と『鉄拳4』開発者の座談会が電撃オンラインで報道。ネットで話題となった『先行者』がゲーム内キャラクター『コンボット』に影響したと紹介された。座談会自体の実施日ではなく報道日。",
+      "source": "https://dengekionline.com/data/news/2001/11/26/6e11bec9db38bc59b5c0230649a3b53f.html",
+      "sourceType": "contemporary_report",
+      "importance": 4,
+      "originalDateType": "article_publication",
+      "verificationStatus": "contemporary_source_confirmed"
+    },
+    {
+      "id": "tiyu12-vtuber-2018",
+      "date": "2018-02-14",
+      "title": "「ちゆ12歳」がバーチャルYouTuberとしてデビュー",
+      "category": "個人サイト・VTuber文化",
+      "region": "日本",
+      "summary": "2001年開設のバーチャルネットアイドル『ちゆ12歳』が、17周年にYouTubeでの活動を開始。テキストサイト文化とVTuber文化をつなぐ出来事。",
+      "source": "https://nlab.itmedia.co.jp/cont/articles/3275909/amp/",
+      "sourceType": "contemporary_report",
+      "importance": 4,
+      "originalDateType": "activity_announcement",
+      "verificationStatus": "contemporary_source_confirmed"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Exact-day source required; identify secondary-source site dates and distinguish contemporaneous release report from company press release publication. No HTML changes.",
-    "currentDistinctMonthDays": 197
+    "policy": "Exact-day sourced events only; differentiate original site openings from interviews, reporting and later activity. HTML deferred.",
+    "currentDistinctMonthDays": 199
   }
 }

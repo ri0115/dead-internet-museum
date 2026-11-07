@@ -8689,6 +8689,39 @@
       "source": "https://www.uuum.co.jp/news/52889",
       "sourceType": "agency_primary",
       "importance": 5
+    },
+    {
+      "id": "seikintv-channel-created-2012-01-29",
+      "date": "2012-01-29",
+      "title": "SEIKINが「SeikinTV」チャンネルを開設",
+      "category": "YouTube・クリエイター史",
+      "region": "日本",
+      "summary": "現在のメインチャンネル『SeikinTV』の開設日。SEIKINにはそれ以前にもYouTubeでの音楽投稿活動があり、活動開始日とは区別する。複数のチャンネル情報サイトが2012年1月29日を記録しているが、一部サイトは時差のため1月30日と表示。",
+      "source": "https://yutura.net/channel/13",
+      "sourceType": "channel_metadata_secondary",
+      "importance": 5
+    },
+    {
+      "id": "seikintv-first-video-2012-03-02",
+      "date": "2012-03-02",
+      "title": "SEIKINが「朝はパン Morning is Bread」を投稿",
+      "category": "YouTube・クリエイター史",
+      "region": "日本",
+      "summary": "SeikinTV初期の代表的なアカペラ楽曲『朝はパン Morning is Bread』を投稿。メインチャンネルの開設日とは異なる。",
+      "source": "https://www.famousbirthdays.com/people/seikin.html",
+      "sourceType": "biographical_secondary",
+      "importance": 4
+    },
+    {
+      "id": "setokoji-one-million-2016-02-02",
+      "date": "2016-02-02",
+      "title": "瀬戸弘司のYouTube登録者が100万人を突破",
+      "category": "プラットフォーム内バズ・YouTube",
+      "region": "日本",
+      "summary": "UUUMによると2016年2月2日13時ごろに登録者100万人を達成。2010年4月にYouTube投稿を始めた映像編集系クリエイターの節目。",
+      "source": "https://uuum.jp/posts/3889",
+      "sourceType": "agency_primary",
+      "importance": 5
     }
   ],
   "coverage": {

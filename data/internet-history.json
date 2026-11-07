@@ -4091,11 +4091,88 @@
       "source": "https://about.fb.com/ja/news/2021/10/instagramvideoconsolidation/amp/",
       "sourceType": "operator",
       "importance": 3
+    },
+    {
+      "id": "piapro-launch-announced-2007",
+      "date": "2007-12-03",
+      "title": "クリプトンが投稿サイト「ピアプロ」公開を告知",
+      "category": "創作・ネット文化",
+      "region": "日本",
+      "summary": "クリプトンのニュースレターが「ピアプロ」公開と鏡音リン・レンの製品発表を案内。創作物の投稿と協業を支える場となった。",
+      "source": "https://ec.crypton.co.jp/newsletter/backnumber/102",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "kagamine-rin-len-release-2007",
+      "date": "2007-12-27",
+      "title": "鏡音リン・レン発売",
+      "category": "ボカロ・音楽",
+      "region": "日本",
+      "summary": "クリプトンがVOCALOID2「鏡音リン・レン」を発売。二人の歌声がボカロ創作文化を広げた。",
+      "source": "https://ec.crypton.co.jp/newsletter/backnumber/103",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "megurine-luka-release-2009",
+      "date": "2009-01-30",
+      "title": "巡音ルカ発売",
+      "category": "ボカロ・音楽",
+      "region": "日本",
+      "summary": "クリプトンが日英バイリンガル対応のVOCALOID2「巡音ルカ」を発売。",
+      "source": "https://ec.crypton.co.jp/newsletter/backnumber/119",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "pokemon-go-first-release-2016",
+      "date": "2016-07-06",
+      "title": "Pokémon GOが米国などで配信開始",
+      "category": "ゲーム・ネット文化",
+      "region": "世界",
+      "summary": "Pokémon GOが米国、オーストラリア、ニュージーランドで配信開始。位置情報とARを使うゲームが社会現象となった。",
+      "source": "https://internet.watch.impress.co.jp/docs/news/1011413.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "pokemon-go-japan-launch-2016",
+      "date": "2016-07-22",
+      "title": "Pokémon GOが日本で配信開始",
+      "category": "ゲーム・ネット文化",
+      "region": "日本",
+      "summary": "Pokémon GOの日本向け配信が始まり、街中で遊ぶ位置情報ゲームが大きな話題になった。",
+      "source": "https://internet.watch.impress.co.jp/docs/news/1011688.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "kagamine-rin-len-nt-release-2025",
+      "date": "2025-10-15",
+      "title": "「鏡音リン・レン NT」発売",
+      "category": "ボカロ・音楽",
+      "region": "日本",
+      "summary": "クリプトンが新世代の歌声合成ソフト「鏡音リン・レン NT」を発売。",
+      "source": "https://www.crypton.co.jp/cfm/news/2025/10/15rinlen_nt",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "amuro-hatsune-miku-collaboration-2015",
+      "date": "2015-06-09",
+      "title": "安室奈美恵と初音ミクのコラボ楽曲が発表",
+      "category": "ボカロ・音楽",
+      "region": "日本",
+      "summary": "クリプトンが安室奈美恵と初音ミクのコラボレーション楽曲について発表した。",
+      "source": "https://www.crypton.co.jp/cfm/news/2015/06/09amuro_namie",
+      "sourceType": "operator",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 219
+    "currentDistinctMonthDays": 224
   }
 }

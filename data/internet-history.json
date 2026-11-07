@@ -8161,6 +8161,72 @@
       "source": "https://blog.x.com/en_in/topics/product/2017/tweetingmadeeasier",
       "sourceType": "operator_primary",
       "importance": 4
+    },
+    {
+      "id": "ppap-youtube-original-2016-08-25",
+      "date": "2016-08-25",
+      "title": "ピコ太郎「PPAP」がYouTubeに公開",
+      "category": "プラットフォーム内バズ・YouTube",
+      "region": "日本→世界",
+      "summary": "ピコ太郎の公式動画『PPAP』が公開。日本の若年層による模倣動画を経て海外SNSにも拡散し、世界的な動画ミームとなった。公開日と後の世界的流行時期は区別する。",
+      "source": "https://www.japantimes.co.jp/culture/2016/11/04/music/timeline-pikotaro-went-viral/",
+      "sourceType": "contemporary_timeline",
+      "importance": 5
+    },
+    {
+      "id": "ppap-bieber-share-2016-09-27",
+      "date": "2016-09-27",
+      "title": "ジャスティン・ビーバーが「PPAP」をTwitterで紹介",
+      "category": "プラットフォーム内バズ・Twitter",
+      "region": "日本→世界",
+      "summary": "日本発YouTube動画『PPAP』をジャスティン・ビーバーがTwitterで紹介。海外への認知拡大を加速させた転換点として当時の時系列資料に記録されている。",
+      "source": "https://www.japantimes.co.jp/culture/2016/11/04/music/timeline-pikotaro-went-viral/",
+      "sourceType": "contemporary_timeline",
+      "importance": 5
+    },
+    {
+      "id": "instagram-world-record-egg-post-2019-01-04",
+      "date": "2019-01-04",
+      "title": "Instagramに「世界一いいねされる卵」が投稿",
+      "category": "プラットフォーム内バズ・Instagram",
+      "region": "世界",
+      "summary": "@world_record_eggが卵の写真を投稿し、Instagramの最多いいね記録更新を呼びかけた。著名人の投稿を普通の卵で超えるという参加型バズの象徴。記録更新日とは区別する。",
+      "source": "https://www.guinnessworldrecords.com/news/2019/1/egg-photo-breaks-kylie-jenners-record-for-most-liked-image-on-instagram-554801",
+      "sourceType": "record_authority",
+      "importance": 4
+    },
+    {
+      "id": "instagram-world-record-egg-record-2019-01-14",
+      "date": "2019-01-14",
+      "title": "Instagramの卵写真が当時の最多いいね記録を更新",
+      "category": "プラットフォーム内バズ・Instagram",
+      "region": "世界",
+      "summary": "1月4日に投稿された卵写真が、カイリー・ジェンナーの当時の最多いいね記録を超えた。ギネス世界記録が1月14日の達成を記録。現在の歴代1位という意味ではない。",
+      "source": "https://kids.guinnessworldrecords.com/news/2019/1/egg-photo-breaks-kylie-jenners-record-for-most-liked-image-on-instagram-554801",
+      "sourceType": "record_authority",
+      "importance": 4
+    },
+    {
+      "id": "tiktok-2020-buzzwords-nominees-2020-11-06",
+      "date": "2020-11-06",
+      "title": "TikTokが2020年流行語大賞の候補30語を発表",
+      "category": "プラットフォーム内バズ・TikTok",
+      "region": "日本",
+      "summary": "TikTok日本公式が『#きゅんです』『#香水』『#やりらふぃー』『#棺桶ダンス』など30候補を発表。個別ミームの発生日ではなく、当時の国内TikTok流行を記録した公式発表日。",
+      "source": "https://newsroom.tiktok.com/tiktok-buzzword-awards-2020?lang=ja-JP",
+      "sourceType": "platform_primary",
+      "importance": 5
+    },
+    {
+      "id": "tiktok-bella-poarch-m-to-the-b-2020-08-17",
+      "date": "2020-08-17",
+      "title": "TikTokで「M to the B」顔アップ動画が投稿",
+      "category": "プラットフォーム内バズ・TikTok",
+      "region": "世界",
+      "summary": "Bella Poarchが『M to the B』に合わせた短いリップシンク動画を投稿。約1か月後にTikTokの最多いいね動画となり、短尺・音源再利用型のバズを象徴した。日本国内での波及規模は未確認。",
+      "source": "https://www.dexerto.com/entertainment/bella-poarchs-viral-m-to-the-b-tiktok-breaks-record-for-most-likes-1418840/",
+      "sourceType": "contemporary_reporting",
+      "importance": 3
     }
   ],
   "coverage": {

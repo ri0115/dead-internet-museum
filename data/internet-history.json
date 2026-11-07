@@ -7875,11 +7875,33 @@
       "source": "https://www.latimes.com/entertainment-arts/music/story/2019-11-01/mariah-carey-all-i-want-for-christmas-video",
       "sourceType": "contemporary_reporting_with_original_post",
       "importance": 4
+    },
+    {
+      "id": "knowyourmeme-database-launch-2008-12-23",
+      "date": "2008-12-23",
+      "title": "Know Your Memeのミームデータベースが正式公開",
+      "category": "サービス誕生",
+      "region": "世界",
+      "summary": "ネットミームを記録・解説するKnow Your Memeのデータベースが、既存の動画シリーズの関連サイトとして正式公開された。2018年12月23日付の運営側10周年記事で2008年12月23日と明記されている。",
+      "source": "https://knowyourmeme.com/editorials/a-decade-of-know-your-meme",
+      "sourceType": "operator_retrospective_primary",
+      "importance": 5
+    },
+    {
+      "id": "krainagrzybowtv-smile-guide-debut-2013-12-23",
+      "date": "2013-12-23",
+      "title": "不気味なYouTubeシリーズ「Smile Guide」第1話公開",
+      "category": "動画・ネット文化",
+      "region": "世界",
+      "summary": "ポーランド発のシュールな映像シリーズKrainaGrzybowTVがチャンネル開設と初回『Poradnik Uśmiechu 1』投稿を行った日。インターネット上の不条理ホラー文化を象徴する作品の一つ。",
+      "source": "https://knowyourmeme.com/memes/subcultures/krainagrzybowtv",
+      "sourceType": "meme_history_secondary",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 344
+    "currentDistinctMonthDays": 345
   }
 }

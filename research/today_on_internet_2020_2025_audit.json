@@ -1,0 +1,623 @@
+{
+  "project": "Today in Internet History (homepage only)",
+  "scope": "2020-2025 six available candidate files",
+  "rows": 600,
+  "unique_normalized": 580,
+  "duplicate_groups": [
+    {
+      "terms": [
+        "猗窩座",
+        "猗窩座"
+      ],
+      "years": [
+        2020,
+        2025
+      ]
+    },
+    {
+      "terms": [
+        "五条悟",
+        "五条悟",
+        "五条悟"
+      ],
+      "years": [
+        2020,
+        2021,
+        2023
+      ]
+    },
+    {
+      "terms": [
+        "胡蝶しのぶ",
+        "胡蝶しのぶ"
+      ],
+      "years": [
+        2020,
+        2025
+      ]
+    },
+    {
+      "terms": [
+        "呪術廻戦",
+        "呪術廻戦"
+      ],
+      "years": [
+        2020,
+        2021
+      ]
+    },
+    {
+      "terms": [
+        "継国縁壱",
+        "継国縁壱"
+      ],
+      "years": [
+        2020,
+        2025
+      ]
+    },
+    {
+      "terms": [
+        "童磨",
+        "童磨"
+      ],
+      "years": [
+        2020,
+        2025
+      ]
+    },
+    {
+      "terms": [
+        "にじさんじ",
+        "にじさんじ"
+      ],
+      "years": [
+        2020,
+        2023
+      ]
+    },
+    {
+      "terms": [
+        "マキマ",
+        "マキマ"
+      ],
+      "years": [
+        2020,
+        2022
+      ]
+    },
+    {
+      "terms": [
+        "ウマ娘 シンデレラグレイ",
+        "ウマ娘 シンデレラグレイ"
+      ],
+      "years": [
+        2021,
+        2025
+      ]
+    },
+    {
+      "terms": [
+        "ウマ娘 プリティーダービー",
+        "ウマ娘 プリティーダービー"
+      ],
+      "years": [
+        2021,
+        2023
+      ]
+    },
+    {
+      "terms": [
+        "オグリキャップ(ウマ娘)",
+        "オグリキャップ(ウマ娘)"
+      ],
+      "years": [
+        2021,
+        2025
+      ]
+    },
+    {
+      "terms": [
+        "夏油傑",
+        "夏油傑"
+      ],
+      "years": [
+        2021,
+        2023
+      ]
+    },
+    {
+      "terms": [
+        "九十九由基",
+        "九十九由基"
+      ],
+      "years": [
+        2021,
+        2023
+      ]
+    },
+    {
+      "terms": [
+        "伏黒甚爾",
+        "伏黒甚爾"
+      ],
+      "years": [
+        2021,
+        2023
+      ]
+    },
+    {
+      "terms": [
+        "ブルーアーカイブ",
+        "ブルーアーカイブ"
+      ],
+      "years": [
+        2021,
+        2023
+      ]
+    },
+    {
+      "terms": [
+        "両面宿儺(呪術廻戦)",
+        "両面宿儺(呪術廻戦)"
+      ],
+      "years": [
+        2021,
+        2023
+      ]
+    },
+    {
+      "terms": [
+        "タコピー鬼つええ！",
+        "タコピー鬼つええ！"
+      ],
+      "years": [
+        2022,
+        2025
+      ]
+    },
+    {
+      "terms": [
+        "タコピーの原罪",
+        "タコピーの原罪"
+      ],
+      "years": [
+        2022,
+        2025
+      ]
+    },
+    {
+      "terms": [
+        "仮面ライダーガヴ",
+        "仮面ライダーガヴ"
+      ],
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  ],
+  "high_priority": [
+    {
+      "year": 2020,
+      "term": "アライさんマンション",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "アル中カラカラ",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "あんたはここでふゆと死ぬのよ",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "おけけパワー中島",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "大蛇丸の人",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "棺桶ダンス",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "逆バニー",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "クソデカ羅生門",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "グルメスパイザー",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "サイコロステーキ先輩",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "たべるんごのうた",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "Party Parrot",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "ぴえん",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "100日後に死ぬワニ",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "ファイナルソード",
+      "priority": "high"
+    },
+    {
+      "year": 2020,
+      "term": "見て！○○が踊っているよ",
+      "priority": "high"
+    },
+    {
+      "year": 2021,
+      "term": "あげません!",
+      "priority": "high"
+    },
+    {
+      "year": 2021,
+      "term": "うまぴょい伝説",
+      "priority": "high"
+    },
+    {
+      "year": 2021,
+      "term": "男の人っていつもそうですね…！",
+      "priority": "high"
+    },
+    {
+      "year": 2021,
+      "term": "かくめいのち",
+      "priority": "high"
+    },
+    {
+      "year": 2021,
+      "term": "jackochallenge",
+      "priority": "high"
+    },
+    {
+      "year": 2021,
+      "term": "チョコが一番ですわ",
+      "priority": "high"
+    },
+    {
+      "year": 2021,
+      "term": "どけ!!!俺はお兄ちゃんだぞ!!!",
+      "priority": "high"
+    },
+    {
+      "year": 2021,
+      "term": "にじさんじ甲子園2021",
+      "priority": "high"
+    },
+    {
+      "year": 2021,
+      "term": "120億円事件",
+      "priority": "high"
+    },
+    {
+      "year": 2021,
+      "term": "ふにんがす",
+      "priority": "high"
+    },
+    {
+      "year": 2021,
+      "term": "やばいクレーマーのSUSURU TV",
+      "priority": "high"
+    },
+    {
+      "year": 2021,
+      "term": "NKO DICE",
+      "priority": "high"
+    },
+    {
+      "year": 2022,
+      "term": "いいですか、落ち着いて聞いてください",
+      "priority": "high"
+    },
+    {
+      "year": 2022,
+      "term": "インド人を右に",
+      "priority": "high"
+    },
+    {
+      "year": 2022,
+      "term": "美味しいヤミー感謝感謝",
+      "priority": "high"
+    },
+    {
+      "year": 2022,
+      "term": "The Backrooms",
+      "priority": "high"
+    },
+    {
+      "year": 2022,
+      "term": "ずんだもん",
+      "priority": "high"
+    },
+    {
+      "year": 2022,
+      "term": "タコピー鬼つええ！",
+      "priority": "high"
+    },
+    {
+      "year": 2022,
+      "term": "田代砲",
+      "priority": "high"
+    },
+    {
+      "year": 2022,
+      "term": "ドンクリック詐欺",
+      "priority": "high"
+    },
+    {
+      "year": 2022,
+      "term": "ニャオハ立つな",
+      "priority": "high"
+    },
+    {
+      "year": 2022,
+      "term": "NovelAI",
+      "priority": "high"
+    },
+    {
+      "year": 2022,
+      "term": "壱百満天原サロメ",
+      "priority": "high"
+    },
+    {
+      "year": 2022,
+      "term": "メフィラス構文",
+      "priority": "high"
+    },
+    {
+      "year": 2022,
+      "term": "ゆっくり茶番劇",
+      "priority": "high"
+    },
+    {
+      "year": 2022,
+      "term": "ロマンスの神様フェイスダンス",
+      "priority": "high"
+    },
+    {
+      "year": 2023,
+      "term": "Unwelcome School",
+      "priority": "high"
+    },
+    {
+      "year": 2023,
+      "term": "え、社内システム全てワンオペしている私を解雇ですか？",
+      "priority": "high"
+    },
+    {
+      "year": 2023,
+      "term": "君は完璧で究極のゲッター",
+      "priority": "high"
+    },
+    {
+      "year": 2023,
+      "term": "強風オールバック",
+      "priority": "high"
+    },
+    {
+      "year": 2023,
+      "term": "コンビニ(ブリトラ)",
+      "priority": "high"
+    },
+    {
+      "year": 2023,
+      "term": "サカバンバスピス",
+      "priority": "high"
+    },
+    {
+      "year": 2023,
+      "term": "薩摩ホグワーツ",
+      "priority": "high"
+    },
+    {
+      "year": 2023,
+      "term": "Twitter",
+      "priority": "high"
+    },
+    {
+      "year": 2023,
+      "term": "パモさん構文",
+      "priority": "high"
+    },
+    {
+      "year": 2023,
+      "term": "ひき肉です",
+      "priority": "high"
+    },
+    {
+      "year": 2023,
+      "term": "もう疲れちゃって 全然動けなくてェ...",
+      "priority": "high"
+    },
+    {
+      "year": 2023,
+      "term": "ルール無用JCJCタイムアタック",
+      "priority": "high"
+    },
+    {
+      "year": 2023,
+      "term": "ワザップジョルノ",
+      "priority": "high"
+    },
+    {
+      "year": 2023,
+      "term": "ん、私ともあっちむいてホイをやるべき",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "猫ミーム",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "好きな惣菜発表ドラゴン",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "エビ揉め",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "察しの悪い雨穴",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "しかのこのこのここしたんたん",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "踏めば助かるのに⋯。",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "無課金おじさん",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "メズマライザー",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "チピチピチャパチャパ",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "アズールはもう駄目だ",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "自分の誕生日と同じ図鑑Noのポケモン",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "インプレゾンビ",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "ウェカピポの妹の夫",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "思ったよりヤバいのが出てきたな どうすんだこれ",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "人の心とかないんか？",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "ド級のリトライ ドリトライだ！",
+      "priority": "high"
+    },
+    {
+      "year": 2024,
+      "term": "ジーコ サッカー",
+      "priority": "high"
+    },
+    {
+      "year": 2025,
+      "term": "見なよ...オレの司を...",
+      "priority": "high"
+    },
+    {
+      "year": 2025,
+      "term": "ｴｯﾎｴｯﾎ",
+      "priority": "high"
+    },
+    {
+      "year": 2025,
+      "term": "野原ひろし 昼メシの流儀",
+      "priority": "high"
+    },
+    {
+      "year": 2025,
+      "term": "タコピー鬼つええ！",
+      "priority": "high"
+    },
+    {
+      "year": 2025,
+      "term": "グエー死んだンゴ",
+      "priority": "high"
+    },
+    {
+      "year": 2025,
+      "term": "家でもパーティーでも、エッチな服を着て友達や家族を怖がらせましょう！",
+      "priority": "high"
+    },
+    {
+      "year": 2025,
+      "term": "ゲイリーにありがとうと言って",
+      "priority": "high"
+    },
+    {
+      "year": 2025,
+      "term": "チャージマン研！",
+      "priority": "high"
+    },
+    {
+      "year": 2025,
+      "term": "伝説の名馬リアルスティール",
+      "priority": "high"
+    },
+    {
+      "year": 2025,
+      "term": "シャア生存RTA",
+      "priority": "high"
+    }
+  ],
+  "notes": [
+    "2018 and 2019 master files not found at expected paths",
+    "No changes to museum or homepage timeline",
+    "Nominations do not establish exact event dates",
+    "Wayback not required"
+  ]
+}

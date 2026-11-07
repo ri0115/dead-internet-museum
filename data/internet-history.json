@@ -2457,11 +2457,51 @@
       "source": "https://gigazine.net/news/20240617-niconico-re-kari-matome/",
       "sourceType": "secondary_historical_report",
       "importance": 4
+    },
+    {
+      "id": "yoshinoya-original-2001",
+      "date": "2001-04-07",
+      "title": "「吉野家コピペ」の原文がさるさる日記に掲載",
+      "category": "有名コピペ・個人サイト",
+      "region": "日本",
+      "summary": "新爆氏が「さるさる日記」に吉野家を題材とした文章を投稿。のちに2ちゃんねるで大量の改変コピペが作られた。",
+      "source": "https://web.archive.org/web/20070806182239/http://www2.diary.ne.jp/logdisp.cgi?user=69964&log=20010407",
+      "sourceType": "archived_original",
+      "importance": 5,
+      "originalDateType": "original_publication",
+      "verificationStatus": "archived_original_and_secondary_corrob"
+    },
+    {
+      "id": "yoshinoya-2ch-repost-2001",
+      "date": "2001-04-09",
+      "title": "「吉野家コピペ」が2ちゃんねるに転載",
+      "category": "有名コピペ・掲示板",
+      "region": "日本",
+      "summary": "B級グルメ板の「吉野家の牛丼！」スレッド619番に転載された。原文の投稿日とは異なる。",
+      "source": "https://kako.5ch.io/test/read.cgi/jfoods/975398997/619",
+      "sourceType": "archived_forum_post",
+      "importance": 5,
+      "originalDateType": "first_known_repost",
+      "verificationStatus": "forum_archive_and_secondary_corrob",
+      "secondarySource": "https://www.wdic.org/w/WDIC/%E5%90%89%E9%87%8E%E5%AE%B6%E3%81%AE%E3%82%B3%E3%83%94%E3%83%9A"
+    },
+    {
+      "id": "yoshinoya-guideline-2001",
+      "date": "2001-07-29",
+      "title": "「吉牛のガイドライン」スレッドが登場",
+      "category": "有名コピペ・掲示板",
+      "region": "日本",
+      "summary": "吉野家コピペを改変して楽しむガイドラインスレッドが誕生したとする当時のコピペ年表。一次ログ未照合につき暫定扱い。",
+      "source": "https://mousouteki.blog53.fc2.com/blog-entry-810.html",
+      "sourceType": "secondary_reproduced_2006_forum_history",
+      "importance": 4,
+      "originalDateType": "derivative_community",
+      "verificationStatus": "secondary_source_only"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Exact-day evidence; distinguish first upload, alternate version and viral spread; mark secondary sources.",
+    "policy": "Distinguish original creation, first repost, and spread; secondary-only evidence is provisional. Site HTML deferred.",
     "currentDistinctMonthDays": 162
   }
 }

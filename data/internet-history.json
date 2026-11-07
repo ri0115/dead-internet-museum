@@ -7259,11 +7259,44 @@
       "source": "https://www.itmedia.co.jp/news/article/2206/07/1220607164/",
       "sourceType": "contemporary_reporting",
       "importance": 5
+    },
+    {
+      "id": "pamosan-original-video-2023-01-05",
+      "date": "2023-01-05",
+      "title": "「パモさん構文」の元になったゲーム実況動画が公開",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ジャック・オ・蘭たんが『ホゲータもらっちゃいました｜ポケモン バイオレット #26』を公開。作中のセイジ先生の話し方をまねた『Oh! パモさん床の隙間の汚れWatch……』という即興の発言が、後に『パモさん構文』として流行した。動画公開日であり、SNSでの流行開始日ではない。",
+      "source": "https://automaton-media.com/articles/newsjp/20230128-235302/",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "pamosan-streamer-reaction-2023-01-27",
+      "date": "2023-01-27",
+      "title": "「パモさん構文」拡散に実況者本人が生配信で反応",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "『パモさん構文』がSNSで流行し、元の発言をしたジャック・オ・蘭たんが1月27日の生配信で反応。定型文として使われていることへの驚きを語った。1月28日付AUTOMATONの同時代報道で確認。",
+      "source": "https://automaton-media.com/articles/newsjp/20230128-235302/",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "pamosan-overseas-2023-02-02",
+      "date": "2023-02-02",
+      "title": "「パモさん構文」が海外ユーザーにも注目される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "『パモさん構文』が日本のSNSでの流行を超えて海外ユーザーにも知られ始めたと、インサイドが2月2日に報道。報道日として記録し、海外での最初の投稿日時とは区別する。",
+      "source": "https://www.inside-games.jp/article/2023/02/02/143621.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 300
+    "currentDistinctMonthDays": 301
   }
 }

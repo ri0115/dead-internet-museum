@@ -7391,11 +7391,33 @@
       "source": "https://www.nicovideo.jp/watch/sm36210300",
       "sourceType": "original_upload",
       "importance": 4
+    },
+    {
+      "id": "2ch-transfer-announcement-2009-01-02",
+      "date": "2009-01-02",
+      "title": "ひろゆきが「2ちゃんねる譲渡」を発表",
+      "category": "掲示板・ネット文化",
+      "region": "日本",
+      "summary": "西村博之がブログで、匿名掲示板「2ちゃんねる」をシンガポールのPACKET MONSTER INC.へ譲渡したと発表。発表日と実際の権利移転日を混同しない。",
+      "source": "https://internet.watch.impress.co.jp/cda/news/2009/01/02/21993.html",
+      "sourceType": "contemporary_report",
+      "importance": 5
+    },
+    {
+      "id": "ajax-term-essay-2005-02-18",
+      "date": "2005-02-18",
+      "title": "「Ajax」という名称を紹介した論考が公開",
+      "category": "ウェブ技術",
+      "region": "世界",
+      "summary": "Jesse James Garrettが『Ajax: A New Approach to Web Applications』を発表。JavaScriptと非同期通信を活用するWebアプリの設計手法に「Ajax」の名を与え、Web 2.0時代の開発文化に影響した。",
+      "source": "https://michaeljordan.nl/ajax.pdf",
+      "sourceType": "original_essay_reprint",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 303
+    "currentDistinctMonthDays": 305
   }
 }

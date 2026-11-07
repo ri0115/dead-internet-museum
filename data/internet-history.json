@@ -3783,6 +3783,28 @@
       "importance": 4,
       "originalDateType": "commercial_announcement",
       "verificationStatus": "secondary_explicit_date"
+    },
+    {
+      "id": "chatgpt-public-launch-2022",
+      "date": "2022-11-30",
+      "title": "ChatGPTが一般公開",
+      "category": "技術・文化",
+      "region": "世界",
+      "summary": "OpenAIが対話型AI「ChatGPT」を研究プレビューとして公開。生成AIが一般利用者へ急速に普及する転換点となった。",
+      "source": "https://openai.com/ja-JP/index/chatgpt/",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "skype-retirement-2025",
+      "date": "2025-05-05",
+      "title": "Skypeが提供終了",
+      "category": "Webサービス終了",
+      "region": "世界",
+      "summary": "Microsoftが一般向けSkypeの提供を終了。インターネット通話とチャットの先駆的サービスが幕を閉じた。Skype for Businessは対象外。",
+      "source": "https://support.microsoft.com/ja-jp/skype/skype-is-retiring-in-may-2025-what-you-need-to-know",
+      "sourceType": "operator",
+      "importance": 5
     }
   ],
   "coverage": {

@@ -46,6 +46,55 @@
       "source": "https://blog.youtube/news-and-events/youtube-at-15-my-personal-journey/",
       "sourceType": "operator",
       "importance": 4
+    },
+    {
+      "id": "jpnic-web-1994",
+      "date": "1994-07-20",
+      "title": "JPNICがWebでの情報提供を開始",
+      "category": "インターネット基盤",
+      "region": "日本",
+      "summary": "JPNICが従来のメール・FTPに加えWebによる情報公開を開始した。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "kantei-web-1994",
+      "date": "1994-08-06",
+      "title": "首相官邸のWebサイト開設",
+      "category": "インターネット基盤",
+      "region": "日本",
+      "summary": "日本の首相官邸のWebサイトが開設された。",
+      "source": "https://www.nic.ad.jp/timeline/",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "archie-1990",
+      "date": "1990-09-10",
+      "title": "初期のインターネット検索エンジンArchieが登場",
+      "category": "技術・文化",
+      "region": "世界",
+      "summary": "公開FTPファイルを検索するArchieが登場。検索サービスの先駆けとなった。",
+      "source": "https://www.webdesignmuseum.org/web-design-history",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "photoshop-1990",
+      "date": "1990-02-19",
+      "title": "Photoshop 1.0発売",
+      "category": "Web制作・デザイン",
+      "region": "世界",
+      "summary": "デジタル画像制作を変えたPhotoshopの初版がMac向けに発売された。Web専用ソフトではないが、後のWeb制作文化に大きく影響した。",
+      "source": "https://www.webdesignmuseum.org/web-design-history",
+      "sourceType": "historical_timeline",
+      "importance": 4
     }
-  ]
+  ],
+  "coverage": {
+    "targetDays": 366,
+    "policy": "Only exact-day, sourced, meaningful internet events. Do not invent events to fill empty dates.",
+    "currentDistinctMonthDays": 8
+  }
 }

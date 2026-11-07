@@ -1,0 +1,38 @@
+{
+  "batch": 49,
+  "date": "2026-11-07",
+  "master_sha": "0d93c4b8eb15fd4ebab49674f70334c1680dec24",
+  "status": "source_verified_candidates_not_merged",
+  "records": [
+    {
+      "id": "hatena-group",
+      "original_url": "http://g.hatena.ne.jp/",
+      "archive_search_url": "https://web.archive.org/web/*/http://g.hatena.ne.jp/",
+      "source_url": "https://hatena-announce.hatenastaff.com/entry/2006/07/11/000000_1",
+      "status": "operator_documented_domain;calendar_unverified"
+    },
+    {
+      "id": "hatena-rss",
+      "original_url": "http://r.hatena.ne.jp/",
+      "archive_search_url": "https://web.archive.org/web/*/http://r.hatena.ne.jp/",
+      "source_url": "https://hatena-announce.hatenastaff.com/archive/category/%E3%81%AF%E3%81%A6%E3%81%AARSS%E6%97%A5%E8%A8%98",
+      "status": "operator_documented;calendar_unverified"
+    },
+    {
+      "id": "cururu",
+      "original_url": "http://www.cururu.jp/",
+      "archive_search_url": "https://web.archive.org/web/*/http://www.cururu.jp/",
+      "source_url": "https://bb.watch.impress.co.jp/docs/news/168294.html",
+      "status": "contemporary_report_documented;calendar_unverified",
+      "caution": "cururu.jp is currently used by an unrelated matching service; only historical snapshots should represent the old NHN Japan SNS."
+    }
+  ],
+  "held": [
+    {
+      "id": "forestpage-old",
+      "reason": "Official closure announcement confirms 2024-08-27 but does not establish the exact historic original domain; do not substitute successor plus.fm-p.jp.",
+      "source_url": "https://plus.fm-p.jp/promotion/byebyeforestpage/index"
+    }
+  ],
+  "note": "The three URL additions in batch48 remain separate candidates; total six candidates pending merge. No snapshot verified."
+}

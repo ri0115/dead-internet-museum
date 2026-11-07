@@ -2552,11 +2552,80 @@
       "importance": 5,
       "originalDateType": "related_thread_creation_not_copypasta_first_post",
       "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "yaruo-origin-2006",
+      "date": "2006-07-08",
+      "title": "AAキャラクター「やる夫」の原型が登場",
+      "category": "AA・掲示板・ネットミーム",
+      "region": "日本",
+      "summary": "2ちゃんねるニュース速報板「だからニュー速でやるお！のガイドライン」の冒頭に、後に「やる夫」と呼ばれるAAが登場。名前は後から定着した。",
+      "source": "https://dengekionline.com/articles/14434/",
+      "sourceType": "journalistic_retrospective",
+      "importance": 5,
+      "originalDateType": "first_known_appearance",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "denshaotoko-origin-2004",
+      "date": "2004-03-14",
+      "title": "「電車男」につながる書き込みが2ちゃんねるに投稿",
+      "category": "掲示板・ネット文化",
+      "region": "日本",
+      "summary": "独身男性板「男達が後ろから撃たれるスレ」に、電車内で女性を助けたとする投稿が現れた。投稿の真実性は確認できず、あくまで掲示板上の物語の発端。",
+      "source": "https://ja.wikid.org/%E9%9B%BB%E8%BB%8A%E7%94%B7",
+      "sourceType": "secondary_historical_summary",
+      "importance": 5,
+      "originalDateType": "first_known_forum_post",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "mikumiku-2007",
+      "date": "2007-09-20",
+      "title": "「みくみくにしてあげる♪【してやんよ】」投稿",
+      "category": "ボカロ・ネットミーム",
+      "region": "日本",
+      "summary": "ikaによる初音ミクのオリジナル楽曲がニコニコ動画に投稿され、コメント弾幕とともに広まった。",
+      "source": "https://originalnews.nico/435300",
+      "sourceType": "platform_operator",
+      "importance": 5,
+      "originalDateType": "original_upload",
+      "originalUrl": "https://www.nicovideo.jp/watch/sm1097445",
+      "verificationStatus": "platform_verified"
+    },
+    {
+      "id": "marisa-sm511-2007",
+      "date": "2007-03-06",
+      "title": "「魔理沙は大変なものを盗んでいきました」（sm511）投稿",
+      "category": "東方・Flash・ネットミーム",
+      "region": "日本",
+      "summary": "IOSYSの既存映像がニコニコ動画に転載され、東方MAD文化の代表的な作品になった。楽曲・映像自体の初公開日ではない。",
+      "source": "https://www.nicozon.net/watch/sm511",
+      "secondarySource": "https://originalnews.nico/92763",
+      "sourceType": "video_metadata_mirror",
+      "importance": 5,
+      "originalDateType": "nico_repost_not_original_release",
+      "originalUrl": "https://www.nicovideo.jp/watch/sm511",
+      "verificationStatus": "video_metadata"
+    },
+    {
+      "id": "danjo-mad-2008",
+      "date": "2008-01-21",
+      "title": "「男女」バカイト＆ヘタレン改良版MAD投稿",
+      "category": "音MAD・ネットミーム",
+      "region": "日本",
+      "summary": "「男女」の人気MAD「アホの子増し増し改良ver.」が投稿。楽曲の初公開日や元動画の初投稿とは区別。",
+      "source": "https://originalnews.nico/449031",
+      "sourceType": "platform_operator",
+      "importance": 4,
+      "originalDateType": "popular_derivative_upload",
+      "originalUrl": "https://www.nicovideo.jp/watch/sm2097776",
+      "verificationStatus": "platform_verified"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Only grounded exact dates. Differentiate first thread, first copypasta, and later diffusion; mark secondary-only.",
-    "currentDistinctMonthDays": 165
+    "policy": "Exact date and source required; distinguish first post, original release, repost and derivative; secondary-only records marked.",
+    "currentDistinctMonthDays": 167
   }
 }

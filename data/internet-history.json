@@ -7798,11 +7798,44 @@
       "source": "https://knowyourmeme.com/memes/hell-be-fine",
       "sourceType": "meme_history_secondary",
       "importance": 4
+    },
+    {
+      "id": "covfefe-tweet-2017-05-31",
+      "date": "2017-05-31",
+      "title": "「covfefe」誤字ツイートがネットミーム化",
+      "category": "ネットミーム・SNS",
+      "region": "世界",
+      "summary": "米国時間5月31日未明、トランプ大統領の『negative press covfefe』という途中で途切れた投稿が拡散。意味不明な単語を使った大喜利や画像改変が相次いだ。",
+      "source": "https://knowyourmeme.com/memes/covfefe",
+      "sourceType": "meme_history_secondary",
+      "importance": 5
+    },
+    {
+      "id": "rubbing-hands-emoji-first-meme-2023-01-13",
+      "date": "2023-01-13",
+      "title": "「Rubbing Hands Emoji」の初期ミーム投稿",
+      "category": "ネットミーム・画像改変",
+      "region": "世界",
+      "summary": "Instagramで手をこする企み顔の絵文字に『When the function has a jungle gym』と添えた、確認されている初期のミーム使用例が投稿された。絵文字素材自体は2018年から存在。",
+      "source": "https://knowyourmeme.com/memes/rubbing-hands-emoji",
+      "sourceType": "meme_history_secondary",
+      "importance": 3
+    },
+    {
+      "id": "mf-sitting-next-to-me-2019-11-19",
+      "date": "2019-11-19",
+      "title": "「The MF Sitting Next to Me」ミームの元ツイート",
+      "category": "ネットミーム・画像改変",
+      "region": "世界",
+      "summary": "授業で隣の人と話すよう指示された場面に『モンスターズ・インク』の顔交換画像を合わせた投稿がTwitterに登場。キャプションと画像を組み合わせる定番形式に発展。",
+      "source": "https://knowyourmeme.com/memes/the-mf-sitting-next-to-me",
+      "sourceType": "meme_history_secondary",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 338
+    "currentDistinctMonthDays": 341
   }
 }

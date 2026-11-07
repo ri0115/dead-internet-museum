@@ -8645,6 +8645,50 @@
       "source": "https://www.uuum.co.jp/news/98979",
       "sourceType": "agency_primary",
       "importance": 4
+    },
+    {
+      "id": "fishers-formed-2010-02-25",
+      "date": "2010-02-25",
+      "title": "フィッシャーズが中学卒業前に結成",
+      "category": "YouTube・クリエイター史",
+      "region": "日本",
+      "summary": "フィッシャーズの公式チャンネル自己紹介にある年表では2010年2月25日を結成日とする。現在のYouTubeチャンネル開設日とは異なる。",
+      "source": "https://www.youtube.com/@Fischers",
+      "sourceType": "creator_primary",
+      "importance": 5
+    },
+    {
+      "id": "fishers-main-channel-2012-08-24",
+      "date": "2012-08-24",
+      "title": "フィッシャーズが現在のメインチャンネルを開設",
+      "category": "YouTube・クリエイター史",
+      "region": "日本",
+      "summary": "フィッシャーズが以前のチャンネルを削除し、現在のYouTubeメインチャンネルを開設。2010年の結成・動画活動開始と区別する。",
+      "source": "https://www.youtube.com/@Fischers",
+      "sourceType": "creator_primary",
+      "importance": 5
+    },
+    {
+      "id": "fishers-one-million-2016-08-12",
+      "date": "2016-08-12",
+      "title": "フィッシャーズの登録者が100万人を突破",
+      "category": "プラットフォーム内バズ・YouTube",
+      "region": "日本",
+      "summary": "UUUMの2016年8月16日発表によれば、フィッシャーズは8月12日0時ごろに登録者100万人を達成。",
+      "source": "https://uuum.jp/posts/5503",
+      "sourceType": "agency_primary",
+      "importance": 5
+    },
+    {
+      "id": "fishers-ten-billion-2020-08-02",
+      "date": "2020-08-02",
+      "title": "フィッシャーズが単独チャンネル累計100億再生を突破",
+      "category": "プラットフォーム内バズ・YouTube",
+      "region": "日本",
+      "summary": "UUUMが8月3日に発表。8月2日にフィッシャーズの単独チャンネル累計再生数が100億回を突破し、UUUM所属クリエイター初の達成となった。",
+      "source": "https://www.uuum.co.jp/news/52889",
+      "sourceType": "agency_primary",
+      "importance": 5
     }
   ],
   "coverage": {

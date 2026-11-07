@@ -4267,11 +4267,264 @@
       "source": "https://internet.watch.impress.co.jp/docs/yajiuma/362385.html",
       "sourceType": "contemporary_reporting",
       "importance": 3
+    },
+    {
+      "id": "meta-2013-12-12-01",
+      "date": "2013-12-12",
+      "title": "Instagram Directが登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "写真・動画を非公開で送り合うInstagram Directが登場。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "meta-2014-02-19-02",
+      "date": "2014-02-19",
+      "title": "FacebookがWhatsApp買収を発表",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "FacebookがメッセージアプリWhatsAppの買収を発表。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "meta-2014-03-25-03",
+      "date": "2014-03-25",
+      "title": "FacebookがOculus買収を発表",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "FacebookがVR企業Oculusの買収を発表。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "meta-2014-10-15-04",
+      "date": "2014-10-15",
+      "title": "Facebookの災害時情報センターが登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "災害発生時に安否を知らせるSafety Check機能が登場。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "meta-2015-03-23-05",
+      "date": "2015-03-23",
+      "title": "InstagramのコラージュアプリLayoutが登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "複数写真を組み合わせる公式アプリLayoutが発表された。",
+      "source": "https://about.fb.com/news/2015/03/introducing-layout-from-instagram/",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "meta-2015-03-25-06",
+      "date": "2015-03-25",
+      "title": "Messengerプラットフォームが公開",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "FacebookがF8でMessengerプラットフォームを発表。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "meta-2015-04-27-07",
+      "date": "2015-04-27",
+      "title": "Messengerでビデオ通話が登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "Messengerにビデオ通話機能が追加された。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "meta-2015-06-23-08",
+      "date": "2015-06-23",
+      "title": "Instagramの検索・発見機能が刷新",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "InstagramがExploreのトレンド表示と検索強化を発表。",
+      "source": "https://about.fb.com/news/2015/06/introducing-instagrams-all-new-search-and-explore/",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "meta-2015-10-22-09",
+      "date": "2015-10-22",
+      "title": "Instagramのループ動画アプリBoomerangが登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "短い映像を順送り・逆送りするBoomerangアプリが登場。",
+      "source": "https://about.fb.com/ja/news/2015/10/instagram_boomerang/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "meta-2015-12-03-10",
+      "date": "2015-12-03",
+      "title": "Facebook Liveが登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "Facebookのライブ動画配信機能が登場。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "meta-2016-02-24-11",
+      "date": "2016-02-24",
+      "title": "Facebookのリアクション機能が世界展開",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "「いいね！」以外の感情を表すリアクションが全世界で利用可能になった。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "meta-2016-04-05-12",
+      "date": "2016-04-05",
+      "title": "WhatsAppがエンドツーエンド暗号化を導入",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "WhatsAppがメッセージや通話のエンドツーエンド暗号化を導入。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "meta-2016-05-10-13",
+      "date": "2016-05-10",
+      "title": "WhatsAppデスクトップアプリが登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "WhatsAppのデスクトップアプリが登場。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "meta-2016-05-11-14",
+      "date": "2016-05-11",
+      "title": "Instagramが虹色グラデーションの新アイコンを発表",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "Instagramが従来のカメラ型アイコンを刷新。",
+      "source": "https://about.fb.com/ja/news/2016/05/instagram_newlook/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "meta-2016-10-03-15",
+      "date": "2016-10-03",
+      "title": "Facebook Marketplaceが登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "Facebook内で個人間売買を行うMarketplaceが登場。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "meta-2016-11-14-16",
+      "date": "2016-11-14",
+      "title": "WhatsAppにビデオ通話が登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "WhatsAppがビデオ通話機能を導入。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "meta-2017-02-20-17",
+      "date": "2017-02-20",
+      "title": "WhatsApp Statusが登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "24時間で消える写真・動画投稿機能WhatsApp Statusが登場。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "meta-2017-03-21-18",
+      "date": "2017-03-21",
+      "title": "Instagramショッピング機能が登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "Instagramに商品情報を付けるショッピング機能が登場。日本導入は2018年。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "meta-2017-08-09-19",
+      "date": "2017-08-09",
+      "title": "Facebook Watchが登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "Facebookが動画視聴サービスWatchを開始。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "meta-2017-12-04-20",
+      "date": "2017-12-04",
+      "title": "Messenger Kidsが登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "Facebookが子ども向けメッセージアプリMessenger Kidsを公開。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "meta-2018-01-18-21",
+      "date": "2018-01-18",
+      "title": "WhatsApp Businessアプリが登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "企業と顧客のコミュニケーションを支援するWhatsApp Businessが登場。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "meta-2018-06-26-22",
+      "date": "2018-06-26",
+      "title": "Instagramにビデオチャット機能が登場",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "Instagramがビデオチャットなどの新機能を導入。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 3
+    },
+    {
+      "id": "meta-2018-08-01-23",
+      "date": "2018-08-01",
+      "title": "FacebookとInstagramが利用時間管理ツールを発表",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "SNS利用時間を確認・管理する新しいツールを発表。",
+      "source": "https://about.fb.com/ja/company.info/",
+      "sourceType": "operator",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 227
+    "currentDistinctMonthDays": 234
   }
 }

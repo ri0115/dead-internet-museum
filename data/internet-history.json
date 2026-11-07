@@ -3075,11 +3075,51 @@
       "importance": 4,
       "originalDateType": "news_publication",
       "verificationStatus": "contemporary_source_confirmed"
+    },
+    {
+      "id": "konshu-tsuma-book-2005",
+      "date": "2005-01-25",
+      "title": "『今週、妻が浮気します』発売――Q&A掲示板の相談が書籍に",
+      "category": "掲示板・ネット文化・出版",
+      "region": "日本",
+      "summary": "OKWeb／教えて！gooの相談投稿をもとにした書籍が中央公論新社から発売。2ちゃんねる発『電車男』とは異なるQ&Aコミュニティからの商業出版例。1月24日は発売を報じた記事の日付であり、発売日は25日。",
+      "source": "https://internet.watch.impress.co.jp/docs/imreboot/today/1100864.html",
+      "secondarySource": "https://internet.watch.impress.co.jp/docs/news/index200501.html",
+      "sourceType": "publisher_date_recounted_by_internet_watch",
+      "importance": 4,
+      "originalDateType": "book_release",
+      "verificationStatus": "reputable_retrospective_exact_date"
+    },
+    {
+      "id": "yamada-virus-response-2005",
+      "date": "2005-04-14",
+      "title": "2ちゃんねるで話題の「山田ウイルス」が報道される",
+      "category": "掲示板・ネット事件・セキュリティ",
+      "region": "日本",
+      "summary": "2ちゃんねるに無作為投稿する『山田ウイルス』について、トレンドマイクロの検出・駆除対応がINTERNET Watchで報じられた。ウイルスの発生日ではなく報道日。",
+      "source": "https://internet.watch.impress.co.jp/cda/news/2005/04/14/7289.html",
+      "sourceType": "contemporary_report",
+      "importance": 4,
+      "originalDateType": "contemporary_news_publication",
+      "verificationStatus": "contemporary_source_confirmed"
+    },
+    {
+      "id": "yamada-alternative-report-2006",
+      "date": "2006-03-03",
+      "title": "「山田オルタナティブ」の情報流出リスクが報道される",
+      "category": "掲示板・ネット事件・セキュリティ",
+      "region": "日本",
+      "summary": "2ちゃんねるなどで話題となった『山田オルタナティブ』について、HDDの内容を外部に公開する危険性が報じられた。2月下旬の発見日とは区別した報道日。",
+      "source": "https://internet.watch.impress.co.jp/cda/news/2006/03/03/11106.html",
+      "sourceType": "contemporary_report",
+      "importance": 4,
+      "originalDateType": "contemporary_news_publication",
+      "verificationStatus": "contemporary_source_confirmed"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Ground exact dates in cited contemporaneous sources; distinguish publication/reporting dates from origins. Site HTML unchanged.",
-    "currentDistinctMonthDays": 189
+    "policy": "Exact-date source required. Clearly distinguish original events from reporting dates; avoid filler and duplicate IDs. HTML unchanged.",
+    "currentDistinctMonthDays": 191
   }
 }

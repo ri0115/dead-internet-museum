@@ -7831,11 +7831,22 @@
       "source": "https://knowyourmeme.com/memes/the-mf-sitting-next-to-me",
       "sourceType": "meme_history_secondary",
       "importance": 3
+    },
+    {
+      "id": "vernal-lullaby-youtube-2005-05-02",
+      "date": "2005-05-02",
+      "title": "YouTube最初期の音楽映像「Vernal Lullaby」が投稿",
+      "category": "動画・ネット文化",
+      "region": "世界",
+      "summary": "Adam QuirkがYouTube創成期に投稿した自主制作の音楽映像。本人の記録では創業者がNYCのビデオブログ交流会でYouTubeを紹介していた際に投稿し、7番目の動画だったという。順位は投稿者の証言として扱う。",
+      "source": "https://adamcquirk.com/videos/",
+      "sourceType": "creator_primary_and_upload_date_secondary",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 341
+    "currentDistinctMonthDays": 342
   }
 }

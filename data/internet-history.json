@@ -5675,11 +5675,110 @@
       "source": "https://memeroku.com/family/niconico/",
       "sourceType": "historical_record",
       "importance": 3
+    },
+    {
+      "id": "meme-milestone-72-01",
+      "date": "2019-03-14",
+      "title": "ワザップジョルノが5ちゃんねるのスレッドで話題に",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ワザップ!の偽裏技への抗議コメントが『ジョジョ』のジョルノに似ていると話題になった。原コメントの投稿日とは異なる。",
+      "source": "https://w.atwiki.jp/otomadstar/pages/714.html",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "meme-milestone-72-02",
+      "date": "2019-03-16",
+      "title": "「ジョルノっぽくワザップのコメントを読んでみた」が投稿",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "声真似動画の投稿をきっかけにワザップジョルノのパロディが拡大した。",
+      "source": "https://w.atwiki.jp/internetmeme/pages/42.html",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "meme-milestone-72-03",
+      "date": "2022-05-07",
+      "title": "FFX音MAD「おとわっか」が投稿",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "『ファイナルファンタジーX』を題材にした合作音MADの投稿。",
+      "source": "https://ja.dbpedia.org/page/%E3%81%8A%E3%81%A8%E3%82%8F%E3%81%A3%E3%81%8B",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "meme-milestone-72-04",
+      "date": "2022-06-06",
+      "title": "「おとわっか」の元動画が削除される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "爆発的な再生と二次拡散を経て、元動画が削除されたと記録される。",
+      "source": "https://ja.dbpedia.org/page/%E3%81%8A%E3%81%A8%E3%82%8F%E3%81%A3%E3%81%8B",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "meme-milestone-72-05",
+      "date": "2024-01-26",
+      "title": "猫ミームの日常再現動画がXで広がる",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "2024年1月26日付の「カナダ留学行った時」など、猫素材で日常体験を再現する投稿が拡散した時期の記録。",
+      "source": "https://www.itmedia.co.jp/business/articles/2404/26/news040.html",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "meme-milestone-72-06",
+      "date": "2024-01-30",
+      "title": "猫ミームの人気投稿がネット掲示板で大量に紹介される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "2024年1月30日公開の記事に多数の猫ミーム投稿がまとめられ、普及を裏付ける。",
+      "source": "https://nwknews.jp/archives/6107393.html",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "meme-milestone-72-07",
+      "date": "2024-02-22",
+      "title": "猫の日に「猫ミーム」ブームが振り返られる",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "猫の日の報道で、2024年1月からの猫ミーム急拡大が紹介された。",
+      "source": "https://futaman.futabanet.jp/articles/-/125879?page=1",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "meme-milestone-72-08",
+      "date": "2024-04-26",
+      "title": "猫ミームの拡散構造がITmediaで分析される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "猫素材を組み合わせて日常を表現する動画文化が社会的に分析された。",
+      "source": "https://www.itmedia.co.jp/business/articles/2404/26/news040.html",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "meme-milestone-72-09",
+      "date": "2024-11-05",
+      "title": "猫ミームが新語・流行語大賞の候補に選ばれる",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "猫ミームが2024年の新語・流行語大賞候補30語に入ったと報道された。",
+      "source": "https://www.nikkansports.com/general/nikkan/news/202411050000320.html",
+      "sourceType": "historical_record",
+      "importance": 5
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 272
+    "currentDistinctMonthDays": 274
   }
 }

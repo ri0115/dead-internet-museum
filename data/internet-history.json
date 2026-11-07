@@ -7314,6 +7314,50 @@
       "source": "https://img.inside-games.jp/article/2021/07/09/133362.html",
       "sourceType": "contemporary_reporting",
       "importance": 5
+    },
+    {
+      "id": "susuru-complaint-original-2020-05-25",
+      "date": "2020-05-25",
+      "title": "「やばいクレーマーのSUSURU TV.」元ネタ動画が投稿される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ラーメン珍道中がSUSURU TV.をパロディ化した架空のラーメン店『濃厚とんこつ豚無双』の声真似動画をTwitterに投稿。2021年の音MADブームの原点。2021年の流行と2020年の初出を区別する。",
+      "source": "https://x.com/musou_orochi_/status/1264879558781591552",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "susuru-kimigayo-2021-06-30",
+      "date": "2021-06-30",
+      "title": "音MAD「やばいクレーマーのSUSURU TVが代」が投稿される",
+      "category": "動画・音楽文化",
+      "region": "日本",
+      "summary": "ニコニコ動画に『やばいクレーマーのSUSURU TVが代』が投稿され、元の声真似動画を音MAD素材にするブームの火付け役となった。投稿動画sm38960060を一次資料とする。",
+      "source": "https://www.nicovideo.jp/watch/sm38960060",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "susuru-creator-response-2021-09-03",
+      "date": "2021-09-03",
+      "title": "SUSURU本人が「やばいクレーマー」ネタを再現",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "SUSURU本人が、自分の声真似をしたパロディ動画『やばいクレーマーのSUSURU TV.』を再現した動画をTwitterに投稿。ミームの対象本人が参加し、再び注目を集めた。",
+      "source": "https://x.com/susuru_tv/status/1433769424683769858",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "susuru-fictional-ramen-release-2024-11-06",
+      "date": "2024-11-06",
+      "title": "架空の「濃厚とんこつ豚無双」が実際の商品として発売",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "2020年の『やばいクレーマーのSUSURU TV.』ネタに登場する架空のラーメン『濃厚無双ラーメン 海苔トッピング』をSUSURU側が商品化し、11月6日から販売開始。ネットミームが現実の商品に発展した事例。",
+      "source": "https://prtimes.jp/main/html/rd/p/000000010.000123128.html",
+      "sourceType": "operator",
+      "importance": 4
     }
   ],
   "coverage": {

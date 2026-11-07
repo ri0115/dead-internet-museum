@@ -5455,11 +5455,231 @@
       "source": "https://ascii.jp/elem/000/000/557/557822/index-2.html",
       "sourceType": "contemporary_reporting",
       "importance": 4
+    },
+    {
+      "id": "internet-meme-source-20261107-01",
+      "date": "2001-07-20",
+      "title": "後の「野獣先輩」ミームの元作品が発売",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "後にネット上で「野獣先輩」と呼ばれる人物が登場する作品の発売日。ミームの発生日ではない。",
+      "source": "https://memeroku.com/meme/yaju-senpai/",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "internet-meme-source-20261107-02",
+      "date": "2018-05-14",
+      "title": "「野獣先輩ポーズ」の広がりがニュースで報じられる",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "掲示板で話題になったポーズをめぐる報道日。元ネタの初出とは区別。",
+      "source": "https://memeroku.com/meme/yaju-senpai/",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "internet-meme-source-20261107-03",
+      "date": "2018-09-22",
+      "title": "「クッパ姫」の二次創作がTwitterから広がる",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "2018年9月22日の投稿を起点に、クッパを女性キャラクター化するファンアートが国内外へ拡大。",
+      "source": "https://memeroku.com/year/2018/",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "internet-meme-source-20261107-04",
+      "date": "2019-02-13",
+      "title": "「#夢見りあむをすこれ」がまとめサイトで注目される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "新キャラクターをめぐる投稿がまとめられ、語尾「すこれ」の広がりを示す当時の記録が残る。",
+      "source": "https://memeroku.com/meme/suko-sukore/",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "internet-meme-source-20261107-05",
+      "date": "2019-01-03",
+      "title": "「なんだこの自己満動画」が動画タイトルに使われる",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ニコニコ動画の動画タイトルに使われたことが確認できる日。語句の初使用とは断定しない。",
+      "source": "https://memeroku.com/platform/niconico/",
+      "sourceType": "historical_record",
+      "importance": 3
+    },
+    {
+      "id": "internet-meme-source-20261107-06",
+      "date": "2017-06-16",
+      "title": "「溺れ死ぬボーちゃんのものまね」動画が登場",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "『クレヨンしんちゃん』のボーちゃんの声を模した動画が、後の動画パロディの題材となった。",
+      "source": "https://memeroku.com/platform/niconico/",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "internet-meme-source-20261107-07",
+      "date": "2017-11-28",
+      "title": "「諦めるのはeasy」の画像ネタが広まる",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "倖田來未の歌唱場面を題材とした画像ネタの記録日。",
+      "source": "https://memeroku.com/platform/niconico/",
+      "sourceType": "historical_record",
+      "importance": 3
+    },
+    {
+      "id": "internet-meme-source-20261107-08",
+      "date": "2018-02-27",
+      "title": "「おるやんけ！おるやんけ！」がネットミーム化",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "動画配信者の反応を題材にした定型句がニコニコ動画などで引用される。",
+      "source": "https://memeroku.com/platform/niconico/",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "internet-meme-source-20261107-09",
+      "date": "2018-03-25",
+      "title": "「わたくしで隠さなきゃ」の動画ネタが記録される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "VTuber文化から生まれた動画改変・定型句の記録日。",
+      "source": "https://memeroku.com/platform/niconico/",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "internet-meme-source-20261107-10",
+      "date": "2020-04-29",
+      "title": "ゲーム配信発の「DOOG」ミームが記録される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ゲーム実況・配信文化の派生ミームとして記録される日。",
+      "source": "https://memeroku.com/family/game/",
+      "sourceType": "historical_record",
+      "importance": 3
+    },
+    {
+      "id": "internet-meme-source-20261107-11",
+      "date": "2020-08-28",
+      "title": "戌神ころね由来の「Eekum Bokum」ミームが記録される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ゲーム配信の反応を題材としたミームが海外にも広まる。",
+      "source": "https://memeroku.com/family/game/",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "internet-meme-source-20261107-12",
+      "date": "2021-09-24",
+      "title": "「帝京平成大学のここがすごい！」の音MADが記録される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "大学広告のフレーズを題材とした音MADがネットミームとして定着。",
+      "source": "https://memeroku.com/family/niconico/",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "internet-meme-source-20261107-13",
+      "date": "2022-08-30",
+      "title": "「夢って言え」関連のネットミームが記録される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "「果てしなく続く空その先にあるもの」をめぐるツッコミの定型句が広がる。",
+      "source": "https://memeroku.com/family/niconico/",
+      "sourceType": "historical_record",
+      "importance": 3
+    },
+    {
+      "id": "internet-meme-source-20261107-14",
+      "date": "2022-10-31",
+      "title": "「笑、ゥ」がネットスラングとして記録される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ニコニコ動画由来の表現として記録された日。初出日と断定しない。",
+      "source": "https://memeroku.com/family/niconico/",
+      "sourceType": "historical_record",
+      "importance": 3
+    },
+    {
+      "id": "internet-meme-source-20261107-15",
+      "date": "2023-07-21",
+      "title": "「何を四天王」ミームが記録される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ゲーム・配信文化に由来する定型句の記録日。",
+      "source": "https://memeroku.com/family/game/",
+      "sourceType": "historical_record",
+      "importance": 3
+    },
+    {
+      "id": "internet-meme-source-20261107-16",
+      "date": "2022-01-22",
+      "title": "「人の心とかないんか？」のネットミームが記録される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "漫画・アニメの台詞をネット上の定型的なツッコミとして引用する文化。",
+      "source": "https://memeroku.com/family/otaku/",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "internet-meme-source-20261107-17",
+      "date": "2024-07-14",
+      "title": "Netflix『地面師たち』本予告が公開される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "後に『もうええでしょう』などの台詞がミーム化する作品の公式予告公開日。ミーム化の日ではない。",
+      "source": "https://memeroku.com/meme/jimenshi-kobun/",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "internet-meme-source-20261107-18",
+      "date": "2024-08-07",
+      "title": "「もうええでしょう」の公式投稿が報じられる",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "『地面師たち』の台詞を使ったNetflix公式投稿が報じられた日。",
+      "source": "https://memeroku.com/meme/jimenshi-kobun/",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "internet-meme-source-20261107-19",
+      "date": "2024-12-02",
+      "title": "「もうええでしょう」が新語・流行語大賞トップテン入り",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "『地面師たち』の台詞がネット外にも広く認知された節目。",
+      "source": "https://memeroku.com/meme/jimenshi-kobun/",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "internet-meme-source-20261107-20",
+      "date": "2023-08-19",
+      "title": "「好きな惣菜発表ドラゴン」のネットミームが記録される",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "既存の楽曲初公開記録とは別に、ネットミーム年表上の記録日として区別する。",
+      "source": "https://memeroku.com/family/niconico/",
+      "sourceType": "historical_record",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 267
+    "currentDistinctMonthDays": 272
   }
 }

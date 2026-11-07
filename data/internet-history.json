@@ -7908,11 +7908,33 @@
       "source": "https://hidematu.hatenadiary.org/entry/20080309/1205043971",
       "sourceType": "contemporary_primary_blog",
       "importance": 4
+    },
+    {
+      "id": "umauma-trans-album-2008-04-16",
+      "date": "2008-04-16",
+      "title": "「ウマウマできるトランスを作ってみた」発売",
+      "category": "ネットミーム・音楽",
+      "region": "日本",
+      "summary": "ニコニコ動画で空耳・手描きMADとして大流行したスウェーデン発「Caramelldansen」を収録する日本のコンピレーションアルバムが発売。海外発のネットミームが日本の商業音楽に波及した節目。ミームの発祥日ではなく商品発売日。",
+      "source": "https://www.j-cast.com/2008/03/08017442.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "umauma-niconico-repost-2007-11-27",
+      "date": "2007-11-27",
+      "title": "「Caramelldansen」がニコニコ動画へ転載される",
+      "category": "ネットミーム・MAD",
+      "region": "日本",
+      "summary": "後に「ウッーウッーウマウマ(ﾟ∀ﾟ)」として大流行する動画の、ニコニコ動画への初期転載記録（sm1650066）。2008年2月のアイドルマスター手描きMADなどを通じて派生作品が増加した。初出・世界での発祥日とは区別する。",
+      "source": "https://w.atwiki.jp/nicoten/pages/262.html",
+      "sourceType": "contemporary_fan_documentation",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 346
+    "currentDistinctMonthDays": 348
   }
 }

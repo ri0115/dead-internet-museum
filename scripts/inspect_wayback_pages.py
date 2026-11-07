@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Check whether archived candidate pages are retrievable; never auto-verify."""
-import csv,json,re,time,urllib.request,urllib.error
+import csv,json,re,time,urllib.request,urllib.error,html as html_lib
 from pathlib import Path
 html=Path("index.html").read_text(encoding="utf-8")
 m=re.search(r'<script id="catalog" type="application/json">([\s\S]*?)</script>',html)
@@ -15,9 +15,16 @@ for r in rows:
         req=urllib.request.Request(url,headers={"User-Agent":"DeadInternetMuseumArchiveReview/1.0","Range":"bytes=0-131071"})
         with urllib.request.urlopen(req,timeout=12) as res:
             final=res.geturl()
-            content=res.read(131072).decode("utf-8","replace")
+            raw=res.read(131072)
+            head=raw[:8192].decode("ascii","ignore")
+            meta=re.search(r"charset\s*=\s*[\x22\x27]?([\w.-]+)",head,re.I)
+            charset=(meta.group(1) if meta else res.headers.get_content_charset()) or "utf-8"
+            try:
+                content=raw.decode(charset)
+            except (LookupError,UnicodeDecodeError):
+                content=raw.decode("utf-8","replace")
             match=re.search(r"<title[^>]*>(.*?)</title>",content,re.I|re.S)
-            title=re.sub(r"\s+"," ",match.group(1)).strip()[:180] if match else ""
+            title=html_lib.unescape(re.sub(r"\s+"," ",match.group(1))).strip()[:180] if match else ""
             status="http_ok" if res.status==200 else f"http_{res.status}"
             if "web.archive.org" not in final: status="redirected_outside_archive"
             if "Wayback Machine" in title or "Internet Archive" in title: status="archive_error_or_wrapper"

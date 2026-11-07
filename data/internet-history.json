@@ -3035,11 +3035,51 @@
       "importance": 4,
       "originalDateType": "company_decision_date",
       "verificationStatus": "contemporary_source_confirmed"
+    },
+    {
+      "id": "denshaotoko-book-2004",
+      "date": "2004-10-22",
+      "title": "2ちゃんねる発『電車男』が書籍化",
+      "category": "掲示板・ネット文化・出版",
+      "region": "日本",
+      "summary": "掲示板の投稿をまとめた『電車男』が新潮社から刊行された。2004年3月14日の最初の書き込みとは区別する。",
+      "source": "https://www.jstage.jst.go.jp/article/johokanri/47/12/47_12_842/_pdf/-char/ja",
+      "secondarySource": "https://2ch.fandom.com/ja/wiki/%E9%9B%BB%E8%BB%8A%E7%94%B7",
+      "sourceType": "academic_contemporary_review_and_historical_summary",
+      "importance": 5,
+      "originalDateType": "book_publication",
+      "verificationStatus": "corroborated_secondary_sources"
+    },
+    {
+      "id": "niigata-earthquake-net-volunteers-2004",
+      "date": "2004-10-24",
+      "title": "中越地震でネット有志による安否・支援情報共有が報道される",
+      "category": "掲示板・ネット社会・災害",
+      "region": "日本",
+      "summary": "新潟県中越地震の翌日、ITmediaが2ちゃんねるなどの掲示板や個人サイトで安否情報・被災地情報が共有されている状況を報道。地震の発生日（10月23日）とは区別する。",
+      "source": "https://www.itmedia.co.jp/news/article/0410/24/1041024003/",
+      "sourceType": "contemporary_report",
+      "importance": 4,
+      "originalDateType": "news_publication",
+      "verificationStatus": "contemporary_source_confirmed"
+    },
+    {
+      "id": "niigata-2ch-relief-wiki-2004",
+      "date": "2004-10-25",
+      "title": "2ちゃんねる有志の中越地震救援Wikiが紹介される",
+      "category": "掲示板・ネット社会・災害",
+      "region": "日本",
+      "summary": "INTERNET Watchの支援リンク集に『新潟中越地震 被災者救援本部@2ch Wiki』が掲載。Wiki自体の開設日ではなく紹介記事の公開日。",
+      "source": "https://internet.watch.impress.co.jp/static/link/2004/10/25/niigata.htm",
+      "sourceType": "contemporary_report",
+      "importance": 4,
+      "originalDateType": "news_publication",
+      "verificationStatus": "contemporary_source_confirmed"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Only dated, source-grounded milestones. Distinguish event, publication, announcement and follow-up. Secondary-only entries marked. HTML publication deferred.",
-    "currentDistinctMonthDays": 188
+    "policy": "Ground exact dates in cited contemporaneous sources; distinguish publication/reporting dates from origins. Site HTML unchanged.",
+    "currentDistinctMonthDays": 189
   }
 }

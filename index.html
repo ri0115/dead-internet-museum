@@ -192,6 +192,7 @@ body{background-color:#d2d8e7;background-image:radial-gradient(#a4b2ce 1px,trans
 .anniversary-day button{display:inline-block;margin:4px 7px 2px 0;padding:5px 10px;background:#fffbea;border:2px outset #ded6b6;color:#1b307e;text-decoration:underline;font-weight:bold;cursor:pointer}
 .anniversary-day button:hover{background:#fff0b0}
 .anniversary-day small{color:#555}
+.anniversary-day .anniversary-event{display:block;width:fit-content;margin:5px 0;padding:5px 9px;background:#fff8d9;border-left:3px solid #ac8328;color:#25346b;font-weight:bold;text-decoration:none}.anniversary-day .anniversary-event:hover{text-decoration:underline;background:#ffefad}
 </style></head><body data-api-base="https://dead-internet-museum-api.inaryu070.workers.dev"><div class="wrap" id="top"><div class="browserbar"><span class="drive">▣</span><strong>Dead Internet Museum - Archive Explorer [Offline HTML]</strong><span class="windowctrl" aria-hidden="true"><span>_</span><span>□</span><span>×</span></span></div>
 <div class="retro-ticker" aria-label="アーカイブのお知らせ"><span class="retro-ticker-label">★ NEW ★</span><div class="retro-ticker-track"><span class="retro-ticker-text">◆ WELCOME TO THE DEAD INTERNET MUSEUM ◆ 404 BUT FOUND. ◆ 消えたサイトの記憶を探す、インターネット・タイムマシン ◆ INTERNET TIME MACHINE ◆</span></div><span class="retro-ticker-star" aria-hidden="true">★</span></div>
 <div class="browsermenu"><span>ファイル(F)</span><span>編集(E)</span><span>表示(V)</span><span>お気に入り(A)</span><span>ヘルプ(H)</span></div>
@@ -221,26 +222,25 @@ body{background-color:#d2d8e7;background-image:radial-gradient(#a4b2ce 1px,trans
 <script>
 'use strict';
 const D=JSON.parse(document.getElementById('catalog').textContent), $=id=>document.getElementById(id);
-// Today's and yesterday's confirmed service closures, using Japan calendar dates.
-// No placeholder is shown if neither day has a reliable, day-precision record.
+// Verified internet-history milestones and service closures; fully offline.
+const HISTORY=[{"date":"2001-01-15","title":"Wikipediaが公開","category":"サービス誕生","summary":"誰でも編集できる百科事典が公開された。","source":"https://en.wikipedia.org/wiki/History_of_Wikipedia"},{"date":"2005-02-14","title":"YouTubeのWebサイトが登録される","category":"サービス誕生","summary":"動画共有サービスの始まりとなるWebサイトが登録された。","source":"https://blog.youtube/news-and-events/youtube-at-15-my-personal-journey/"},{"date":"2005-04-23","title":"YouTubeに最初の動画が投稿","category":"ネット文化","summary":"「Me at the zoo」が投稿された。","source":"https://blog.youtube/news-and-events/youtube-at-15-my-personal-journey/"},{"date":"2017-05-12","title":"WannaCryが世界規模で拡大","category":"セキュリティ","summary":"ランサムウェア感染が世界各地に拡大した。","source":"https://www.justice.gov/archives/opa/press-release/file/1092091/dl"}];
 function renderAnniversaries(){
  const board=document.getElementById('anniversaryBoard');
- const now=new Date();
- const jstParts=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(now);
- const part=k=>Number(jstParts.find(p=>p.type===k).value);
- const todayUTC=Date.UTC(part('year'),part('month')-1,part('day'));
- const labels=[['今日は何の日？',new Date(todayUTC)],['昨日',new Date(todayUTC-86400000)]];
- const days=labels.map(([title,day])=>{
-  const mm=String(day.getUTCMonth()+1).padStart(2,'0'),dd=String(day.getUTCDate()).padStart(2,'0');
-  const matches=D.filter(r=>typeof r.end==='string'&&/^\\d{4}-\\d{2}-\\d{2}$/.test(r.end)&&r.end.slice(5)===mm+'-'+dd&&r.datePrecision==='day'&&r.primary===true&&!(String(r.quality||'')+' '+String(r.sourceLabel||'')).toLowerCase().includes('secondary')&&/^(entire_service|full_service|service_end_distinct_successor)$/.test(r.scope||''));
-  return {title,mm,dd,matches};
- }).filter(x=>x.matches.length);
- if(!days.length){board.hidden=true;board.replaceChildren();return;}
- board.hidden=false;board.replaceChildren();
- for(const day of days){
+ const parts=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(new Date());
+ const part=k=>Number(parts.find(p=>p.type===k).value);
+ const today=Date.UTC(part('year'),part('month')-1,part('day'));
+ const days=[['今日は何の日？',today],['昨日',today-86400000]].map(([label,time])=>{
+  const date=new Date(time),key=String(date.getUTCMonth()+1).padStart(2,'0')+'-'+String(date.getUTCDate()).padStart(2,'0');
+  const history=HISTORY.filter(e=>e.date.slice(5)===key);
+  const closed=D.filter(r=>typeof r.end==='string'&&/^\\d{4}-\\d{2}-\\d{2}$/.test(r.end)&&r.end.slice(5)===key&&r.datePrecision==='day'&&r.primary===true&&!(String(r.quality||'')+' '+String(r.sourceLabel||'')).toLowerCase().includes('secondary')&&/^(entire_service|full_service|service_end_distinct_successor)$/.test(r.scope||''));
+  return {label,date,key,history,closed};
+ }).filter(d=>d.history.length||d.closed.length);
+ board.replaceChildren();board.hidden=!days.length;if(!days.length)return;
+ for(const d of days){
   const section=document.createElement('div');section.className='anniversary-day';
-  const heading=document.createElement('h2');heading.textContent='★ '+day.title+'  '+Number(day.mm)+'月'+Number(day.dd)+'日';section.appendChild(heading);
-  for(const r of day.matches){const btn=document.createElement('button');btn.type='button';btn.textContent='✝ '+r.name+'（'+r.end.slice(0,4)+'年終了）';btn.addEventListener('click',()=>openDetail(r.id));section.appendChild(btn);}
+  const h=document.createElement('h2');h.textContent='★ '+d.label+'　'+(d.date.getUTCMonth()+1)+'月'+d.date.getUTCDate()+'日';section.appendChild(h);
+  for(const e of d.history){const a=document.createElement('a');a.href=e.source;a.target='_blank';a.rel='noopener noreferrer';a.className='anniversary-event';a.textContent='◆ '+e.date.slice(0,4)+'年 '+e.title+' ［'+e.category+'］';a.title=e.summary+'（出典を開く）';section.appendChild(a);}
+  for(const r of d.closed){const btn=document.createElement('button');btn.type='button';btn.textContent='✝ '+r.name+'（'+r.end.slice(0,4)+'年終了）';btn.addEventListener('click',()=>openDetail(r.id));section.appendChild(btn);}
   board.appendChild(section);
  }
 }

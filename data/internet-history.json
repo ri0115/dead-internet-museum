@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "description": "Major events in internet history; separate from defunct services catalog. Dates are source-supported event dates, not article publication dates.",
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "events": [
     {
       "id": "wikipedia-launch-2001",
@@ -7380,11 +7380,22 @@
       "source": "https://www.nicovideo.jp/watch/sm39160527",
       "sourceType": "historical_record",
       "importance": 4
+    },
+    {
+      "id": "taberungo-original-upload-2020-01-11",
+      "date": "2020-01-11",
+      "title": "「たべるんごのうた」がニコニコ動画に投稿される",
+      "category": "ネットミーム",
+      "region": "日本",
+      "summary": "バチによる短い楽曲動画が投稿された。山形りんごと辻野あかりを題材とし、後に大量の派生MADが生まれた。",
+      "source": "https://www.nicovideo.jp/watch/sm36210300",
+      "sourceType": "original_upload",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 302
+    "currentDistinctMonthDays": 303
   }
 }

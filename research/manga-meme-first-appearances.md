@@ -98,3 +98,15 @@
 - HUNTER×HUNTERのNo.096は有力だが、雑誌掲載号と実売日が未確認のためカレンダー未追加。
 - ONE PIECEの「ルフィ誤認」は漫画ミームの拡散史として別扱い。存在しない原作セリフに架空の掲載日を付けない。
 - 他作品も、単行本巻数から発売日を逆算しない。
+
+## 第170次監査（2026-11-08）｜ONE PIECEとHUNTER×HUNTER
+
+| ミーム | 原作の登場話 | 本誌掲載号 | 実売日 | 判定 | 出典 |
+|---|---|---|---|---|---|
+| 敗北者じゃけェ…!!! | ONE PIECE 第573話「この時代の名を“白ひげ”と呼ぶ」 | 週刊少年ジャンプ2010年10号 | **2010-02-08** | **公開可・本番登録済** | https://onepiecepage.blog72.fc2.com/blog-entry-3415.html ; https://www.shueisha.co.jp/books/items/contents.html?jdcn=08870045872509315501 ; https://www.jajanken.net/sakuhins/aAg89lnKZQ |
+| 人の夢は!!! 終わらねェ!!!! | ONE PIECE 第225話「人の夢」。集英社マンガアートヘリテージがセリフと話数を明記 | 週刊少年ジャンプ掲載号を調査中 | 未確定 | 公式原作対応確認・掲載号待ち | https://mangaart.jp/ja/works/OP_TP_010 ; https://shonenjumpplus.com/episode/13932016480028738048 |
+| おそろしく速い手刀 オレでなきゃ見逃しちゃうね | HUNTER×HUNTER No.096「9月3日⑫」 | **週刊少年ジャンプ2000年41号** | 未確定 | 掲載号確定・発売日待ち | https://www.jajanken.net/sakuhins/b9anmLwOAR ; https://sokumaga-news.com/pickup/hunterhunter11-96/ |
+
+- 『ONE PIECE』第573話は集英社58巻目次と文化庁メディア芸術DB由来の掲載号データで裏付け。発売日は当時の読者記録で確認。
+- 第225話の2016年9月12日はジャンプ＋の**電子配信ページ日付**であり、原作の本誌初出日ではない。
+- HUNTER×HUNTERの第96話は2000年41号。『9月3日⑪』『⑫』という表記揺れがあるが、掲載データベースは『⑫』を採用。

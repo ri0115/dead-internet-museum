@@ -6764,6 +6764,50 @@
       "source": "https://internet.watch.impress.co.jp/docs/yajiuma/2066595.html",
       "sourceType": "contemporary_reporting",
       "importance": 5
+    },
+    {
+      "id": "internet-history-80-01",
+      "date": "2024-11-21",
+      "title": "「ネット流行語100」2024年のノミネート100語が発表",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "2024年のネット流行語100ノミネート語が発表された。ニコニコ大百科・ピクシブ百科事典の閲覧増加を基に選ばれた候補群。個々のミームの初出日ではない。",
+      "source": "https://nettrend100.jp/2024/",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "internet-history-80-02",
+      "date": "2024-12-18",
+      "title": "「ネット流行語100」2024年間大賞と特別賞が決定",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "年間大賞は『機動戦士ガンダムSEED FREEDOM』。ネット文化に特徴的な賞として『エビ揉め』がニコニコ賞、『好きな惣菜発表ドラゴン』がネット新語賞を受賞した。",
+      "source": "https://group.kadokawa.co.jp/information/promotional_topics/article-11295.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-80-03",
+      "date": "2025-11-05",
+      "title": "「エッホエッホ」が2025年新語・流行語大賞にノミネート",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "メンフクロウのヒナの写真を元にSNSで拡散した『エッホエッホ』が新語・流行語大賞候補に選ばれた。初出日ではなくノミネート発表日。",
+      "source": "https://news.tv-asahi.co.jp/news_economy/articles/900177130.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "internet-history-80-04",
+      "date": "2025-11-05",
+      "title": "ChatGPTの愛称「チャッピー」が新語・流行語大賞にノミネート",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "ChatGPTの愛称『チャッピー』が2025年の新語・流行語大賞候補に選出された。呼称の起源は不明で、初出日とは区別する。",
+      "source": "https://www.itmedia.co.jp/aiplus/article/2511/05/1251105097/",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
     }
   ],
   "coverage": {

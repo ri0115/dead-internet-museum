@@ -1687,11 +1687,231 @@
       "source": "https://www.nic.ad.jp/timeline/#201209",
       "sourceType": "historical_timeline",
       "importance": 4
+    },
+    {
+      "id": "jpnic-201304",
+      "date": "2013-04-19",
+      "title": "ネット選挙運動解禁につながる改正公職選挙法が成立",
+      "category": "ネット法制度",
+      "region": "日本",
+      "summary": "WebサイトやSNSを使った選挙運動を一定の範囲で認める法改正が成立。施行日とは区別する。",
+      "source": "https://www.nic.ad.jp/timeline/#201304",
+      "sourceType": "historical_timeline",
+      "importance": 5
+    },
+    {
+      "id": "jpnic-201314",
+      "date": "2013-07-02",
+      "title": "フリマアプリ「メルカリ」Android版公開",
+      "category": "アプリ・ネット文化",
+      "region": "日本",
+      "summary": "スマートフォンで出品・購入できるメルカリのAndroid版が公開された。",
+      "source": "https://www.nic.ad.jp/timeline/#201314",
+      "sourceType": "historical_timeline",
+      "importance": 5
+    },
+    {
+      "id": "jpnic-201309",
+      "date": "2013-10-07",
+      "title": "インターネット関連10団体がモンテビデオ声明を発表",
+      "category": "ネットガバナンス",
+      "region": "世界",
+      "summary": "技術調整機関がグローバルなインターネット運営について共同声明を発表。",
+      "source": "https://www.nic.ad.jp/timeline/#201309",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-201310",
+      "date": "2013-10-23",
+      "title": "新gTLDの最初の4件がDNSルートに追加",
+      "category": "ドメイン",
+      "region": "世界",
+      "summary": "国際化ドメイン名による新gTLDが初めてDNSルートゾーンに追加された。",
+      "source": "https://www.nic.ad.jp/timeline/#201310",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-201312",
+      "date": "2013-11-13",
+      "title": "Google Glass Explorerプログラム一般募集開始",
+      "category": "ウェアラブル・ネット文化",
+      "region": "世界",
+      "summary": "Google GlassのExplorerプログラムで一般向け募集が始まった。",
+      "source": "https://www.nic.ad.jp/timeline/#201312",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-201402",
+      "date": "2014-01-21",
+      "title": "国立国会図書館が図書館向けデジタル化資料送信を開始",
+      "category": "デジタルアーカイブ",
+      "region": "日本",
+      "summary": "絶版等のデジタル化資料を参加図書館へ送信するサービスが始まった。",
+      "source": "https://www.nic.ad.jp/timeline/#201402",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-201403",
+      "date": "2014-01-29",
+      "title": "「.tokyo」「.nagoya」がDNSルートに追加",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "日本の地理的名称を用いた新gTLDがDNSに追加された。",
+      "source": "https://www.nic.ad.jp/timeline/#201403",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-201421",
+      "date": "2014-06-12",
+      "title": "一般用医薬品のネット販売を広げる改正薬事法が施行",
+      "category": "EC・ネット法制度",
+      "region": "日本",
+      "summary": "一定の条件下で第1〜3類一般用医薬品のネット販売が認められた。",
+      "source": "https://www.nic.ad.jp/timeline/#201421",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-201423",
+      "date": "2014-06-24",
+      "title": "ドコモが国内初のVoLTEサービスを開始",
+      "category": "モバイル・ネット文化",
+      "region": "日本",
+      "summary": "LTE回線を使う音声通話サービスVoLTEの国内提供が始まった。",
+      "source": "https://www.nic.ad.jp/timeline/#201423",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-201429",
+      "date": "2014-10-28",
+      "title": "HTML5がW3C勧告となる",
+      "category": "Web技術",
+      "region": "世界",
+      "summary": "HTML5がW3C勧告として正式に公開された。",
+      "source": "https://www.nic.ad.jp/timeline/#201429",
+      "sourceType": "historical_timeline",
+      "importance": 5
+    },
+    {
+      "id": "jpnic-201435",
+      "date": "2014-11-06",
+      "title": "サイバーセキュリティ基本法が成立",
+      "category": "ネット法制度",
+      "region": "日本",
+      "summary": "日本のサイバーセキュリティ政策の基本的枠組みを定める法律が成立。",
+      "source": "https://www.nic.ad.jp/timeline/#201435",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-201433",
+      "date": "2014-12-13",
+      "title": "「.osaka」がDNSルートに追加",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "大阪を表す新gTLDがDNSに追加された。",
+      "source": "https://www.nic.ad.jp/timeline/#201433",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-201502",
+      "date": "2015-01-28",
+      "title": "「.kyoto」がDNSルートに追加",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "京都を表す新gTLDがDNSに追加された。",
+      "source": "https://www.nic.ad.jp/timeline/#201502",
+      "sourceType": "historical_timeline",
+      "importance": 3
+    },
+    {
+      "id": "jpnic-201518",
+      "date": "2015-04-24",
+      "title": "Apple Watch発売",
+      "category": "ウェアラブル・ネット文化",
+      "region": "世界",
+      "summary": "AppleのスマートウォッチApple Watchが発売された。",
+      "source": "https://www.nic.ad.jp/timeline/#201518",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-201529",
+      "date": "2015-07-29",
+      "title": "Windows 10の提供開始",
+      "category": "OS・ネット文化",
+      "region": "世界",
+      "summary": "MicrosoftがWindows 10の無償アップグレード提供を開始した。",
+      "source": "https://www.nic.ad.jp/timeline/#201529",
+      "sourceType": "historical_timeline",
+      "importance": 5
+    },
+    {
+      "id": "jpnic-201531",
+      "date": "2015-09-24",
+      "title": "ARINのIPv4アドレス在庫が枯渇",
+      "category": "ネットワーク基盤",
+      "region": "北米",
+      "summary": "北米地域インターネットレジストリARINがIPv4アドレスの在庫枯渇を迎えた。",
+      "source": "https://www.nic.ad.jp/timeline/#201531",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-201539",
+      "date": "2015-09-30",
+      "title": "ソラコムがIoTプラットフォームを開始",
+      "category": "IoT・ネットサービス",
+      "region": "日本",
+      "summary": "SORACOMのIoT向け通信プラットフォームサービスが始まった。",
+      "source": "https://www.nic.ad.jp/timeline/#201539",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-201626",
+      "date": "2016-04-11",
+      "title": "AbemaTVが正式サービス開始",
+      "category": "動画・ネット文化",
+      "region": "日本",
+      "summary": "インターネットテレビサービスAbemaTVが正式に開始された。",
+      "source": "https://www.nic.ad.jp/timeline/#201626",
+      "sourceType": "historical_timeline",
+      "importance": 5
+    },
+    {
+      "id": "jpnic-201620",
+      "date": "2016-09-05",
+      "title": "LINEモバイルがサービス開始",
+      "category": "モバイル・ネット文化",
+      "region": "日本",
+      "summary": "LINEモバイルが通信サービスの提供を開始した。",
+      "source": "https://www.nic.ad.jp/timeline/#201620",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-201621",
+      "date": "2016-10-01",
+      "title": "IANA機能の米政府監督権限が移管",
+      "category": "ネットガバナンス",
+      "region": "世界",
+      "summary": "IANA機能に対する米国政府の監督が終了し、マルチステークホルダー体制へ移行した。",
+      "source": "https://www.nic.ad.jp/timeline/#201621",
+      "sourceType": "historical_timeline",
+      "importance": 5
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Source-verified day-level dates, no month-only extrapolation. HTML update deferred.",
-    "currentDistinctMonthDays": 120
+    "policy": "Exact day and cited historical timeline required; do not invent dates. HTML publication deferred.",
+    "currentDistinctMonthDays": 133
   }
 }

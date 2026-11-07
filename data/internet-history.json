@@ -3653,11 +3653,141 @@
       "importance": 4,
       "originalDateType": "app_release",
       "verificationStatus": "contemporary_report_confirmed"
+    },
+    {
+      "id": "tokumei-radio-100-event-2018",
+      "date": "2018-05-27",
+      "title": "匿名ラジオ100回記念イベント開催",
+      "category": "ネットラジオ・オモコロ",
+      "region": "日本",
+      "summary": "オモコロ公式年表に記録された匿名ラジオ100回記念イベント。番組開始日や第100回配信日とは区別。",
+      "source": "https://omocoro.jp/about/",
+      "sourceType": "official_site_timeline",
+      "importance": 4,
+      "originalDateType": "official_dated_milestone",
+      "verificationStatus": "official_or_publisher_source_confirmed"
+    },
+    {
+      "id": "omocoro-store-2018",
+      "date": "2018-06-13",
+      "title": "オモコロストア開設",
+      "category": "ネットメディア・EC",
+      "region": "日本",
+      "summary": "オモコロ公式年表に記録されたオモコロストア開設日。",
+      "source": "https://omocoro.jp/about/",
+      "sourceType": "official_site_timeline",
+      "importance": 3,
+      "originalDateType": "official_dated_milestone",
+      "verificationStatus": "official_or_publisher_source_confirmed"
+    },
+    {
+      "id": "omocoro-channel-start-2019",
+      "date": "2019-05-09",
+      "title": "オモコロチャンネルが動画投稿を始動",
+      "category": "YouTube・ネットメディア",
+      "region": "日本",
+      "summary": "オモコロ公式年表の『オモコロチャンネルがスタート』の日付。運営会社の媒体資料にあるチャンネルアカウント開設日2019年4月9日とは区別する。",
+      "source": "https://omocoro.jp/about/",
+      "sourceType": "official_site_timeline",
+      "importance": 5,
+      "originalDateType": "editorial_video_launch",
+      "verificationStatus": "official_or_publisher_source_confirmed"
+    },
+    {
+      "id": "omocoro-channel-account-2019",
+      "date": "2019-04-09",
+      "title": "オモコロチャンネルのYouTubeアカウント開設",
+      "category": "YouTube・ネットメディア",
+      "region": "日本",
+      "summary": "運営会社バーグハンバーグバーグの2026年版メディアガイドにある『チャンネル開設日』。動画メディア始動の2019年5月9日とは別の節目。",
+      "source": "https://bhb.co.jp/assets/pdf/channel_Mediaguide.pdf",
+      "sourceType": "official_media_guide",
+      "importance": 4,
+      "originalDateType": "account_creation",
+      "verificationStatus": "official_or_publisher_source_confirmed"
+    },
+    {
+      "id": "omocoro-hokahoka-2019",
+      "date": "2019-07-02",
+      "title": "オモコロの「ほかほかおにぎりクラブ」開始",
+      "category": "ネットメディア・会員コミュニティ",
+      "region": "日本",
+      "summary": "オモコロ公式年表に記録された会員コミュニティの開始日。",
+      "source": "https://omocoro.jp/about/",
+      "sourceType": "official_site_timeline",
+      "importance": 4,
+      "originalDateType": "official_dated_milestone",
+      "verificationStatus": "official_or_publisher_source_confirmed"
+    },
+    {
+      "id": "omocoro-bros-2019",
+      "date": "2019-08-13",
+      "title": "ヌートンが「オモコロ ブロス！」へ改名",
+      "category": "ネットメディア・サイト文化",
+      "region": "日本",
+      "summary": "オモコロ公式年表によるリニューアル日。",
+      "source": "https://omocoro.jp/about/",
+      "sourceType": "official_site_timeline",
+      "importance": 3,
+      "originalDateType": "official_dated_milestone",
+      "verificationStatus": "official_or_publisher_source_confirmed"
+    },
+    {
+      "id": "henna-ie-omocoro-2020",
+      "date": "2020-10-12",
+      "title": "雨穴の『変な家』がオモコロに公開",
+      "category": "ネットメディア・ウェブ創作",
+      "region": "日本",
+      "summary": "オモコロ公式年表に『変な家』公開日として掲載。ウェブ発コンテンツが後に書籍・映画へ広がった代表例。",
+      "source": "https://omocoro.jp/about/",
+      "sourceType": "official_site_timeline",
+      "importance": 5,
+      "originalDateType": "official_dated_milestone",
+      "verificationStatus": "official_or_publisher_source_confirmed"
+    },
+    {
+      "id": "wani-first-post-2019",
+      "date": "2019-12-12",
+      "title": "『100日後に死ぬワニ』連載開始",
+      "category": "SNS漫画・ネットミーム",
+      "region": "日本",
+      "summary": "きくちゆうきがTwitterに第1話を19時に投稿。出版社の2020年3月20日付発表が開始日時を明記。",
+      "source": "https://shogakukan-comic.jp/news/23934",
+      "sourceType": "publisher_contemporary_announcement",
+      "importance": 5,
+      "originalDateType": "first_original_post",
+      "verificationStatus": "official_or_publisher_source_confirmed"
+    },
+    {
+      "id": "wani-final-post-2020",
+      "date": "2020-03-20",
+      "title": "『100日後に死ぬワニ』最終回公開",
+      "category": "SNS漫画・ネットミーム",
+      "region": "日本",
+      "summary": "Twitterで第100話が19時に投稿され完結。小学館の当日発表および当時の報道で確認。",
+      "source": "https://shogakukan-comic.jp/news/23934",
+      "sourceType": "publisher_contemporary_announcement",
+      "importance": 5,
+      "originalDateType": "final_original_post",
+      "verificationStatus": "official_or_publisher_source_confirmed"
+    },
+    {
+      "id": "wani-commercialization-2020",
+      "date": "2020-03-21",
+      "title": "『100日後に死ぬワニ』の映画化などが発表",
+      "category": "SNS漫画・ネット炎上",
+      "region": "日本",
+      "summary": "最終回翌日に映画化などの展開が発表され、商業化のタイミングをめぐってネット上で議論が広がった。2021年のITmedia記事が発表日を明記。",
+      "source": "https://www.itmedia.co.jp/news/article/2102/17/1210217108/",
+      "sourceType": "retrospective_contemporary_media",
+      "importance": 4,
+      "originalDateType": "commercial_announcement",
+      "verificationStatus": "secondary_explicit_date"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Dated primary or contemporary milestones, distinguish media coverage from original launch. Flag conflicting dates. HTML unchanged.",
-    "currentDistinctMonthDays": 210
+    "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
+    "currentDistinctMonthDays": 212
   }
 }

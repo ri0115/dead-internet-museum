@@ -7963,6 +7963,39 @@
       "source": "https://www.j-cast.com/2008/03/08017442.html",
       "sourceType": "contemporary_reporting",
       "importance": 4
+    },
+    {
+      "id": "gachimuchi-first-niconico-upload-2007-08-10",
+      "date": "2007-08-10",
+      "title": "「本格的 ガチムチパンツレスリング」初期動画が投稿",
+      "category": "ネットミーム・MAD",
+      "region": "日本",
+      "summary": "ニコニコ動画に初期のガチムチパンツレスリング動画（sm809738）が投稿されたと記録される。海外映像が日本独自の空耳・音MAD文化に発展した起点。後の2007年9月30日投稿の現存版とは区別する。",
+      "source": "https://w.atwiki.jp/billy_h/pages/19.html",
+      "sourceType": "fan_history_secondary",
+      "importance": 5
+    },
+    {
+      "id": "gachimuchi-reupload-2007-09-30",
+      "date": "2007-09-30",
+      "title": "「本格的 ガチムチパンツレスリング」現存版が投稿",
+      "category": "ネットミーム・MAD",
+      "region": "日本",
+      "summary": "初期投稿の削除後、ニコニコ動画に再投稿された動画（sm1175788）。空耳や音MADの素材として広がり、2008年のニコニコランキングでも人気を維持した。初投稿の8月10日とは区別する。",
+      "source": "https://nicoranweb.com/ranking/special/4",
+      "sourceType": "contemporary_ranking_archive",
+      "importance": 5
+    },
+    {
+      "id": "airmoto-original-mad-2007-11-30",
+      "date": "2007-11-30",
+      "title": "「頭がパーン」MAD投稿、エア本さん文化の起点に",
+      "category": "ネットミーム・MAD",
+      "region": "日本",
+      "summary": "『久本雅美の頭がカービィのBGMに合わせて爆発したようです。』（sm1653651）がニコニコ動画に投稿された日。後に「エア本さん」と呼ばれる音MAD・二次創作ジャンルへ発展した。",
+      "source": "https://kimu3.net/20160910/5050",
+      "sourceType": "retrospective_explainer",
+      "importance": 5
     }
   ],
   "coverage": {

@@ -1,0 +1,17 @@
+name: Review Wayback candidates
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit candidate metadata
+        run: python3 scripts/audit_snapshot_candidates.py
+      - name: Upload review CSV
+        uses: actions/upload-artifact@v4
+        with:
+          name: snapshot-review-${{ github.run_number }}
+          path: snapshot-review.csv

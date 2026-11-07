@@ -1,0 +1,38 @@
+{
+  "updated": "2026-11-07",
+  "purpose": "流行語候補の全件照合の進捗管理。年表収録数は流行語候補の網羅率ではない。",
+  "sources": [
+    {
+      "name": "ネット流行語100",
+      "years": "2018-2025",
+      "expectedNomineesPerYear": 100,
+      "expectedTotal": 800,
+      "source": "https://nettrend100.jp/",
+      "status": "not_fully_audited"
+    },
+    {
+      "name": "新語・流行語大賞",
+      "years": "yearly; scope to define",
+      "source": "https://www.jiyu.co.jp/singo/",
+      "status": "not_fully_audited"
+    }
+  ],
+  "currentAtlas": {
+    "events": 649,
+    "distinctMonthDays": 302
+  },
+  "rules": [
+    "候補語はそのまま年表に機械登録しない",
+    "原投稿・公開日、拡散日、受賞日を区別",
+    "作品・人物名とネット固有のミームを区別",
+    "候補ごとに included, not_relevant, research_needed, date_unknown の状態を付ける",
+    "一次資料URLを優先し日付未確定は捏造しない"
+  ],
+  "priority": [
+    "ネット流行語100の2018-2025年候補全800語を年別に取得",
+    "既存年表とのタイトル・別名照合",
+    "ネット発ミームを優先し未収録の初出を調査",
+    "新語・流行語大賞のネット文化関連語も別表で照合"
+  ],
+  "note": "現時点で候補800語の全件照合は未実施。網羅済みとは表現しない。"
+}

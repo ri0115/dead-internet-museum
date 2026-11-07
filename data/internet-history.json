@@ -7611,11 +7611,44 @@
       "source": "https://www.apple.com/newsroom/2007/06/28iPhone-Premieres-This-Friday-Night-at-Apple-Retail-Stores/",
       "sourceType": "operator",
       "importance": 5
+    },
+    {
+      "id": "megaupload-shutdown-2012-01-19",
+      "date": "2012-01-19",
+      "title": "ファイル共有サイト「Megaupload」が閉鎖",
+      "category": "ネット事件・サービス終了",
+      "region": "世界",
+      "summary": "米司法省による著作権侵害事件の捜査でMegauploadが閉鎖され、ドメインやサーバーが差し押さえられた。大規模ファイル共有サイトの閉鎖としてネット文化に衝撃を与えた。",
+      "source": "https://www.justice.gov/archives/opa/pr/justice-department-charges-leaders-megaupload-widespread-online-copyright-infringement",
+      "sourceType": "government_primary",
+      "importance": 5
+    },
+    {
+      "id": "notpetya-outbreak-2017-06-27",
+      "date": "2017-06-27",
+      "title": "破壊型マルウェア「NotPetya」が世界的に拡散",
+      "category": "ネット事件・セキュリティ",
+      "region": "世界",
+      "summary": "ウクライナのソフトウェア更新経路を起点とする攻撃が広範囲に波及し、世界各地の企業や組織で障害が発生した。Microsoftの当日付調査記事で確認。",
+      "source": "https://www.microsoft.com/en-us/security/blog/2017/06/27/new-ransomware-old-techniques-petya-adds-worm-capabilities/",
+      "sourceType": "operator_primary",
+      "importance": 5
+    },
+    {
+      "id": "google-plus-announced-2011-06-28",
+      "date": "2011-06-28",
+      "title": "GoogleがSNS「Google+」を発表",
+      "category": "SNS・ネット文化",
+      "region": "世界",
+      "summary": "Googleがサークルやハングアウトを特徴とするGoogle+プロジェクトを発表。初期は招待制で展開された。日本語の+1ボタン対応とは別の出来事。",
+      "source": "https://googleblog.blogspot.com/2011/06/introducing-google-project-real-life.html?hl=en_GB",
+      "sourceType": "operator_primary",
+      "importance": 5
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 322
+    "currentDistinctMonthDays": 324
   }
 }

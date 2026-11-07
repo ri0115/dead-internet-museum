@@ -7171,11 +7171,66 @@
       "source": "https://www.itmedia.co.jp/news/article/2309/08/1230908176/",
       "sourceType": "contemporary_reporting",
       "importance": 5
+    },
+    {
+      "id": "takopi-start-2021-12-10",
+      "date": "2021-12-10",
+      "title": "『タコピーの原罪』が少年ジャンプ＋で連載開始",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "2021年12月10日、タイザン5のWeb漫画『タコピーの原罪』第1話が公開。毎週の更新に対するSNS上の反響が大きく、ネット上の考察・感想文化を象徴する作品となった。作品公開日であり特定の台詞ミームの初出日ではない。",
+      "source": "https://shonenjumpplus.com/episode/3269754496638370192",
+      "sourceType": "historical_record",
+      "importance": 4
+    },
+    {
+      "id": "takopi-finale-2022-03-25",
+      "date": "2022-03-25",
+      "title": "『タコピーの原罪』最終回、公開当日に300万閲覧超",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "『タコピーの原罪』第16話が少年ジャンプ＋で公開され完結。最終回公開当日の閲覧数は同アプリで初めて300万を超え、SNSの話題がWeb漫画の読者拡大に結びついた事例となった。",
+      "source": "https://www.oricon.co.jp/news/2229277/full/",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "mefilas-official-video-2022-06-05",
+      "date": "2022-06-05",
+      "title": "『シン・ウルトラマン』メフィラス名場面映像が公式公開",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "東宝MOVIEチャンネルがメフィラスの名場面映像をYouTubeに公開。『私の好きな言葉です』という言い回しが公式映像でも前面に出され、ネットでの『メフィラス構文』拡散を後押しした。YouTube表示の公開日を採用。",
+      "source": "https://www.youtube.com/watch?v=MXSEWBZypt8",
+      "sourceType": "operator",
+      "importance": 4
+    },
+    {
+      "id": "mefilas-crosspromo-2022-06-10",
+      "date": "2022-06-10",
+      "title": "『シン・仮面ライダー』公式が「メフィラス構文」で応答",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "『シン・ウルトラマン』公式のメフィラス投稿に『シン・仮面ライダー』公式アカウントが『私も好きな言葉です』と反応。映画の台詞から生まれたネット構文が公式同士の宣伝にも使われた。",
+      "source": "https://www.oricon.co.jp/news/2238089/full/",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
+    },
+    {
+      "id": "mefilas-line-stamps-2022-08-25",
+      "date": "2022-08-25",
+      "title": "「私の好きな言葉です」が公式LINEスタンプに登場",
+      "category": "ネット文化・保存",
+      "region": "日本",
+      "summary": "円谷プロダクションが映画『シン・ウルトラマン』のLINEスタンプを発売。メフィラスの『私の好きな言葉です』『私の苦手な言葉です』も収録され、ネットで流行した構文が公式商品に取り込まれた。",
+      "source": "https://www.itmedia.co.jp/news/article/2208/25/1220825207/",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 299
+    "currentDistinctMonthDays": 300
   }
 }

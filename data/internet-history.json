@@ -2409,11 +2409,59 @@
       "source": "https://www.j-cast.com/2007/11/11013088.html",
       "sourceType": "contemporary_report",
       "importance": 5
+    },
+    {
+      "id": "nico-kumikyoku-2007",
+      "date": "2007-06-23",
+      "title": "「組曲『ニコニコ動画』」投稿",
+      "category": "ネットミーム・動画",
+      "region": "日本",
+      "summary": "しもによる33曲のメドレーが投稿。コメントや弾幕文化を象徴する初期ニコニコの代表作。",
+      "source": "https://originalnews.nico/425416",
+      "sourceType": "platform_operator",
+      "importance": 5,
+      "originalUrl": "https://www.nicovideo.jp/watch/sm500873"
+    },
+    {
+      "id": "nico-airman-original-2007",
+      "date": "2007-05-26",
+      "title": "「エアーマンが倒せない」初期カラオケ版投稿",
+      "category": "ネットミーム・ゲーム",
+      "region": "日本",
+      "summary": "せらみかるによる初期版が公開。後の歌唱・アレンジ版と区別する。",
+      "source": "https://knowyourmeme.com/memes/cant-beat-air-man-air-man-ga-taosenai",
+      "sourceType": "secondary_historical_archive",
+      "importance": 5,
+      "originalUrl": "https://www.nicovideo.jp/watch/sm350170",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "nico-airman-neko-2007",
+      "date": "2007-07-01",
+      "title": "「エアーマンが倒せない」TEAMねこかん版投稿",
+      "category": "ネットミーム・ゲーム",
+      "region": "日本",
+      "summary": "歌唱とドット絵アニメーションを備えたTEAMねこかん版が公開。初期カラオケ版とは別。",
+      "source": "https://originalnews.nico/426800",
+      "sourceType": "platform_operator",
+      "importance": 5,
+      "originalUrl": "https://www.nicovideo.jp/watch/sm542936"
+    },
+    {
+      "id": "nico-nakaddict-2007",
+      "date": "2007-06-05",
+      "title": "「ニコニコ動画中毒の方へ贈る一曲」投稿",
+      "category": "ネットミーム・動画",
+      "region": "日本",
+      "summary": "後の「組曲『ニコニコ動画』」につながる、初期ニコニコ楽曲メドレーが投稿された。",
+      "source": "https://gigazine.net/news/20240617-niconico-re-kari-matome/",
+      "sourceType": "secondary_historical_report",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Only day-verified events. Distinguish original creation, repost and viral spread; mark secondary-only sources. Site HTML remains unchanged.",
-    "currentDistinctMonthDays": 159
+    "policy": "Exact-day evidence; distinguish first upload, alternate version and viral spread; mark secondary sources.",
+    "currentDistinctMonthDays": 162
   }
 }

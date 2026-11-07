@@ -7556,11 +7556,33 @@
       "source": "https://developers.googleblog.com/cast-content-from-your-apps-to-tv-with-the-google-cast-sdk/",
       "sourceType": "operator",
       "importance": 4
+    },
+    {
+      "id": "goto-san-bocchi-parody-2022-11-10",
+      "date": "2022-11-10",
+      "title": "「後藤さんちんぽデカいのね～」声真似動画が投稿",
+      "category": "ネットミーム",
+      "region": "日本",
+      "summary": "アニメ『ぼっち・ざ・ろっく！』の登場人物の声を模したパロディ動画がTwitterに投稿され、音声MADなどへ派生した。元投稿の日付であり作品の放送日ではない。",
+      "source": "https://knowyourmeme.com/memes/goto-san-you-have-a-huge-cock",
+      "sourceType": "meme_origin_with_post",
+      "importance": 3
+    },
+    {
+      "id": "old-town-road-twitter-remix-2019-06-25",
+      "date": "2019-06-25",
+      "title": "「Old Town Road」替え歌ツイートを本人が歌う動画が公開",
+      "category": "ネットミーム",
+      "region": "世界",
+      "summary": "Lil Nas XがファンによるTwitter上の替え歌スレッドを自ら歌いながらスクロールする動画を投稿。ネット上の二次創作と原作者の応答が交差した一例。曲の初公開日ではない。",
+      "source": "https://knowyourmeme.com/memes/old-town-road",
+      "sourceType": "meme_origin_with_post",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 317
+    "currentDistinctMonthDays": 319
   }
 }

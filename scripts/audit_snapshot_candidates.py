@@ -1,12 +1,21 @@
 #!/usr/bin/env python3
 """Audit candidate snapshot metadata and flag suspicious dates; never auto-verify."""
-import csv,json,re,datetime
+import csv,json,re,datetime,urllib.parse
 from pathlib import Path
 root=Path(__file__).resolve().parents[1]
 html=(root/"index.html").read_text(encoding="utf-8")
 m=re.search(r'<script id="catalog" type="application/json">([\s\S]*?)</script>',html)
 if not m:raise SystemExit("Catalog missing")
 records=json.loads(m.group(1))
+def normalized_host(url):
+    try:
+        p=urllib.parse.urlsplit(url)
+        return (p.hostname or "").lower().removeprefix("www.")
+    except ValueError:
+        return ""
+def normalized_path(url):
+    p=urllib.parse.urlsplit(url)
+    return (p.path or "/").rstrip("/") or "/"
 rows=[]
 for r in records:
     url=r.get("candidateSnapshot")
@@ -20,8 +29,15 @@ for r in records:
         flags.append("capture_after_closure")
     elif re.fullmatch(r'\d{4}',end) and capture and capture[:4]>end:
         flags.append("capture_after_end_year")
-    if r.get("original") and url and r["original"].lower().rstrip("/") not in url.lower():
-        flags.append("original_url_differs")
+    archived_original=url.split("/web/"+stamp.group(1)+"/",1)[-1] if stamp else ""
+    original=r.get("original") or ""
+    if urllib.parse.urlsplit(archived_original).username:
+        flags.append("archived_url_contains_credentials")
+    if original and archived_original:
+        if normalized_host(original)!=normalized_host(archived_original):
+            flags.append("different_host")
+        elif normalized_path(original)!=normalized_path(archived_original):
+            flags.append("different_path")
     rows.append(dict(id=r["id"],name=r["name"],end=end,capture=capture,candidate_url=url,flags=";".join(flags),review_status="needs_manual_review"))
 out=root/"snapshot-review.csv"
 with out.open("w",newline="",encoding="utf-8-sig") as f:

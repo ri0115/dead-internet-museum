@@ -2525,11 +2525,38 @@
       "importance": 5,
       "originalDateType": "original_forum_post",
       "verificationStatus": "reproduced_timestamp_and_reporting"
+    },
+    {
+      "id": "samejima-thread-2001",
+      "date": "2001-05-24",
+      "title": "ネット都市伝説「鮫島事件」の初期スレッドが立つ",
+      "category": "有名コピペ・ネット都市伝説",
+      "region": "日本",
+      "summary": "2ちゃんねる・ラウンジ板に「伝説の『鮫島スレ』について語ろう」が投稿され、具体的な内容が示されない『語ってはいけない事件』という共同創作が広がった。実在事件ではない。",
+      "source": "https://www.j-cast.com/2018/11/26344565.html",
+      "sourceType": "journalistic_retrospective_with_forum_reference",
+      "importance": 5,
+      "originalDateType": "first_surviving_thread",
+      "verificationStatus": "corroborated_secondary_sources",
+      "secondarySource": "https://www.toshidensetsu-labo.net/sharekowa-shoshutsu-nenpyo/"
+    },
+    {
+      "id": "uchu-yabai-thread-2001",
+      "date": "2001-06-16",
+      "title": "「宇宙ヤバイ」スレッドが立つ",
+      "category": "有名コピペ・掲示板",
+      "region": "日本",
+      "summary": "2ちゃんねる哲学板に「宇宙ヤバイ」スレッドが立ったとされる。後年広まった「ヤバイ。宇宙ヤバイ。」の定型文そのものの初投稿日ではなく、関連スレッドの開始日。",
+      "source": "https://moto-neta.com/net/uchuyabai/",
+      "sourceType": "secondary_meme_history",
+      "importance": 5,
+      "originalDateType": "related_thread_creation_not_copypasta_first_post",
+      "verificationStatus": "secondary_source_only"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Exact dated historical evidence. Distinguish creation, first surviving post, and spread; record source quality.",
-    "currentDistinctMonthDays": 164
+    "policy": "Only grounded exact dates. Differentiate first thread, first copypasta, and later diffusion; mark secondary-only.",
+    "currentDistinctMonthDays": 165
   }
 }

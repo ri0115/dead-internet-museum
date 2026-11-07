@@ -8029,6 +8029,50 @@
       "source": "https://originalnews.nico/92763",
       "sourceType": "platform_editorial_retrospective",
       "importance": 5
+    },
+    {
+      "id": "okkusenman-comment-origin-2007-01-22",
+      "date": "2007-01-22",
+      "title": "「おっくせんまん！」の原型コメントが投稿される",
+      "category": "ネットミーム・コメント文化",
+      "region": "日本",
+      "summary": "ニコニコ動画β時代の『ロックマン2』プレイ動画で、後に『思い出はおっくせんまん！』となるフレーズの原型が2007年1月22日にコメントされたと、当時の用語辞典が記録。歌詞全体の完成日ではない。",
+      "source": "https://w.atwiki.jp/nicoten/pages/191.html",
+      "sourceType": "contemporary_fan_documentation",
+      "importance": 5
+    },
+    {
+      "id": "okkusenman-gom-sm83-2007-03-06",
+      "date": "2007-03-06",
+      "title": "ゴム版「おっくせんまん！」（sm83）が投稿",
+      "category": "ネットミーム・歌ってみた",
+      "region": "日本",
+      "summary": "ロックマン2のワイリーステージ曲にネットユーザーが作った歌詞を付けた『思い出はおっくせんまん！』のゴム歌唱版がSMILEVIDEOに投稿。歌ってみた・弾幕文化の代表作。SMILEVIDEO上の投稿日と原型歌詞の成立日は区別する。",
+      "source": "https://nicoranweb.com/watch/sm83",
+      "sourceType": "platform_metadata_mirror",
+      "importance": 5
+    },
+    {
+      "id": "kishimen-hq-2007-04-29",
+      "date": "2007-04-29",
+      "title": "「きしめん」高画質版がニコニコ動画に投稿",
+      "category": "ネットミーム・空耳",
+      "region": "日本",
+      "summary": "『Nursery Rhyme』の主題歌『true my heart』の空耳で知られる『きしめん』の高画質版が投稿され、弾幕コメントとともに定番化。楽曲自体の発売日や空耳の初出日とは区別する。",
+      "source": "https://zawatto.com/meme/kishimen/",
+      "sourceType": "retrospective_explainer",
+      "importance": 5
+    },
+    {
+      "id": "niconico-medley-ten-million-2017-06-22",
+      "date": "2017-06-22",
+      "title": "「組曲『ニコニコ動画』」が1000万再生を突破",
+      "category": "動画・ニコニコ文化",
+      "region": "日本",
+      "summary": "2007年6月23日投稿の『組曲『ニコニコ動画』』が10周年を目前に1000万再生を達成。ファンの再生・コメントが集中し、ランキング1位にも浮上した。",
+      "source": "https://nlab.itmedia.co.jp/cont/articles/3268555/",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
     }
   ],
   "coverage": {

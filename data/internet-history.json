@@ -7470,14 +7470,14 @@
       "importance": 5
     },
     {
-      "id": "slate-online-magazine-launch-1996-06-25",
-      "date": "1996-06-25",
+      "id": "slate-online-magazine-launch-1996-06-24",
+      "date": "1996-06-24",
       "title": "ウェブ雑誌「Slate」が創刊",
       "category": "メディア・個人サイト",
       "region": "世界",
-      "summary": "Microsoftの支援でオンライン雑誌Slateが創刊。ウェブ上の編集・論評メディアが広がる初期の事例。",
-      "source": "https://thehistoryoftheweb.com/timeline/?date_from=all",
-      "sourceType": "web_history_timeline",
+      "summary": "Microsoftがウェブ雑誌Slateの創刊号を公開。Microsoftの1996年6月24日付公式発表で同日正午（米太平洋時間）の公開を明記。6月25日は翌日の報道日であり創刊日ではない。",
+      "source": "https://news.microsoft.com/source/1996/06/24/inaugural-issue-of-slate-new-interactive-magazine-from-microsoft-and-editor-michael-kinsley-to-debut-online-today/",
+      "sourceType": "operator",
       "importance": 3
     },
     {
@@ -7512,11 +7512,33 @@
       "source": "https://wiki.mozilla.org/Timeline",
       "sourceType": "operator",
       "importance": 4
+    },
+    {
+      "id": "itunes-music-store-us-launch-2003-04-28",
+      "date": "2003-04-28",
+      "title": "iTunes Music Storeが米国でサービス開始",
+      "category": "音楽・ネット文化",
+      "region": "世界",
+      "summary": "Appleが1曲99セントで音楽を購入・ダウンロードできるiTunes Music Storeを開始。日本でのサービス開始日とは異なる。",
+      "source": "https://www.apple.com/newsroom/2003/04/28Apple-Launches-the-iTunes-Music-Store/",
+      "sourceType": "operator",
+      "importance": 5
+    },
+    {
+      "id": "amazon-online-bookstore-launch-1995-07-16",
+      "date": "1995-07-16",
+      "title": "Amazon.comがオンライン書店として正式公開",
+      "category": "ウェブサービス",
+      "region": "世界",
+      "summary": "Amazon.comがオンライン書店として正式に公開された日。Amazonの公式沿革は1995年7月開業とし、地域史研究などが7月16日を正式公開日として記録。",
+      "source": "https://www.historylink.org/File/23230",
+      "sourceType": "historical_record",
+      "importance": 5
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 314
+    "currentDistinctMonthDays": 315
   }
 }

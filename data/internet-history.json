@@ -3391,11 +3391,89 @@
       "importance": 4,
       "originalDateType": "site_notice_date",
       "verificationStatus": "contemporary_report_confirmed"
+    },
+    {
+      "id": "samurai-damashii-launch-2001",
+      "date": "2001-01-18",
+      "title": "テキストサイト「侍魂」が開設",
+      "category": "個人サイト・テキストサイト",
+      "region": "日本",
+      "summary": "フォントの大小や色を使った文章演出と『先行者』ネタで爆発的な人気を得たテキストサイト『侍魂』が開設。既収録の先行者記事公開日とは別の出来事。",
+      "source": "https://fishq.ifdef.jp/trash/webtexthist.html",
+      "sourceType": "historical_text_site_chronology",
+      "importance": 5,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_chronology_needs_original_log_check"
+    },
+    {
+      "id": "ore-news-launch-2000",
+      "date": "2000-09-13",
+      "title": "個人ニュースサイト「俺ニュース」が始動",
+      "category": "個人サイト・ニュースサイト",
+      "region": "日本",
+      "summary": "孫ニュースサイトの先駆け『俺ニュース』が始動。閉鎖前に公開された全ログにより開始日が確認されたとするテキストサイト年表に基づく。",
+      "source": "https://fishq.ifdef.jp/trash/webtexthist.html",
+      "sourceType": "historical_text_site_chronology",
+      "importance": 5,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_chronology_needs_original_log_check"
+    },
+    {
+      "id": "numeri-launch-2001",
+      "date": "2001-10-22",
+      "title": "テキストサイト「NUMERI」が開設",
+      "category": "個人サイト・テキストサイト",
+      "region": "日本",
+      "summary": "2000年代の個人テキストサイトを代表する『NUMERI』が開設。後のネット上の共同企画やテキストサイト文化を支えた。",
+      "source": "https://fishq.ifdef.jp/trash/webtexthist.html",
+      "sourceType": "historical_text_site_chronology",
+      "importance": 5,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_chronology_needs_original_log_check"
+    },
+    {
+      "id": "music-machine-launch-2001",
+      "date": "2001-10-18",
+      "title": "音楽系個人ニュースサイト「ミュージックマシーン」が開設",
+      "category": "個人サイト・音楽ニュース",
+      "region": "日本",
+      "summary": "音楽情報を集める個人ニュースサイト『ミュージックマシーン』が開設。音楽ニュースを個人の編集で紹介する文化の代表例。",
+      "source": "https://fishq.ifdef.jp/trash/webtexthist.html",
+      "sourceType": "historical_text_site_chronology",
+      "importance": 4,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_chronology_needs_original_log_check"
+    },
+    {
+      "id": "nikki-sajin-beta-2000",
+      "date": "2000-11-22",
+      "title": "ウェブ日記リンク集「日記才人」ベータ版が始動",
+      "category": "個人サイト・ネット日記",
+      "region": "日本",
+      "summary": "ウェブ日記リンク集『日記猿人』の後継サービス『日記才人』がベータ版を開始。正式稼働は2001年1月1日と区別。",
+      "source": "https://fishq.ifdef.jp/trash/webtexthist.html",
+      "sourceType": "historical_text_site_chronology",
+      "importance": 4,
+      "originalDateType": "beta_service_launch",
+      "verificationStatus": "secondary_chronology_needs_original_log_check"
+    },
+    {
+      "id": "jotei-text-launch-2001",
+      "date": "2001-05-17",
+      "title": "フォント弄り系テキストサイト「女帝」が開設",
+      "category": "個人サイト・テキストサイト",
+      "region": "日本",
+      "summary": "フォントの大小・色・改行を駆使するテキストサイト『女帝』が開設。2001年10月18日に閉鎖したと年表に記録される。",
+      "source": "https://fishq.ifdef.jp/trash/webtexthist.html",
+      "sourceType": "historical_text_site_chronology",
+      "importance": 4,
+      "originalDateType": "reported_site_opening",
+      "verificationStatus": "secondary_chronology_needs_original_log_check"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Exact-day sourced milestones only; label secondary date evidence and distinguish site closure from server migration. HTML deferred.",
-    "currentDistinctMonthDays": 203
+    "policy": "Distinct month-day coverage, not source-verified completeness. Secondary chronologies flagged for primary-source audit; no HTML update.",
+    "currentDistinctMonthDays": 206
   }
 }

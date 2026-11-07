@@ -2728,11 +2728,76 @@
       "importance": 5,
       "originalDateType": "event_held",
       "verificationStatus": "historical_research"
+    },
+    {
+      "id": "chiba-shiga-saga-iiaccess-2003",
+      "date": "2003-01-14",
+      "title": "空耳Flash「千葉！滋賀！佐賀！」が新作として紹介される",
+      "category": "Flash・空耳・ネットミーム",
+      "region": "日本",
+      "summary": "Flash紹介サイト「イイ・アクセス」がA'lmegist制作の「千葉！滋賀！佐賀！」を新作として紹介した日。作品自体の初公開日とは断定しない。",
+      "source": "https://iiaccess.net/2003/01/14",
+      "sourceType": "contemporary_flash_index",
+      "importance": 5,
+      "originalDateType": "contemporary_first_known_coverage",
+      "verificationStatus": "contemporary_source_confirmed"
+    },
+    {
+      "id": "maiyahi-2ch-thread-2004",
+      "date": "2004-10-05",
+      "title": "2ちゃんねるに「ﾏｲﾔﾋ-ﾏｲﾔﾊｯﾊ-」スレッド登場",
+      "category": "Flash・空耳・掲示板",
+      "region": "日本",
+      "summary": "O-Zoneの楽曲をめぐる空耳Flash「マイヤヒ」の人気が掲示板へ広がったことを示す記録。Flash作品そのものの初公開日ではない。",
+      "source": "https://blog.livedoor.jp/sakuraba_izl/archives/cat_851576.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 5,
+      "originalDateType": "forum_thread_creation",
+      "verificationStatus": "historical_research_secondary"
+    },
+    {
+      "id": "maiyahi-guideline-2004",
+      "date": "2004-10-09",
+      "title": "「マイヤヒーのガイドライン」スレッド登場",
+      "category": "Flash・空耳・有名コピペ",
+      "region": "日本",
+      "summary": "マイヤヒ空耳を素材にしたガイドラインスレッドが登場。Flashの流行と掲示板での改変・共有文化が結び付いた例。",
+      "source": "https://blog.livedoor.jp/sakuraba_izl/archives/cat_851576.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 4,
+      "originalDateType": "forum_thread_creation",
+      "verificationStatus": "historical_research_secondary"
+    },
+    {
+      "id": "maiyahi-ikarike-2004",
+      "date": "2004-10-22",
+      "title": "「碇家。」版マイヤヒ空耳Flashが制作される",
+      "category": "Flash・空耳・ネットミーム",
+      "region": "日本",
+      "summary": "マイヤヒの代表的な空耳Flashの一つ「碇家。」版が制作されたと記録される日。わた氏版とは別作品。",
+      "source": "https://blog.livedoor.jp/sakuraba_izl/archives/cat_851576.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 4,
+      "originalDateType": "derivative_flash_creation",
+      "verificationStatus": "historical_research_secondary"
+    },
+    {
+      "id": "maiyahi-cd-2005",
+      "date": "2005-03-02",
+      "title": "「DISCO-ZONE～恋のマイアヒ～」国内発売",
+      "category": "Flash・空耳・音楽",
+      "region": "日本",
+      "summary": "O-Zoneの楽曲が日本でCD発売。わた氏の空耳FlashがCD-Extraに収録され、個人制作Flashと商業音楽が接続した節目。",
+      "source": "https://blog.livedoor.jp/sakuraba_izl/archives/cat_851576.html",
+      "sourceType": "web_culture_historical_research",
+      "importance": 5,
+      "originalDateType": "commercial_release",
+      "verificationStatus": "historical_research_secondary"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Use date-specific historical evidence; distinguish original release from reupload and retrospective. Site HTML deferred.",
-    "currentDistinctMonthDays": 173
+    "policy": "Exact date and citation; distinguish original release, contemporary coverage, thread creation and commercial release; mark source quality. HTML publication deferred.",
+    "currentDistinctMonthDays": 176
   }
 }

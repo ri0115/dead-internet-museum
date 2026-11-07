@@ -356,11 +356,242 @@
       "source": "https://ascii.jp/elem/000/000/019/19529/",
       "sourceType": "contemporary_report",
       "importance": 4
+    },
+    {
+      "id": "jpnic-1972-03-26-197201",
+      "date": "1972-03-26",
+      "title": "IANA機能に関するRFCが発行",
+      "category": "ネットワーク基盤",
+      "region": "世界",
+      "summary": "インターネット資源管理の源流となるRFCが発行された。",
+      "source": "https://www.nic.ad.jp/timeline/#197201",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1983-01-01-198306",
+      "date": "1983-01-01",
+      "title": "ARPANETがTCP/IPへ移行",
+      "category": "ネットワーク基盤",
+      "region": "世界",
+      "summary": "ARPANETでTCP/IPが標準プロトコルとして採用された。",
+      "source": "https://www.nic.ad.jp/timeline/#198306",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1985-03-15-198502",
+      "date": "1985-03-15",
+      "title": "最初の.comドメイン「symbolics.com」が登録",
+      "category": "ドメイン",
+      "region": "世界",
+      "summary": "symbolics.comが登録され、商用ドメイン名の歴史的な節目となった。",
+      "source": "https://www.nic.ad.jp/timeline/#198502",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1986-08-05-198606",
+      "date": "1986-08-05",
+      "title": "日本に.jpドメインが委任",
+      "category": "ドメイン",
+      "region": "日本",
+      "summary": "IANAから日本へ国別トップレベルドメイン.jpが委任された。",
+      "source": "https://www.nic.ad.jp/timeline/#198606",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1988-08-02-198803",
+      "date": "1988-08-02",
+      "title": "IPパケットが太平洋を横断",
+      "category": "ネットワーク基盤",
+      "region": "日本",
+      "summary": "NTTによってIPパケットが初めて太平洋を越えたとされる。",
+      "source": "https://www.nic.ad.jp/timeline/#198803",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1988-11-02-198804",
+      "date": "1988-11-02",
+      "title": "モリスワームが拡散",
+      "category": "セキュリティ事件",
+      "region": "世界",
+      "summary": "初期インターネットで大規模なワーム感染が発生した。",
+      "source": "https://www.nic.ad.jp/timeline/#198804",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1990-02-28-199002",
+      "date": "1990-02-28",
+      "title": "ARPANETが終了",
+      "category": "ネットワーク基盤",
+      "region": "世界",
+      "summary": "インターネットの前身となったARPANETが終了した。",
+      "source": "https://www.nic.ad.jp/timeline/#199002",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1991-12-01-199105",
+      "date": "1991-12-01",
+      "title": "JNIC設立、JPドメイン登録管理を移管",
+      "category": "ネットワーク基盤",
+      "region": "日本",
+      "summary": "JPドメイン名の登録管理がjunet-adminからJNICへ移管された。",
+      "source": "https://www.nic.ad.jp/timeline/#199105",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1992-06-08-199203",
+      "date": "1992-06-08",
+      "title": "JNICがIPアドレス管理を引き継ぐ",
+      "category": "ネットワーク基盤",
+      "region": "日本",
+      "summary": "ネットワークアドレス調整委員会からIPアドレス割り当て・管理を継承。",
+      "source": "https://www.nic.ad.jp/timeline/#199203",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1992-09-01-199206",
+      "date": "1992-09-01",
+      "title": "WIDEとPC-VAN・NIFTY-Serveが相互接続実験",
+      "category": "パソコン通信",
+      "region": "日本",
+      "summary": "学術ネットワークとパソコン通信サービスの相互接続実験が始まった。",
+      "source": "https://www.nic.ad.jp/timeline/#199206",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1992-09-30-199207",
+      "date": "1992-09-30",
+      "title": "KEKが日本初期のWebサイトを公開",
+      "category": "Webの歴史",
+      "region": "日本",
+      "summary": "高エネルギー物理学研究所（KEK）で日本初のWebサイトが誕生したとJPNIC年表が記録。",
+      "source": "https://www.nic.ad.jp/timeline/#199207",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1993-04-09-199304",
+      "date": "1993-04-09",
+      "title": "JPNICへ改組",
+      "category": "ネットワーク基盤",
+      "region": "日本",
+      "summary": "ネットワークプロジェクトを会員とする任意団体JPNICへ改組された。",
+      "source": "https://www.nic.ad.jp/timeline/#199304",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1994-04-20-199406",
+      "date": "1994-04-20",
+      "title": "WebCrawlerが稼働開始",
+      "category": "検索",
+      "region": "世界",
+      "summary": "初期の全文検索エンジンWebCrawlerが稼働を開始した。",
+      "source": "https://www.nic.ad.jp/timeline/#199406",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1994-10-01-199420",
+      "date": "1994-10-01",
+      "title": "リムネットが商用ISPサービスを開始",
+      "category": "インターネット普及",
+      "region": "日本",
+      "summary": "日本の初期商用インターネット接続サービスの一つが開始された。",
+      "source": "https://www.nic.ad.jp/timeline/#199420",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1995-02-01-199503",
+      "date": "1995-02-01",
+      "title": "NECがインターネット接続サービス「mesh」を開始",
+      "category": "インターネット普及",
+      "region": "日本",
+      "summary": "NECが商用インターネット接続サービスmeshを開始した。",
+      "source": "https://www.nic.ad.jp/timeline/#199503",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1995-08-24-199516",
+      "date": "1995-08-24",
+      "title": "Windows 95とInternet Explorer 1.0が米国で発表",
+      "category": "ブラウザ・OS",
+      "region": "世界",
+      "summary": "MicrosoftがWindows 95とInternet Explorer 1.0を発表。日本語版の発売日とは異なる。",
+      "source": "https://www.nic.ad.jp/timeline/#199516",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1995-09-14-199522",
+      "date": "1995-09-14",
+      "title": "InterNICが.comなどの登録を有料化",
+      "category": "ドメイン",
+      "region": "世界",
+      "summary": "InterNICが.com/.net/.orgの登録申請を有料化した。",
+      "source": "https://www.nic.ad.jp/timeline/#199522",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1995-11-23-199525",
+      "date": "1995-11-23",
+      "title": "日本語版Windows 95発売",
+      "category": "インターネット普及",
+      "region": "日本",
+      "summary": "日本語版Windows 95が発売され、家庭でのインターネット普及を後押しした。",
+      "source": "https://www.nic.ad.jp/timeline/#199525",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1996-07-04-199606",
+      "date": "1996-07-04",
+      "title": "Hotmailサービス開始",
+      "category": "Webサービス",
+      "region": "世界",
+      "summary": "WebメールサービスHotmailが開始された。",
+      "source": "https://www.nic.ad.jp/timeline/#199606",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1996-07-12-199605",
+      "date": "1996-07-12",
+      "title": "BIGLOBEサービス開始",
+      "category": "インターネット普及",
+      "region": "日本",
+      "summary": "NECがBIGLOBEのサービスを開始した。",
+      "source": "https://www.nic.ad.jp/timeline/#199605",
+      "sourceType": "historical_timeline",
+      "importance": 4
+    },
+    {
+      "id": "jpnic-1996-12-25-199625",
+      "date": "1996-12-25",
+      "title": "OCNインターネット接続サービス開始",
+      "category": "インターネット普及",
+      "region": "日本",
+      "summary": "NTTによるOCNの提供が始まり、常時接続の選択肢が広がった。",
+      "source": "https://www.nic.ad.jp/timeline/#199625",
+      "sourceType": "historical_timeline",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Only sourced exact-day internet history events; disputed dates and report dates are annotated; no filler. HTML updates deferred.",
-    "currentDistinctMonthDays": 28
+    "policy": "Exact-day, sourced, relevant internet events only. HTML deferred.",
+    "currentDistinctMonthDays": 49
   }
 }

@@ -7138,11 +7138,44 @@
       "source": "https://panora.tokyo/archives/51620",
       "sourceType": "contemporary_reporting",
       "importance": 4
+    },
+    {
+      "id": "voicevox-release-2021-08-01",
+      "date": "2021-08-01",
+      "title": "無料音声合成ソフト「VOICEVOX」初公開、ずんだもん音声が登場",
+      "category": "動画・音楽文化",
+      "region": "日本",
+      "summary": "ヒホ（ヒロシバ）が無料で使える音声合成ソフトVOICEVOXの初版を公開。初期音声ライブラリに四国めたんとずんだもんを収録。2022年の『ずんだもん』流行やニコニコ賞受賞より前の技術・創作基盤として記録する。",
+      "source": "https://pc.watch.impress.co.jp/docs/news/1341708.html",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
+    },
+    {
+      "id": "mgsv-doctor-meme-january-2022-01-04",
+      "date": "2022-01-04",
+      "title": "「いいですか、落ち着いて聞いてください」医師画像の大喜利投稿が拡散",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "『METAL GEAR SOLID V』冒頭の医師画像に『正月休みは、終わりました』と添えた投稿が拡散。元投稿のX表示日は1月4日（記事によって1月5日との記述もある）。元のゲーム内台詞とネットミームの文言は同一ではなく、ミーム全体の初出も断定できない。",
+      "source": "https://x.com/sunaneko_ZEON/status/1478493405953298432",
+      "sourceType": "historical_record",
+      "importance": 5
+    },
+    {
+      "id": "mgsv-meme-cupnoodle-2023-09-08",
+      "date": "2023-09-08",
+      "title": "日清カップヌードルが「落ち着いて聞いてください」ミームを公式CMに採用",
+      "category": "ネットのおもちゃ",
+      "region": "日本",
+      "summary": "日清食品の公式Xが、MGSVの医師画像をもとにしたネットミームをオマージュしたWeb CMを公開。ゲーム本編と同じ声優・大塚芳忠が出演し、原作クリエイター小島秀夫も反応。2022年のSNS流行とは区別する。",
+      "source": "https://www.itmedia.co.jp/news/article/2309/08/1230908176/",
+      "sourceType": "contemporary_reporting",
+      "importance": 5
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Distinct MM-DD coverage is not fully independently audited. Source-grounded exact dates; distinguish channel creation vs launch, original posts vs commercial announcement. HTML unchanged.",
-    "currentDistinctMonthDays": 298
+    "currentDistinctMonthDays": 299
   }
 }

@@ -2969,11 +2969,77 @@
       "importance": 5,
       "originalDateType": "board_opening",
       "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "2ch-august-crisis-2001",
+      "date": "2001-08-25",
+      "title": "2ちゃんねる「8月危機」・閉鎖騒動が深刻化",
+      "category": "掲示板・ネット事件",
+      "region": "日本",
+      "summary": "転送量増大による運営危機のなか、8月25日未明に運営関係者の投稿があり、板の閉鎖・移転や転送量削減の取り組みが進んだ。サービス全体の閉鎖日ではない。",
+      "source": "https://2chyougo.seesaa.net/article/438499180.html",
+      "sourceType": "historical_forum_glossary",
+      "importance": 5,
+      "originalDateType": "timestamped_operator_post",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "nomaneko-reported-2005",
+      "date": "2005-09-09",
+      "title": "「のまネコ」と「モナー」の類似問題が報道される",
+      "category": "AA・ネット祭り・著作権",
+      "region": "日本",
+      "summary": "ITmediaが、恋のマイアヒの映像に登場する『のまネコ』と掲示板発のAA『モナー』の類似をめぐる論争を報道。騒動そのものの発生日ではなく当時の報道日。",
+      "source": "https://www.itmedia.co.jp/news/article/0509/09/1050909088/",
+      "sourceType": "contemporary_report",
+      "importance": 5,
+      "originalDateType": "contemporary_news_publication",
+      "verificationStatus": "contemporary_source_confirmed"
+    },
+    {
+      "id": "nomatako-question-2005",
+      "date": "2005-09-24",
+      "title": "ひろゆき氏が「のまタコ」公開質問状を発表",
+      "category": "AA・ネット祭り・著作権",
+      "region": "日本",
+      "summary": "のまネコ騒動のなか、2ちゃんねる管理人が『のまタコ』の商標・グッズ展開に関する質問状をエイベックスに公開。9月25日付報道では質問状の日付が9月24日とされる。",
+      "source": "https://www.itmedia.co.jp/news/article/0509/25/1050925001/",
+      "sourceType": "contemporary_report",
+      "importance": 5,
+      "originalDateType": "open_letter_date",
+      "verificationStatus": "contemporary_source_confirmed"
+    },
+    {
+      "id": "nomaneko-trademark-2005",
+      "date": "2005-09-30",
+      "title": "エイベックスが「のまネコ」商標出願取り下げを発表",
+      "category": "AA・ネット祭り・著作権",
+      "region": "日本",
+      "summary": "エイベックスが図形商標出願の取り下げ要請と、マイアヒFlash特典を今後収録しない方針を発表。ネット発の共同創作物と企業の商品化をめぐる象徴的事件。",
+      "source": "https://internet.watch.impress.co.jp/cda/news/2005/09/30/9316.html",
+      "secondarySource": "https://www.itmedia.co.jp/news/article/0509/30/1050930080/",
+      "sourceType": "contemporary_report",
+      "importance": 5,
+      "originalDateType": "company_announcement",
+      "verificationStatus": "contemporary_sources_confirmed"
+    },
+    {
+      "id": "nomaneko-royalty-2005",
+      "date": "2005-10-12",
+      "title": "エイベックスが「のまネコ」使用料辞退を決定",
+      "category": "AA・ネット祭り・著作権",
+      "region": "日本",
+      "summary": "エイベックスがのまネコグッズのキャラクター使用料を受け取らない方針を決定。翌13日に報道された。",
+      "source": "https://www.itmedia.co.jp/news/article/0510/13/1051013005/",
+      "sourceType": "contemporary_report",
+      "importance": 4,
+      "originalDateType": "company_decision_date",
+      "verificationStatus": "contemporary_source_confirmed"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Date-grounded culturally notable events; distinguish earliest surviving appearance, spread, board creation and controversy. Flag secondary sources; do not update HTML.",
-    "currentDistinctMonthDays": 186
+    "policy": "Only dated, source-grounded milestones. Distinguish event, publication, announcement and follow-up. Secondary-only entries marked. HTML publication deferred.",
+    "currentDistinctMonthDays": 188
   }
 }

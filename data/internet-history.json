@@ -2889,11 +2889,91 @@
       "importance": 5,
       "originalDateType": "origin_thread_creation",
       "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "mona-test-thread-2000",
+      "date": "2000-01-03",
+      "title": "AA「モナー」の初期形が2ちゃんねるに投稿",
+      "category": "AA・掲示板・ネットミーム",
+      "region": "日本",
+      "summary": "厨房板「てすと」スレッドに後のモナーへつながる丸耳のAAが投稿されたとされる日。AAの源流は他掲示板にもあり、キャラクターの完全な初出と断定しない。",
+      "source": "https://websitemap.sakura.ne.jp/monograph/monograph10.html",
+      "secondarySource": "https://knowyourmeme.com/memes/mona-%E3%83%A2%E3%83%8A%E3%83%BC",
+      "sourceType": "historical_web_culture_research",
+      "importance": 5,
+      "originalDateType": "earliest_known_2ch_appearance",
+      "verificationStatus": "multiple_secondary_sources"
+    },
+    {
+      "id": "mona-omaemona-2000",
+      "date": "2000-01-05",
+      "title": "「オマエモナー」の定型句が広がる",
+      "category": "AA・有名コピペ・掲示板",
+      "region": "日本",
+      "summary": "モナーが掲示板内に増殖し『オマエモナー』のセリフが確認できると当時の2ちゃんねる年表に記録。",
+      "source": "https://blog.livedoor.jp/sakuraba_izl/archives/cat_851576.html",
+      "sourceType": "historical_research_quoting_contemporary_chronology",
+      "importance": 5,
+      "originalDateType": "documented_spread",
+      "verificationStatus": "secondary_with_contemporary_chronology"
+    },
+    {
+      "id": "mona-board-launch-2000",
+      "date": "2000-06-08",
+      "title": "2ちゃんねるにモナー板が誕生",
+      "category": "AA・掲示板・ネット文化",
+      "region": "日本",
+      "summary": "AAキャラクターやストーリー作品の集積地となる『モナー大好き掲示板』が開設された。",
+      "source": "https://blog.livedoor.jp/sakuraba_izl/archives/cat_851576.html",
+      "sourceType": "historical_web_culture_research",
+      "importance": 5,
+      "originalDateType": "board_opening",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "giko-takara-thread-2002",
+      "date": "2002-06-02",
+      "title": "「ギコ猫」商標出願をめぐる2ちゃんねるの騒動が始まる",
+      "category": "AA・ネット祭り・ネット事件",
+      "region": "日本",
+      "summary": "17時53分、ニュース速報板にタカラによるギコ猫商標出願を知らせるスレッドが立ち、ネット発キャラクターの権利をめぐる大きな騒動に発展。出願日3月12日とは区別。",
+      "source": "https://blog.livedoor.jp/sakuraba_izl/archives/cat_851576.html",
+      "secondarySource": "https://www.wdic.org/w/WDIC/%E3%82%AE%E3%82%B3%E7%8C%AB",
+      "sourceType": "historical_research_quoting_timestamped_thread",
+      "importance": 5,
+      "originalDateType": "forum_thread_creation",
+      "verificationStatus": "timestamped_thread_quote"
+    },
+    {
+      "id": "sasuga-brothers-2002",
+      "date": "2002-09-07",
+      "title": "AA「流石兄弟」の初出スレッドが登場",
+      "category": "AA・掲示板・ネットミーム",
+      "region": "日本",
+      "summary": "モナー板のスレッドに、PCを前にした兄者・弟者の原型となるAAが登場したとされる。",
+      "source": "https://w.atwiki.jp/aacharadic/pages/185.html",
+      "sourceType": "community_character_archive",
+      "importance": 4,
+      "originalDateType": "reported_first_thread",
+      "verificationStatus": "secondary_source_only"
+    },
+    {
+      "id": "flash-board-2002",
+      "date": "2002-01-17",
+      "title": "2ちゃんねるにFLASH・動画板が誕生",
+      "category": "Flash・掲示板・ネット文化",
+      "region": "日本",
+      "summary": "Flash作品の発表・交流の中心となったFLASH・動画掲示板が開設。職人文化の発展を支えた。",
+      "source": "https://blog.livedoor.jp/sakuraba_izl/archives/cat_851576.html",
+      "sourceType": "historical_web_culture_research",
+      "importance": 5,
+      "originalDateType": "board_opening",
+      "verificationStatus": "secondary_source_only"
     }
   ],
   "coverage": {
     "targetDays": 366,
-    "policy": "Use exact-dated evidence. Distinguish origin posts and related threads; flag secondary-only records. HTML publication deferred.",
-    "currentDistinctMonthDays": 182
+    "policy": "Date-grounded culturally notable events; distinguish earliest surviving appearance, spread, board creation and controversy. Flag secondary sources; do not update HTML.",
+    "currentDistinctMonthDays": 186
   }
 }

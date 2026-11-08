@@ -8920,11 +8920,33 @@
       "source": "https://www.w3.org/People/Berners-Lee/History.html",
       "sourceType": "creator_primary_timeline",
       "importance": 4
+    },
+    {
+      "id": "stratospheric-wifi-airship-plan-reported-2002-11-29",
+      "date": "2002-11-29",
+      "title": "飛行船で米国全土にWi-Fiを届ける構想が報じられる",
+      "category": "ネット文化・珍計画",
+      "region": "世界",
+      "summary": "成層圏の飛行船に無線LANアクセスポイントを搭載し、米国全土をカバーするという大胆な構想をINTERNET Watchが紹介。実用化日ではなく記事掲載日。",
+      "source": "https://internet.watch.impress.co.jp/docs/imreboot/today/1093743.html",
+      "sourceType": "contemporary_reporting_date",
+      "importance": 3
+    },
+    {
+      "id": "jpo-trademark-search-announcement-1998-07-23",
+      "date": "1998-07-23",
+      "title": "特許庁がインターネット商標検索サービスを発表",
+      "category": "日本のインターネット史",
+      "region": "日本",
+      "summary": "特許庁による商標検索サービスの開始発表が報じられた日。1990年代後半、行政情報がネットで検索可能になっていく過程の一幕。サービスの稼働開始日とは区別する。",
+      "source": "https://internet.watch.impress.co.jp/www/backno/9807.htm",
+      "sourceType": "contemporary_reporting_date",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 358
+    "currentDistinctMonthDays": 360
   }
 }

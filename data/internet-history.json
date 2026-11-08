@@ -8964,11 +8964,22 @@
       "source": "https://internet.watch.impress.co.jp/static/index/2007/12/17/",
       "sourceType": "contemporary_news_archive",
       "importance": 4
+    },
+    {
+      "id": "mapion-3d-map-experiment-2007-01-16",
+      "date": "2007-01-16",
+      "title": "マピオンがブラウザで歩ける3D地図の実証実験を開始",
+      "category": "日本のインターネット史",
+      "region": "日本",
+      "summary": "マピオンとキャドセンターが、専用ソフトやプラグインなしで3Dの街並みを表示し、2D地図と連動させる「Mapion3D Map」の実証実験をMapion Labsで開始。銀座の街を仮想散策できた。",
+      "source": "https://www.value-press.com/pressrelease/11278",
+      "sourceType": "operator_press_release",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 362
+    "currentDistinctMonthDays": 363
   }
 }

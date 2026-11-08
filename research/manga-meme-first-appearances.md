@@ -238,3 +238,19 @@
 - 2010-04-12のTwitter引用、2018年・2019年の再利用証拠は https://kimu3.net/20190121/12818 にまとまる。
 - NARUTOコラは2017-09-23時点で存在 https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14179831214 。2026年解説 https://manga-matome.com/p/38362 はコラの元セリフ「口寄せの術……」とする。**2017年をコラ誕生日としては登録しない**。
 - ユーザー採用13件、除外5件の区別を継続。日付未確定イベントの推測追加はしない。
+
+## 第177次（2026-11-08）｜彼岸島・刃牙・手刀・チャドの横断監査
+
+### 本番登録：彼岸島の丸太が公式企画に
+- **2024-04-15**、週刊ヤングマガジン2024年20号、『彼岸島 48日後…』連載400回記念。しげの秀一、福本伸行らが「祝いの丸太」イラストを寄稿。「みんな丸太は持ったな！」のコピーが公式企画に登場。https://mantan-web.jp/article/20240414dog00m200019000c.html
+- これは**原作初出ではなく公式再利用日**として記録。原作の「みんな丸太は持ったな!! 行くぞォ!!」の初出掲載号は未確定。
+
+### 原作掲載号確認・実売日保留
+- 『グラップラー刃牙』「オイオイオイ／死ぬわアイツ」：原作第1話「ヤツの名は刃牙!!」、週刊少年チャンピオン1991年43号。雑誌の**1991年10月10日号は表紙日付**であり実売日ではない。https://indexindex.net/work_graph.php?order=desc&sort=content_count&work_id=4461&year_from=1986&year_to=2001 ; https://pyuupa.flop.jp/db/dat.cgi?chk=5&key=%EF%BF%BDO%EF%BF%BD%EF%BF%BD%EF%BF%BDb%EF%BF%BDv%EF%BF%BD%EF%BF%BD&rad=c 。初出日未確定につき本番保留。
+- 『HUNTER×HUNTER』「おそろしく速い手刀」：No.096「9月3日⑫」、週刊少年ジャンプ2000年41号。2000年9月25日号は表紙日付。https://www.jajanken.net/sakuhins/b9anmLwOAR/ ; https://indexindex.net/work_graph.php?order=desc&sort=content_count&work_id=6714&year_from=1986&year_to=2001 。本番保留。
+- 『BLEACH』「チャドの霊圧が消えた」：第108話「Time For Scare」、週刊少年ジャンプ2003年48号。2003年11月10日号は表紙日付。https://www.jajanken.net/issues/2003-11-10/ 。本番保留。
+
+### 調査上の規則
+- 雑誌の表紙日付・発行日と実売日は別。発売日が特定できない漫画コマをカレンダーへ日付付きで登録しない。
+- **漫画の原作初出／ネットでの流行・改変／公式による再利用**を別のイベントとして区別する。
+- ユーザー採用13件以外を新規追加しない。

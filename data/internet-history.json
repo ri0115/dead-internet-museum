@@ -8986,11 +8986,33 @@
       "source": "https://www.lycorp.co.jp/ja/news/archive/Y/2000.html",
       "sourceType": "operator_official_press_release",
       "importance": 4
+    },
+    {
+      "id": "winny-beta-release-2002-05-06",
+      "date": "2002-05-06",
+      "title": "Winnyのβ版が公開された日",
+      "category": "日本のネット文化・ソフトウェア",
+      "region": "日本",
+      "summary": "2ちゃんねる発のファイル共有ソフトWinnyのβ版が公開。作者が4月1日に制作意図を表明してから約1か月後の公開で、日本のP2P史の重要な節目。",
+      "source": "https://internet.watch.impress.co.jp/www/article/2003/0131/winny.htm",
+      "sourceType": "contemporary_reporting_retrospective",
+      "importance": 5
+    },
+    {
+      "id": "niconico-bad-apple-temporary-return-2024-06-21",
+      "date": "2024-06-21",
+      "title": "ニコニコ動画で「Bad Apple!!」が一時復活",
+      "category": "日本のネット文化・ニコニコ動画",
+      "region": "日本",
+      "summary": "サイバー攻撃で縮小営業中のニコニコ動画が、視聴可能な動画を2009年の人気作品に入れ替え、影絵PV「Bad Apple!!」などが再び見られるようになった。",
+      "source": "https://nlab.itmedia.co.jp/cont/articles/3380359/",
+      "sourceType": "contemporary_reporting",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 364
+    "currentDistinctMonthDays": 366
   }
 }

@@ -305,7 +305,9 @@ $('genre').innerHTML='<option value="">すべてのジャンル</option>'+genres
 for(const id of ['search','genre','period','sort','scope','eraFilter'])$(id).addEventListener(id==='search'?'input':'change',()=>{visible=48;render()});
 $('bookOnly').onclick=()=>{onlyBookmarks=!onlyBookmarks;visible=48;render()};$('more').onclick=()=>{visible+=48;render()};$('clear').onclick=()=>{for(const id of ['search','genre','period','scope','eraFilter'])$(id).value='';$('sort').value='desc';onlyBookmarks=false;visible=48;render()};
 
-$('export').onclick=()=>{const blob=new Blob([JSme catalog and detail modal.
+render();
+
+// Year Machine — operate on the same catalog and detail modal.
 const TM_MIN=1986, TM_MAX=2026;
 let tmYear=2019;
 const tmBirths=y=>D.filter(r=>validYear(r.start)===y);

@@ -8953,11 +8953,22 @@
       "source": "https://thehistoryoftheweb.com/timeline/",
       "sourceType": "historical_web_timeline",
       "importance": 3
+    },
+    {
+      "id": "niconico-two-million-users-2007-07-27",
+      "date": "2007-07-27",
+      "title": "ニコニコ動画のID登録者数が200万人を突破",
+      "category": "日本のネット文化",
+      "region": "日本",
+      "summary": "ニコニコ動画のID登録者数が200万人を超え、プレミアム会員は5万4000人に。コメント文化が急速に広がった2007年の節目。当日の報道日として記録。",
+      "source": "https://internet.watch.impress.co.jp/static/index/2007/12/17/",
+      "sourceType": "contemporary_news_archive",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 361
+    "currentDistinctMonthDays": 362
   }
 }

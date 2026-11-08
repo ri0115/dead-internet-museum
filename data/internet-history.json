@@ -8887,6 +8887,17 @@
       "source": "https://www.nic.ad.jp/timeline/#199415",
       "sourceType": "jpnic_internet_history_timeline",
       "importance": 4
+    },
+    {
+      "id": "office-dolphin-kairu-retired-2007-01-30",
+      "date": "2007-01-30",
+      "title": "「お前を消す方法」のイルカ、Officeから姿を消す",
+      "category": "ネット文化・懐かしのPC",
+      "region": "日本・世界",
+      "summary": "Microsoft Office 2007が一般向けに発売。Office 97以来親しまれ、日本では「お前を消す方法」のネタでも知られたイルカのカイル君を含むOfficeアシスタント機能が、この版から廃止された。厳密にはイルカの単独終了日ではなく、アシスタント非搭載版の一般発売日。",
+      "source": "https://news.microsoft.com/source/2007/01/29/microsoft-launches-windows-vista-and-microsoft-office-2007-to-consumers-worldwide/",
+      "sourceType": "official_product_launch_crosschecked_with_office_assistant_removal",
+      "importance": 5
     }
   ],
   "coverage": {

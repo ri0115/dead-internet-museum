@@ -8832,11 +8832,44 @@
       "source": "https://www.cbsnews.com/news/almanac-the-dot-com-bubble/",
       "sourceType": "historical_news",
       "importance": 5
+    },
+    {
+      "id": "twitter-trump-permanent-suspension-2021-01-08",
+      "date": "2021-01-08",
+      "title": "Twitterが米大統領のアカウントを永久停止",
+      "category": "SNS・ネット事件",
+      "region": "世界",
+      "summary": "Twitterがトランプ大統領の@realDonaldTrumpアカウントを永久停止すると発表。プラットフォームの投稿規制と公人の発信を巡る議論の象徴となった。停止は2022年に解除。",
+      "source": "https://blog.x.com/en_us/topics/company/2020/suspension?os=avDavDXHup",
+      "sourceType": "official_announcement",
+      "importance": 5
+    },
+    {
+      "id": "microsoft-antitrust-browser-war-1998-05-18",
+      "date": "1998-05-18",
+      "title": "米司法省、ブラウザ戦争を巡りMicrosoftを提訴",
+      "category": "インターネット史",
+      "region": "世界",
+      "summary": "米司法省と州当局がWindowsとInternet Explorerの抱き合わせなどを問題視してMicrosoftを独占禁止法違反で提訴。Netscapeとのブラウザ戦争の転機となった。",
+      "source": "https://www.justice.gov/archive/atr/public/press_releases/1998/1764.htm",
+      "sourceType": "government_primary_source",
+      "importance": 5
+    },
+    {
+      "id": "apple-fifth-avenue-cube-opening-2006-05-19",
+      "date": "2006-05-19",
+      "title": "ガラスの立方体、Apple Store Fifth Avenueが開店",
+      "category": "デジタル文化",
+      "region": "世界",
+      "summary": "ニューヨーク5番街のガラスキューブを入口とするApple直営店が開店。iPodやMacを中心とする2000年代のデジタル文化を象徴する場所となった。インターネットサービス史ではなく周辺のデジタル文化史。",
+      "source": "https://www.apple.com/newsroom/2006/05/18The-Apple-Store-Fifth-Avenue-to-Open-on-Friday-May-19/",
+      "sourceType": "official_press_release",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 352
+    "currentDistinctMonthDays": 355
   }
 }

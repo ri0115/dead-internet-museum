@@ -205,3 +205,20 @@
 - **おそろしく速い手刀**: HUNTER×HUNTER No.096、週刊少年ジャンプ2000年41号は確定。連載データベース https://wonderhunter.xsrv.jp/04-01-02.html では**2000-09-12(火)**と記載。ただし https://indexindex.net/work_graph.php?order=desc&sort=content_count&work_id=6714&year_from=1986&year_to=2001 の2000-09-25は雑誌の表紙日付。実売日の独立照合は未完なので本番保留。
 - **チャドの霊圧が…消えた…？**: BLEACH 第108話「Time For Scare」が2003年48号掲載であることは https://www.jajanken.net/issues/2003-11-10/ で確認。ただしセリフそのものが第108話にあるかの原作照合、号の実売日は未確認。本番保留。
 - **調査優先13件**の採否は第173次のユーザー判定を継続。除外5件を勝手に復活させない。
+
+## 第175次（2026-11-08）｜BLEACH「チャドの霊圧」とHUNTER手刀の追加検証
+
+### BLEACH：チャドの霊圧が消えた
+- 原作：第108話「Time For Scare」、週刊少年ジャンプ**2003年48号**。雑誌目次（文化庁メディア芸術DB由来）https://www.jajanken.net/issues/2003-11-10/ 。原作台詞が該当話にあるという二次資料 https://nan-blog.com/39644 と https://motonator.com/104 。実売日は**未確定**。ジャジャン研の2003-11-10は号の日付で、発売日として登録しない。
+- **アニメの独立した確定日：2005-06-28**。テレビ東京の公式第38話「絶体絶命！折られた斬月」は「チャドの霊圧が消えたことに気付く」と明記し、放送日を2005年6月28日と記載。https://www.tv-tokyo.co.jp/contents/bleach_test2/episodes/episodes3/index.html 。アニメ初出ではなく、当該場面の放送日として扱う。漫画の初出日とは別。
+- ネット定型化：『○○の霊圧が…消えた…？』という他作品への転用や上履き・弁当箱などへの改変例をミーム解説が記録。https://motonator.com/104 。流行の開始日は未特定。
+
+### HUNTER×HUNTER：おそろしく速い手刀
+- 原作：11巻No.096「9月3日⑫」、週刊少年ジャンプ**2000年41号**。https://www.jajanken.net/sakuhins/b9anmLwOAR/ 。第96話と台詞の対応は https://w.atwiki.jp/hxhm/pages/33.html および https://mangalines.com/2020/08/12/1825/ 。
+- 文化庁メディア芸術DB由来の雑誌書誌日付は**2000-09-25**。https://morizaru.net/indexindex/work_graph.php?order=desc&sort=content_count&work_id=6714&year_from=2000&year_to=2002 および https://anime-manga-calendar.com/manga/C110877/ 。これは表紙／奥付の日付で、**実際の店頭発売日とは確認できない**。実売日が独立に確定するまで本番イベントは保留。
+- ネット利用：細部を見抜いた際の定型句として独立したミームに発展。https://w.atwiki.jp/hxhm/pages/33.html 。最初のネット投稿日は不明。
+
+### この次の調査
+- 2003年48号と2000年41号の当時の広告・発売記録（週刊ジャンプ実売日）を探す。
+- 原作の掲載日と、アニメ放送日、ネットでの流行開始日を混同しない。
+- ユーザーが採用した13件以外の漫画ミームを勝手に本番追加しない。

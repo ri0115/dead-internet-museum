@@ -8821,11 +8821,22 @@
       "source": "https://mantan-web.jp/article/20240414dog00m200019000c.html",
       "sourceType": "contemporaneous_editorial_news",
       "importance": 4
+    },
+    {
+      "id": "dotcom-nasdaq-peak-2000-03-10",
+      "date": "2000-03-10",
+      "title": "ドットコム・バブルの頂点、NASDAQが最高値を記録",
+      "category": "インターネット史",
+      "region": "世界",
+      "summary": "インターネット関連企業への投資熱が頂点に達し、NASDAQ総合指数がドットコム・バブル期のピークを記録。後の急落によりネット企業の大量淘汰につながった。",
+      "source": "https://www.cbsnews.com/news/almanac-the-dot-com-bubble/",
+      "sourceType": "historical_news",
+      "importance": 5
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 351
+    "currentDistinctMonthDays": 352
   }
 }

@@ -8865,11 +8865,33 @@
       "source": "https://www.apple.com/newsroom/2006/05/18The-Apple-Store-Fifth-Avenue-to-Open-on-Friday-May-19/",
       "sourceType": "official_press_release",
       "importance": 3
+    },
+    {
+      "id": "att-microsoft-ie-alliance-1996-07-26",
+      "date": "1996-07-26",
+      "title": "AT&TとMicrosoft、Internet Explorer普及で提携",
+      "category": "インターネット史",
+      "region": "世界",
+      "summary": "AT&TとMicrosoftがInternet Explorerの普及を後押しする提携を発表。NetscapeとMicrosoftが争った1990年代のブラウザ戦争の一幕。",
+      "source": "https://www.computerhistory.org/tdih/july/",
+      "sourceType": "computer_history_museum_timeline",
+      "importance": 3
+    },
+    {
+      "id": "japan-prime-minister-web-site-1994-08-06",
+      "date": "1994-08-06",
+      "title": "首相官邸のWebサイトが開設",
+      "category": "日本のインターネット史",
+      "region": "日本",
+      "summary": "日本の首相官邸がWebサイトを開設。行政機関による初期のインターネット情報発信を象徴する出来事としてJPNICの歴史年表に記録されている。",
+      "source": "https://www.nic.ad.jp/timeline/#199415",
+      "sourceType": "jpnic_internet_history_timeline",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 355
+    "currentDistinctMonthDays": 356
   }
 }

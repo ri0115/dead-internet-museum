@@ -8909,11 +8909,22 @@
       "source": "https://ir.group.gmo/en/pdf/irlibrary/disclose_info20040804_e.pdf",
       "sourceType": "operator_official_disclosure",
       "importance": 3
+    },
+    {
+      "id": "www-project-ecp-pt-presentation-1991-02-26",
+      "date": "1991-02-26",
+      "title": "世界初のWebブラウザーを含むWWW計画が研究グループに紹介される",
+      "category": "インターネット史",
+      "region": "世界",
+      "summary": "ティム・バーナーズ＝リーがWorld Wide Web計画をCERNのECP/PTグループに紹介した日。最初のWebブラウザーWorldWideWebは前年に開発されており、この日は一般公開日ではなく計画の発表日。",
+      "source": "https://www.w3.org/People/Berners-Lee/History.html",
+      "sourceType": "creator_primary_timeline",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 357
+    "currentDistinctMonthDays": 358
   }
 }

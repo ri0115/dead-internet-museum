@@ -8975,11 +8975,22 @@
       "source": "https://www.value-press.com/pressrelease/11278",
       "sourceType": "operator_press_release",
       "importance": 3
+    },
+    {
+      "id": "yahoo-japan-calendar-launch-2000-07-13",
+      "date": "2000-07-13",
+      "title": "Yahoo! JAPANが「Yahoo!カレンダー」を開始",
+      "category": "日本のインターネット史",
+      "region": "日本",
+      "summary": "Yahoo! JAPANが無料のオンライン予定管理サービスを提供開始。共有カレンダーやメール通知などを備え、ブラウザーで予定を管理する時代の初期を象徴する。",
+      "source": "https://www.lycorp.co.jp/ja/news/archive/Y/2000.html",
+      "sourceType": "operator_official_press_release",
+      "importance": 4
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 363
+    "currentDistinctMonthDays": 364
   }
 }

@@ -8942,11 +8942,22 @@
       "source": "https://internet.watch.impress.co.jp/www/backno/9807.htm",
       "sourceType": "contemporary_reporting_date",
       "importance": 3
+    },
+    {
+      "id": "funny-or-die-launch-2007-04-17",
+      "date": "2007-04-17",
+      "title": "動画サイト「Funny or Die」が登場",
+      "category": "ネット文化・動画",
+      "region": "世界",
+      "summary": "ウィル・フェレルらによるコメディ動画サイトFunny or Dieが始動。視聴者が動画を評価する仕組みを備え、初期のネット動画文化を象徴するサービスとなった。",
+      "source": "https://thehistoryoftheweb.com/timeline/",
+      "sourceType": "historical_web_timeline",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 360
+    "currentDistinctMonthDays": 361
   }
 }

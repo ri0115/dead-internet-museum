@@ -8898,11 +8898,22 @@
       "source": "https://news.microsoft.com/source/2007/01/29/microsoft-launches-windows-vista-and-microsoft-office-2007-to-consumers-worldwide/",
       "sourceType": "official_product_launch_crosschecked_with_office_assistant_removal",
       "importance": 5
+    },
+    {
+      "id": "sarusaru-diary-gmo-acquisition-agreement-2004",
+      "date": "2004-08-04",
+      "title": "「さるさる日記」買収の基本合意が発表",
+      "category": "日本のネット文化",
+      "region": "日本",
+      "summary": "無料日記サービス「さるさる日記」について、GMO（当時グローバルメディアオンライン）が運営会社との買収基本合意を公表。個人ホームページ・Web日記文化を象徴するサービスの転機。",
+      "source": "https://ir.group.gmo/en/pdf/irlibrary/disclose_info20040804_e.pdf",
+      "sourceType": "operator_official_disclosure",
+      "importance": 3
     }
   ],
   "coverage": {
     "targetDays": 366,
     "policy": "Dates are source-grounded and distinguish launch, announcement, original posts and later reporting. The homepage HISTORY data is synchronized with this canonical JSON.",
-    "currentDistinctMonthDays": 356
+    "currentDistinctMonthDays": 357
   }
 }
